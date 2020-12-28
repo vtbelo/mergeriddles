@@ -92,7 +92,7 @@
     "staging" : {
       "user" : "root",
       "host" : "stands.labsystech.ru",
-      "ref"  : "origin/master",
+      "ref"  : "origin/main",
       "repo" : "git@github.com:vtbelo/mergeriddles.git",
       "path" : "/var/www/html/mergeriddles-staging",
       "post-deploy" : "./cleverapps/update.bash && pm2 delete ecosystem_rest.json --env staging && sleep 1 && db-migrate up --migrations-dir cleverapps/levels/rest/migrations --env staging && pm2 startOrRestart ecosystem_rest.json --env staging"
@@ -101,7 +101,7 @@
     "release" : {
       "user" : "root",
       "host" : "hetzner3.labsystech.ru",
-      "ref"  : "origin/master",
+      "ref"  : "origin/main",
       "repo" : "git@github.com:vtbelo/mergeriddles.git",
       "path" : "/var/www/html/release/mergeriddles-server",
       "post-deploy" : "./cleverapps/update.bash && pm2 delete ecosystem_rest.json --env release && sleep 5 && db-migrate up --migrations-dir cleverapps/levels/rest/migrations --env release && pm2 startOrRestart ecosystem_rest.json --env release && node /root/cleverapps/common/bots/sendmsg.js mergeriddles-server"
