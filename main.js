@@ -1,0 +1,1 @@
+../cleverapps/main.js
