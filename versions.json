@@ -1,8 +1,14 @@
 {
-    "0.0.1": {
+    "1.0.1": {
         "event": "12/28/2020",
         "cleverapps": "6452095f4f0cc18a1421d692ec36c2f419aec957",
         "mergeriddles": "6efe79a1c654af3ef787dfd5729e74314bb2ffee",
         "match3": "34fc14f670639515c23258acfdfeaa83637a2209"
+    },
+    "1.0.0": {
+        "event": "2020-12-28",
+        "cleverapps": "00583bbefeb3ef6edebc54ab872e9a077ac41f5b",
+        "mergeriddles": "f4d7c34805800089ba60f6672774c5cce1c17f03",
+        "match3": "892fd8f5bbd8095109dd3e411675e12658fbfd90"
     }
 }

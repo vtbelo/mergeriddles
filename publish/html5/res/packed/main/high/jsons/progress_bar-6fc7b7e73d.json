@@ -1,0 +1,124 @@
+{
+	"skeleton": {
+		"hash": "xdefFS7Dk5GqvDFiFFHOaux2WPk",
+		"spine": "3.7.91",
+		"width": 19,
+		"height": 50,
+		"images": "C:/Users/Админ/Desktop/звезда и баннер/полёт зв на главной/images",
+		"audio": "C:/Users/Админ/Desktop/звезда и баннер/полёт зв на главной"
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "bone2",
+			"parent": "root"
+		},
+		{
+			"name": "bone3",
+			"parent": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "progress_bar_white",
+			"bone": "bone2",
+			"attachment": "progress_bar_white"
+		},
+		{
+			"name": "progress_bar_white2",
+			"bone": "bone3",
+			"attachment": "progress_bar_white"
+		}
+	],
+	"skins": {
+		"default": {
+			"progress_bar_white": {
+				"progress_bar_white": {
+					"width": 19,
+					"height": 50
+				}
+			},
+			"progress_bar_white2": {
+				"progress_bar_white": {
+					"width": 19,
+					"height": 50
+				}
+			}
+		}
+	},
+	"animations": {
+		"animation": {
+			"slots": {
+				"progress_bar_white": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff00"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.4333,
+							"color": "ffffff00"
+						}
+					]
+				},
+				"progress_bar_white2": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff00",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffff00"
+						},
+						{
+							"time": 0.3333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.6,
+							"color": "ffffff00"
+						}
+					]
+				}
+			},
+			"bones": {
+				"bone2": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.4333,
+							"x": 20,
+							"y": 0
+						}
+					]
+				},
+				"bone3": {
+					"translate": [
+						{
+							"time": 0.1667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.6,
+							"x": 20,
+							"y": 0
+						}
+					]
+				}
+			}
+		}
+	}
+}

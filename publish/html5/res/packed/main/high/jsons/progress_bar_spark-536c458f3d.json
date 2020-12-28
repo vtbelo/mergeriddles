@@ -1,0 +1,267 @@
+{
+	"skeleton": {
+		"hash": "PZjf6gXQTKfjYsLFKxYKTbUvlCU",
+		"spine": "3.7.91",
+		"width": 107.01,
+		"height": 68.02,
+		"images": "./images/",
+		"audio": "C:/Users/Админ/Desktop/макет"
+	},
+	"bones": [
+		{
+			"name": "root",
+			"rotation": 0.01
+		},
+		{
+			"name": "wave",
+			"parent": "root",
+			"length": 14.93,
+			"rotation": 180,
+			"x": -175.6,
+			"y": -1.93,
+			"color": "0018ffff"
+		},
+		{
+			"name": "wave2",
+			"parent": "root",
+			"length": 14.93,
+			"rotation": 180,
+			"x": -220,
+			"y": 29,
+			"color": "0018ffff"
+		},
+		{
+			"name": "wave3",
+			"parent": "root",
+			"length": 14.93,
+			"rotation": 180,
+			"x": -220,
+			"y": -30,
+			"scaleY": -1,
+			"color": "0018ffff"
+		}
+	],
+	"slots": [
+		{
+			"name": "wave3",
+			"bone": "wave2",
+			"attachment": "progress_bar_spark2"
+		},
+		{
+			"name": "wave4",
+			"bone": "wave3",
+			"attachment": "progress_bar_spark2"
+		},
+		{
+			"name": "wave",
+			"bone": "wave",
+			"attachment": "progress_bar_spark"
+		}
+	],
+	"skins": {
+		"default": {
+			"wave": {
+				"progress_bar_spark": {
+					"x": 8.37,
+					"y": -1.18,
+					"rotation": 179.1,
+					"width": 19,
+					"height": 43
+				}
+			},
+			"wave3": {
+				"progress_bar_spark2": {
+					"rotation": 180,
+					"width": 107,
+					"height": 9
+				}
+			},
+			"wave4": {
+				"progress_bar_spark2": {
+					"rotation": 180,
+					"width": 107,
+					"height": 9
+				}
+			}
+		}
+	},
+	"animations": {
+		"animation": {
+			"bones": {
+				"wave": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.4,
+							"x": 368.14,
+							"y": 5.78
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.0667,
+							"x": 4.498,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 13.61,
+							"y": 1
+						},
+						{
+							"time": 0.3,
+							"x": 13.404,
+							"y": 1
+						},
+						{
+							"time": 0.4,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"wave2": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.0667,
+							"x": 48.82,
+							"y": 0
+						},
+						{
+							"time": 0.1667,
+							"x": 71.28,
+							"y": 0
+						},
+						{
+							"time": 0.3,
+							"x": 178.69,
+							"y": 0
+						},
+						{
+							"time": 0.4,
+							"x": 386.45,
+							"y": 0
+						},
+						{
+							"time": 0.4667,
+							"x": 417.47,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.558,
+							"y": 1
+						},
+						{
+							"time": 0.0667,
+							"x": 1.286,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 2.511,
+							"y": 1.208
+						},
+						{
+							"time": 0.3,
+							"x": 3.231,
+							"y": 1.208
+						},
+						{
+							"time": 0.4,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.4667,
+							"x": 0.558,
+							"y": 1
+						}
+					]
+				},
+				"wave3": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.0667,
+							"x": 48.82,
+							"y": 0
+						},
+						{
+							"time": 0.1667,
+							"x": 71.28,
+							"y": 0
+						},
+						{
+							"time": 0.3,
+							"x": 178.69,
+							"y": 0
+						},
+						{
+							"time": 0.4,
+							"x": 386.45,
+							"y": 0
+						},
+						{
+							"time": 0.4667,
+							"x": 417.47,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.558,
+							"y": 1
+						},
+						{
+							"time": 0.0667,
+							"x": 1.286,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 2.511,
+							"y": 1.208
+						},
+						{
+							"time": 0.3,
+							"x": 3.231,
+							"y": 1.208
+						},
+						{
+							"time": 0.4,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.4667,
+							"x": 0.558,
+							"y": 1
+						}
+					]
+				}
+			}
+		}
+	}
+}
