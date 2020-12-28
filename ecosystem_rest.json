@@ -23,8 +23,8 @@
       },
 
       "env_staging": {
-        "appSecret": "bdfe33efd01c3fa886c64c382a30388d",
-        "appId" : "1847284985531262",
+        "appSecret": "f7707aa7dd68fc95e463e3b8fe678c6b",
+        "appId" : "386728805962593",
         "dbuser": "mergeriddles_user",
         "dbpassword": "123mergeriddles",
         "restSecret": "9c13cadbe41e08004a37f74cc0192d48",
@@ -39,8 +39,8 @@
       },
 
       "env_release": {
-        "appSecret": "a17ec9fe87a05a7a003817bf45bfa731",
-        "appId" : "1839614776298283",
+        "appSecret": "e317230046cc54444f72d1134a17c77b",
+        "appId" : "365815270676633",
         "dbuser": "mergeriddles_user",
         "dbpassword": "sdfs332md9e",
         "restSecret": "b8f16359bea17357bb2a777b7a9ea13c",
