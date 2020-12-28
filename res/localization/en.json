@@ -1,3 +1,18 @@
 {
-  "mergeriddles": "mergeriddles"
+  "MergeRiddles": "MergeRiddles",
+  "DailyCupRulesWindow.text2": "The cup starts every hour. All players are given the same level even if they haven't reached it yet.",
+  "Comics.Begin.Text1": "There was an ordinary shop with no ordinary sweets...",
+  "Comics.Begin.Text2": "The sweets who can talk and share their own secret stories!",
+  "Comics.Begin.Text3": "Hey, Sticky! Where did you go last night?",
+  "Comics.Begin.Text4": "To a magic place full of sweets where you can play all night long!",
+  "Comics.Begin.Text5": "Candyland?! So all the rumors are true!",
+  "Comics.Begin.Text6": "Can we come with you tonight?",
+  "Comics.Begin.Text7": "Yes! But we have to be back by morning.",
+  "Purple.Name": "Sticky",
+  "Red.Name": "Marigold",
+  "Yellow.Name": "Amber",
+  "Green.Name": "Greeffin",
+  "ThirdBoostersBefore.force": "Add rainbow cake to the field and collect all the sweets of any chosen color straight away!",
+  "ShovelsTooltip": "Collect watering cans by completing levels",
+  "BoosterBeforeUse_7": "Magically creates a rainbow cake on the field"
 }

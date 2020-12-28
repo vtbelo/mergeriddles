@@ -10,7 +10,7 @@
       "instances" : 2,
 
       "env": {
-        "PORT": 3000,
+        "PORT": 3015,
         "database": "mergeriddles",
         "appName"   : "Merge Riddles",
         "botVerifyToken": "e17892ffef50e148783825d33bea5251",
