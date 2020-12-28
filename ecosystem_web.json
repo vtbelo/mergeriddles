@@ -19,7 +19,7 @@
       "ref"  : "origin/main",
       "repo" : "git@github.com:vtbelo/mergeriddles.git",
       "path" : "/var/www/html/release/mergeriddles",
-      "post-deploy" : "cd cleverapps && git pull && cd -"
+      "post-deploy" : ""
     }
   }
 }
