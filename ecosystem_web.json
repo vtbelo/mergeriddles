@@ -1,0 +1,25 @@
+{
+  /**
+   * Deployment section
+   * http://pm2.keymetrics.io/docs/usage/deployment/
+   */
+  deploy : {
+    staging : {
+      "user" : "root",
+      "host" : "wordsoup-staging.labsystech.ru",
+      "ref"  : "origin/master",
+      "repo" : "git@github.com:rvvslv/wordsoup.git",
+      "path" : "/var/www/html/wordsoup-staging",
+      "post-deploy" : "cd cleverapps && git pull && cd - && bash ./cleverapps/common/build/web.bash web staging"
+    },
+
+    release : {
+      "user" : "root",
+      "host" : "wordsoup.labsystech.ru",
+      "ref"  : "origin/master",
+      "repo" : "git@github.com:rvvslv/wordsoup.git",
+      "path" : "/var/www/html/release/wordsoup",
+      "post-deploy" : "cd cleverapps && git pull && cd - && node /root/cleverapps/common/bots/sendmsg.js wordsoup"
+    }
+  }
+}

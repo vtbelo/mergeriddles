@@ -1,0 +1,93 @@
+{
+    "project": "wordsoup",
+    "android": {
+        "AdMob": {
+            "testdevice": "80CEB8C9DEDE042AF04B1FBBBE040596,kGADSimulatorID",
+            "test": false,
+            "cache": {
+                "rewarded": true,
+                "interstitial": true
+            },
+            "ads": {
+                "rewarded": {
+                    "type": "rewarded_video",
+                    "id": "ca-app-pub-9277187477340577/9819878145",
+                    "is_designed_for_families": true
+                },
+                "interstitial": {
+                    "type": "interstitial",
+                    "id": "ca-app-pub-9277187477340577/2396134297",
+                    "is_designed_for_families": true
+                }
+            }
+        },
+        "Firebase": {},
+        "Facebook": {
+            "debug": false
+        },
+        "iap": {
+            "prefix": "",
+            "items": {},
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAifrXd1bIbTc2K2obLh8i7hWilGV10i82NFuNkjKy5ki03PglDIFofvhnKq8PGmq1kxOC6LNTurSKUbuB4wPAksnKk+gCdLHdKhiwKM7ZVEecb2AxYTsGLxfw9CREBcF38EuPSVhWvRThNqcSkcWMSkHvnpnUqdZoS9eDKvUgmid2v6yqFHMLokUu8mOm6Q7nWRQezfByeGuMDtFsA2aiwB/bZt5kraFfEDVhDLbUI6jxnBAI38AAifqt1qQ89f1tovx6a5KAPjymJWkgS+gGojGz/IFOtlyf8SpatqD1UQKoz3+UXrrXbPFNHKBAHiJgXFzStIPLB1NVAhg9bb0kewIDAQAB"
+        }
+    },
+    "ios": {
+        "AdMob": {
+            "test": false,
+            "safearea": true,
+            "ads": {
+                "rewarded": {
+                    "type": "rewarded_video",
+                    "id": "ca-app-pub-9277187477340577/8721105817",
+                    "is_designed_for_families": true
+                },
+                "interstitial": {
+                    "type": "interstitial",
+                    "id": "ca-app-pub-9277187477340577/9249865997",
+                    "is_designed_for_families": true
+                }
+            }
+        },
+        "Firebase": {},
+        "Facebook": {
+            "debug": false
+        },
+        "iap": {
+            "prefix": "sg.cleverapps.",
+            "items": {
+                "500gold": {
+                    "id": "sg.cleverapps.gold.500"
+                },
+                "1800gold": {
+                    "id": "sg.cleverapps.gold.1800"
+                },
+                "3800gold": {
+                    "id": "sg.cleverapps.gold.3800"
+                },
+                "6000gold": {
+                    "id": "sg.cleverapps.gold.6000"
+                },
+                "25000gold": {
+                    "id": "sg.cleverapps.gold.25000"
+                },
+                "subsweek": {
+                    "id": "com.cleverapps.wordsoup.subsweek",
+                    "type":"subscription"
+                },
+                "subsmonth": {
+                    "id": "com.cleverapps.wordsoup.subsmonth",
+                    "type":"subscription"
+                }
+            }
+        }
+    },
+    "amazon": {
+        "Facebook": {
+            "debug": false
+        },
+        "iap": {
+            "prefix": "",
+            "items": {}
+        }
+    }
+}

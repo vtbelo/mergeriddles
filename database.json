@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "",
+    "database": "mergeriddles",
+    "multipleStatements": true
+  },
+
+  "staging": {
+    "driver": "mysql",
+    "user": "mergeriddles_user",
+    "password": "123mergeriddles",
+    "database": "mergeriddles",
+    "multipleStatements": true
+  },
+
+  "release": {
+    "driver": "mysql",
+    "user": "mergeriddles_user",
+    "password": "sdfs332md9e",
+    "database": "mergeriddles",
+    "multipleStatements": true
+  },
+
+  "sql-file" : true
+}
