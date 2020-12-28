@@ -1,0 +1,80 @@
+{
+"skeleton": { "hash": "elT7JjdNUP79Nq1d9eebrEEDgic", "spine": "3.7.94", "width": 182, "height": 191 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "cmn_icon_b", "parent": "root", "x": -5.69, "y": -31.31 },
+	{ "name": "cmn_icon_a", "parent": "cmn_icon_b", "x": -31.16, "y": -6.71 },
+	{ "name": "cmn_icon_green", "parent": "cmn_icon_b", "x": 54.12, "y": 99.01 },
+	{ "name": "cmn_icon_green2", "parent": "cmn_icon_b", "x": 40.27, "y": 104.83 },
+	{ "name": "cmn_icon_green3", "parent": "cmn_icon_b", "x": 26.22, "y": 109.51 }
+],
+"slots": [
+	{ "name": "cmn_icon_b", "bone": "cmn_icon_b", "attachment": "cmn_icon_b" },
+	{ "name": "cmn_icon_a", "bone": "cmn_icon_a", "attachment": "cmn_icon_a" },
+	{ "name": "cmn_icon_green", "bone": "cmn_icon_green", "attachment": "cmn_icon_green" },
+	{ "name": "cmn_icon_green2", "bone": "cmn_icon_green2", "attachment": "cmn_icon_green" },
+	{ "name": "cmn_icon_green3", "bone": "cmn_icon_green3", "attachment": "cmn_icon_green" }
+],
+"skins": {
+	"default": {
+		"cmn_icon_a": {
+			"cmn_icon_a": { "x": -6.15, "y": 35.02, "width": 36, "height": 90 }
+		},
+		"cmn_icon_b": {
+			"cmn_icon_b": { "x": 4.19, "y": 43.31, "width": 143, "height": 176 }
+		},
+		"cmn_icon_green": {
+			"cmn_icon_green": { "x": -0.05, "y": 0.57, "width": 9, "height": 9 }
+		},
+		"cmn_icon_green2": {
+			"cmn_icon_green": { "x": -0.05, "y": 0.57, "width": 9, "height": 9 }
+		},
+		"cmn_icon_green3": {
+			"cmn_icon_green": { "x": -0.05, "y": 0.57, "width": 9, "height": 9 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"cmn_icon_green": {
+				"attachment": [
+					{ "time": 0.5667, "name": null },
+					{ "time": 1, "name": "cmn_icon_green" },
+					{ "time": 1.5333, "name": null },
+					{ "time": 1.9667, "name": "cmn_icon_green" }
+				]
+			},
+			"cmn_icon_green2": {
+				"attachment": [
+					{ "time": 0.4667, "name": null },
+					{ "time": 0.8333, "name": "cmn_icon_green" },
+					{ "time": 1.4333, "name": null },
+					{ "time": 1.8333, "name": "cmn_icon_green" }
+				]
+			},
+			"cmn_icon_green3": {
+				"attachment": [
+					{ "time": 0.3667, "name": null },
+					{ "time": 0.6667, "name": "cmn_icon_green" },
+					{ "time": 1.3333, "name": null },
+					{ "time": 1.6667, "name": "cmn_icon_green" }
+				]
+			}
+		},
+		"bones": {
+			"cmn_icon_a": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": 10.19, "curve": "stepped" },
+					{ "time": 2.1, "angle": 10.19 },
+					{ "time": 2.2667, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 5, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

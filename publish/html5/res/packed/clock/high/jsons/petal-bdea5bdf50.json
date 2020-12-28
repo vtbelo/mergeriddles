@@ -1,0 +1,193 @@
+{
+"skeleton": { "hash": "XSF64anWmQ2cR40Io54AaCcqjvg", "spine": "3.7.68-beta", "width": 100, "height": 100, "images": "./high/images/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{
+		"name": "flower_list",
+		"parent": "root",
+		"length": 155.08,
+		"rotation": -0.29,
+		"x": -67.11,
+		"y": 0.05,
+		"scaleX": 0.779,
+		"scaleY": 0.959
+	},
+	{ "name": "flower_list_light", "parent": "flower_list", "length": 197.13, "rotation": 1.09, "x": -13.71, "y": 0.32 }
+],
+"slots": [
+	{ "name": "flw_blue", "bone": "flower_list", "attachment": "flw_blue" },
+	{ "name": "flower_list_light", "bone": "flower_list_light", "attachment": "flower_list_light" }
+],
+"skins": {
+	"default": {
+		"flower_list_light": {
+			"flower_list_light": { "x": 100.38, "y": -2.6, "rotation": -1.34, "width": 169, "height": 125 }
+		}
+	},
+	"blue": {
+		"flw_blue": {
+			"flw_blue": { "name": "flower_list", "color": "00c8ffff", "x": 86.18, "y": 0.3, "width": 169, "height": 125 }
+		}
+	},
+	"green": {
+		"flw_blue": {
+			"flw_blue": {
+				"name": "flower_list",
+				"color": "8aff00ff",
+				"x": 86.18,
+				"y": 0.3,
+				"rotation": 0.29,
+				"width": 169,
+				"height": 125
+			}
+		}
+	},
+	"purple": {
+		"flw_blue": {
+			"flw_blue": {
+				"name": "flower_list",
+				"color": "8a00ffff",
+				"x": 86.18,
+				"y": 0.3,
+				"rotation": 0.29,
+				"width": 169,
+				"height": 125
+			}
+		}
+	},
+	"red": {
+		"flw_blue": {
+			"flw_blue": {
+				"name": "flower_list",
+				"color": "ff0000ff",
+				"x": 86.18,
+				"y": 0.3,
+				"rotation": 0.29,
+				"width": 169,
+				"height": 125
+			}
+		}
+	},
+	"white": {
+		"flw_blue": {
+			"flw_blue": { "name": "flower_finish", "x": 86.18, "y": 0.3, "rotation": 0.29, "width": 167, "height": 123 }
+		}
+	},
+	"yellow": {
+		"flw_blue": {
+			"flw_blue": {
+				"name": "flower_list",
+				"color": "ffef00ff",
+				"x": 86.18,
+				"y": 0.3,
+				"rotation": 0.29,
+				"width": 169,
+				"height": 125
+			}
+		}
+	}
+},
+"animations": {
+	"idle_1": {
+		"slots": {
+			"flower_list_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"flower_list": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"flower_list_light": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"idle_2": {
+		"bones": {
+			"flower_list": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"transition": {
+		"slots": {
+			"flower_list_light": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"flower_list": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"flower_list_light": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

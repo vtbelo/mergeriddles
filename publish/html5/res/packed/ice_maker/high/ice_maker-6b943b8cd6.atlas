@@ -1,0 +1,188 @@
+
+ice_maker-6b943b8cd6.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bee_antenne
+  rotate: false
+  xy: 1, 237
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+bee_barrel
+  rotate: false
+  xy: 185, 43
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+bee_body
+  rotate: false
+  xy: 77, 1
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+bee_effect1
+  rotate: false
+  xy: 120, 74
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+bee_effect2
+  rotate: false
+  xy: 185, 1
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+bee_effect3
+  rotate: false
+  xy: 137, 1
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+bee_hand1
+  rotate: false
+  xy: 163, 52
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+bee_hand2
+  rotate: false
+  xy: 208, 123
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+bee_hand3
+  rotate: false
+  xy: 163, 69
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+bee_head
+  rotate: false
+  xy: 1, 1
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+bee_honey
+  rotate: false
+  xy: 120, 52
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+bee_pupil
+  rotate: false
+  xy: 233, 16
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+bee_smile
+  rotate: false
+  xy: 233, 1
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+bee_wing1
+  rotate: false
+  xy: 77, 52
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+bee_wing3
+  rotate: false
+  xy: 226, 111
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+bee_wing4
+  rotate: false
+  xy: 179, 88
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-0
+  rotate: false
+  xy: 179, 121
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-1
+  rotate: false
+  xy: 211, 88
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-2
+  rotate: false
+  xy: 153, 89
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-3
+  rotate: false
+  xy: 153, 124
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-4
+  rotate: false
+  xy: 229, 43
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-5
+  rotate: false
+  xy: 207, 173
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-6
+  rotate: false
+  xy: 229, 78
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-7
+  rotate: false
+  xy: 1, 206
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-8
+  rotate: false
+  xy: 208, 142
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-9
+  rotate: false
+  xy: 179, 153
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

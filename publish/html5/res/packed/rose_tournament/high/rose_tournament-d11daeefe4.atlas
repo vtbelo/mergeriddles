@@ -1,0 +1,209 @@
+
+rose_tournament-d11daeefe4.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+107_blik
+  rotate: false
+  xy: 255, 176
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hand1
+  rotate: false
+  xy: 143, 693
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon
+  rotate: false
+  xy: 65, 778
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_body
+  rotate: false
+  xy: 272, 1
+  size: 201, 189
+  orig: 201, 189
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_bpx
+  rotate: false
+  xy: 1, 176
+  size: 252, 254
+  orig: 252, 254
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_chest1
+  rotate: false
+  xy: 255, 464
+  size: 156, 63
+  orig: 156, 63
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_chest2
+  rotate: false
+  xy: 1, 500
+  size: 140, 119
+  orig: 140, 119
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_chest3
+  rotate: false
+  xy: 1, 621
+  size: 140, 81
+  orig: 140, 81
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_ear1
+  rotate: false
+  xy: 166, 476
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_ear2
+  rotate: false
+  xy: 350, 638
+  size: 43, 98
+  orig: 43, 98
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_finger
+  rotate: false
+  xy: 475, 1
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_green
+  rotate: false
+  xy: 142, 772
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_hand
+  rotate: false
+  xy: 143, 578
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_hand1
+  rotate: false
+  xy: 413, 505
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_hand2
+  rotate: false
+  xy: 395, 666
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_ice
+  rotate: false
+  xy: 454, 248
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_kristal
+  rotate: false
+  xy: 72, 704
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_legs1
+  rotate: false
+  xy: 1, 758
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_light
+  rotate: false
+  xy: 255, 290
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_money
+  rotate: false
+  xy: 1, 1
+  size: 269, 173
+  orig: 269, 173
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_pupil
+  rotate: false
+  xy: 166, 432
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_shadow
+  rotate: false
+  xy: 401, 600
+  size: 99, 64
+  orig: 99, 64
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_star
+  rotate: false
+  xy: 454, 192
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_tail
+  rotate: false
+  xy: 429, 316
+  size: 73, 187
+  orig: 73, 187
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_tail2
+  rotate: false
+  xy: 1, 704
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_wing1
+  rotate: false
+  xy: 269, 192
+  size: 183, 96
+  orig: 183, 96
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_wing2
+  rotate: false
+  xy: 235, 638
+  size: 113, 137
+  orig: 113, 137
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_wing3
+  rotate: false
+  xy: 1, 432
+  size: 163, 66
+  orig: 163, 66
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_wing4
+  rotate: false
+  xy: 252, 529
+  size: 147, 107
+  orig: 147, 107
+  offset: 0, 0
+  index: -1

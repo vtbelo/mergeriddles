@@ -1,0 +1,419 @@
+
+burst-f1095135b2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_ball1_gum
+  rotate: false
+  xy: 139, 120
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+b_ball2_gum
+  rotate: false
+  xy: 139, 161
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+back_body_gummachine
+  rotate: false
+  xy: 303, 103
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+ball_blue_gummachine
+  rotate: false
+  xy: 466, 154
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+ball_green_gummachine
+  rotate: false
+  xy: 353, 161
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+ball_pink_gummachine
+  rotate: false
+  xy: 444, 195
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+ball_red_gummachine
+  rotate: false
+  xy: 165, 172
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+ball_yellow_gummachine
+  rotate: false
+  xy: 206, 172
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+blue1_gum
+  rotate: false
+  xy: 1, 415
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+blue2_gum
+  rotate: false
+  xy: 247, 177
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+blue3_gum
+  rotate: false
+  xy: 204, 213
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+blue4_gum
+  rotate: false
+  xy: 51, 462
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+blue5_gum
+  rotate: false
+  xy: 397, 137
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+body_gummachine
+  rotate: false
+  xy: 405, 101
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+burst-images-ball_blue_gummachine
+  rotate: false
+  xy: 466, 154
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+burst-images-ball_green_gummachine
+  rotate: false
+  xy: 353, 161
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+burst-images-ball_pink_gummachine
+  rotate: false
+  xy: 444, 195
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+burst-images-ball_red_gummachine
+  rotate: false
+  xy: 165, 172
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+burst-images-ball_yellow_gummachine
+  rotate: false
+  xy: 206, 172
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+burst-images-gummachine_0
+  rotate: false
+  xy: 1, 1
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+burst-images-gummachine_1
+  rotate: false
+  xy: 1, 139
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+burst-images-gummachine_2
+  rotate: false
+  xy: 1, 277
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+burst-images-gummachine_3
+  rotate: false
+  xy: 165, 1
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+elipse1_gum
+  rotate: false
+  xy: 303, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+g_ball1_gum
+  rotate: false
+  xy: 480, 115
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+g_ball2_gum
+  rotate: false
+  xy: 447, 164
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+green1_gum
+  rotate: false
+  xy: 1, 462
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+green2_gum
+  rotate: false
+  xy: 286, 178
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+green3_gum
+  rotate: false
+  xy: 165, 234
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+green4_gum
+  rotate: false
+  xy: 76, 415
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+green5_gum
+  rotate: false
+  xy: 165, 139
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+gummachine_0
+  rotate: false
+  xy: 1, 1
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+gummachine_1
+  rotate: false
+  xy: 1, 139
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+gummachine_2
+  rotate: false
+  xy: 1, 277
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+gummachine_3
+  rotate: false
+  xy: 165, 1
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+key1_gummachine
+  rotate: false
+  xy: 265, 139
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+key2_gummachine
+  rotate: false
+  xy: 480, 101
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+p_ball1_gum
+  rotate: false
+  xy: 139, 1
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+p_ball2_gum
+  rotate: false
+  xy: 377, 103
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+purple1_gum
+  rotate: false
+  xy: 26, 415
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+purple2_gum
+  rotate: false
+  xy: 247, 198
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+purple3_gum
+  rotate: false
+  xy: 238, 219
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+purple4_gum
+  rotate: false
+  xy: 89, 458
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+purple5_gum
+  rotate: false
+  xy: 215, 139
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+r_ball1_gum
+  rotate: false
+  xy: 139, 82
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+r_ball2_gum
+  rotate: false
+  xy: 447, 137
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+red1_gum
+  rotate: false
+  xy: 26, 462
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+red2_gum
+  rotate: false
+  xy: 286, 199
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+red3_gum
+  rotate: false
+  xy: 199, 249
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+red4_gum
+  rotate: false
+  xy: 114, 415
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+red5_gum
+  rotate: false
+  xy: 394, 170
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+up_body_gummachine
+  rotate: false
+  xy: 405, 1
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+y_ball1_gum
+  rotate: false
+  xy: 139, 42
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+y_ball2_gum
+  rotate: false
+  xy: 377, 132
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+yellow1_gum
+  rotate: false
+  xy: 51, 415
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+yellow2_gum
+  rotate: false
+  xy: 165, 213
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+yellow3_gum
+  rotate: false
+  xy: 165, 270
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+yellow4_gum
+  rotate: false
+  xy: 127, 458
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+yellow5_gum
+  rotate: false
+  xy: 303, 145
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1

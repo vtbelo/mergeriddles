@@ -1,0 +1,314 @@
+
+truffle-b97c6390b1.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_petal_centre
+  rotate: false
+  xy: 123, 367
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+blue_petal_left
+  rotate: false
+  xy: 1, 489
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+blue_petal_right
+  rotate: false
+  xy: 62, 489
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+blue_truffle_last
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+green_petal_centre
+  rotate: false
+  xy: 195, 367
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+green_petal_left
+  rotate: false
+  xy: 188, 457
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+green_petal_right
+  rotate: false
+  xy: 249, 457
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+green_truffle_last
+  rotate: false
+  xy: 123, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+purple_petal_centre
+  rotate: false
+  xy: 411, 367
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+purple_petal_left
+  rotate: false
+  xy: 310, 457
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+purple_petal_right
+  rotate: false
+  xy: 371, 457
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+purple_truffle_last
+  rotate: false
+  xy: 245, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+red_petal_centre
+  rotate: false
+  xy: 267, 367
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+red_petal_left
+  rotate: false
+  xy: 432, 457
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+red_petal_right
+  rotate: false
+  xy: 188, 546
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+red_truffle_last
+  rotate: false
+  xy: 367, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-blue_truffle_last
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-green_truffle_last
+  rotate: false
+  xy: 123, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-purple_truffle_last
+  rotate: false
+  xy: 245, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-red_truffle_last
+  rotate: false
+  xy: 367, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_blue
+  rotate: false
+  xy: 1, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_goal
+  rotate: false
+  xy: 123, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_green
+  rotate: false
+  xy: 245, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_purple
+  rotate: false
+  xy: 367, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_red
+  rotate: false
+  xy: 1, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_white
+  rotate: false
+  xy: 123, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_yellow
+  rotate: false
+  xy: 245, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-white_truffle_last
+  rotate: false
+  xy: 367, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-yellow_truffle_last
+  rotate: false
+  xy: 1, 367
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffles_blue
+  rotate: false
+  xy: 1, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffles_goal
+  rotate: false
+  xy: 123, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffles_green
+  rotate: false
+  xy: 245, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffles_purple
+  rotate: false
+  xy: 367, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffles_red
+  rotate: false
+  xy: 1, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffles_white
+  rotate: false
+  xy: 123, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffles_yellow
+  rotate: false
+  xy: 245, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+white_petal_centre
+  rotate: false
+  xy: 123, 457
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+white_petal_left
+  rotate: false
+  xy: 123, 547
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+white_petal_right
+  rotate: false
+  xy: 1, 578
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+white_truffle_last
+  rotate: false
+  xy: 367, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+yellow_petal_centre
+  rotate: false
+  xy: 339, 367
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+yellow_petal_left
+  rotate: false
+  xy: 62, 578
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+yellow_petal_right
+  rotate: false
+  xy: 249, 546
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+yellow_truffle_last
+  rotate: false
+  xy: 1, 367
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

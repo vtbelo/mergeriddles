@@ -1,0 +1,90 @@
+
+ice_cream_maker-b024e4cf98.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice_cream_maker-images-ice_cream_maker_0
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ice_cream_maker-images-ice_cream_maker_1
+  rotate: false
+  xy: 123, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ice_cream_maker-images-ice_cream_maker_2
+  rotate: false
+  xy: 1, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ice_cream_maker-images-ice_cream_maker_3
+  rotate: false
+  xy: 123, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ice_cream_maker_0
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ice_cream_maker_1
+  rotate: false
+  xy: 123, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ice_cream_maker_2
+  rotate: false
+  xy: 1, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ice_cream_maker_3
+  rotate: false
+  xy: 123, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+icm_bar_01
+  rotate: false
+  xy: 178, 281
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+icm_base
+  rotate: false
+  xy: 1, 245
+  size: 115, 109
+  orig: 115, 109
+  offset: 0, 0
+  index: -1
+icm_steam
+  rotate: false
+  xy: 118, 281
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+icm_top
+  rotate: false
+  xy: 118, 245
+  size: 107, 34
+  orig: 107, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+small_petard-489be2280f.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mclrbmb_blue
+  rotate: false
+  xy: 153, 1
+  size: 84, 134
+  orig: 84, 134
+  offset: 0, 0
+  index: -1
+mclrbmb_green
+  rotate: false
+  xy: 1, 86
+  size: 84, 134
+  orig: 84, 134
+  offset: 0, 0
+  index: -1
+mclrbmb_particle
+  rotate: false
+  xy: 87, 217
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+mclrbmb_purple
+  rotate: false
+  xy: 150, 137
+  size: 84, 134
+  orig: 84, 134
+  offset: 0, 0
+  index: -1
+mclrbmb_red
+  rotate: false
+  xy: 1, 222
+  size: 84, 134
+  orig: 84, 134
+  offset: 0, 0
+  index: -1
+mclrbmb_smoke
+  rotate: false
+  xy: 87, 175
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+mclrbmb_white
+  rotate: false
+  xy: 1, 358
+  size: 84, 134
+  orig: 84, 134
+  offset: 0, 0
+  index: -1
+mclrbmb_yellow
+  rotate: false
+  xy: 87, 273
+  size: 84, 134
+  orig: 84, 134
+  offset: 0, 0
+  index: -1
+small_petard-images-small_petard_lives_bg
+  rotate: false
+  xy: 87, 86
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+small_petard-images-small_petard_wave
+  rotate: false
+  xy: 1, 1
+  size: 150, 83
+  orig: 150, 83
+  offset: 0, 0
+  index: -1
+small_petard_blown
+  rotate: false
+  xy: 87, 145
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+small_petard_lives_bg
+  rotate: false
+  xy: 87, 86
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+small_petard_wave
+  rotate: false
+  xy: 1, 1
+  size: 150, 83
+  orig: 150, 83
+  offset: 0, 0
+  index: -1

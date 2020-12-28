@@ -1,0 +1,855 @@
+{
+	"skeleton": {
+		"hash": "tZ2JrA80r8H2akl9PDge9FN30tw",
+		"spine": "3.7.91",
+		"width": 93,
+		"height": 86,
+		"images": "C:\\Users\\Админ\\Desktop\\фишки со звездами\\риддлс\\images",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "level_finished",
+			"parent": "root"
+		},
+		{
+			"name": "level_hard",
+			"parent": "root"
+		},
+		{
+			"name": "level_locked",
+			"parent": "root"
+		},
+		{
+			"name": "level_open",
+			"parent": "root"
+		},
+		{
+			"name": "0_star",
+			"parent": "root",
+			"x": 0.03,
+			"y": 52.06
+		}
+	],
+	"slots": [
+		{
+			"name": "level_finished",
+			"bone": "level_finished",
+			"attachment": "level_finished"
+		},
+		{
+			"name": "level_hard",
+			"bone": "level_hard",
+			"attachment": "level_hard"
+		},
+		{
+			"name": "level_locked",
+			"bone": "level_locked",
+			"attachment": "level_locked"
+		},
+		{
+			"name": "level_open",
+			"bone": "level_open",
+			"attachment": "level_open"
+		},
+		{
+			"name": "0_star",
+			"bone": "0_star"
+		}
+	],
+	"skins": {
+		"default": {
+			"0_star": {
+				"0_star": {
+					"x": -0.16,
+					"y": -1.63,
+					"width": 80,
+					"height": 34
+				},
+				"1_star": {
+					"x": -0.43,
+					"y": 4.05,
+					"width": 32,
+					"height": 31
+				},
+				"2_star": {
+					"x": -0.43,
+					"y": -1.79,
+					"width": 52,
+					"height": 25
+				},
+				"3_star": {
+					"x": -0.16,
+					"y": -1.63,
+					"width": 80,
+					"height": 34
+				}
+			},
+			"level_finished": {
+				"level_finished": {
+					"width": 93,
+					"height": 86
+				}
+			},
+			"level_hard": {
+				"level_hard": {
+					"width": 93,
+					"height": 86
+				}
+			},
+			"level_locked": {
+				"level_locked": {
+					"width": 93,
+					"height": 86
+				}
+			},
+			"level_open": {
+				"level_open": {
+					"width": 93,
+					"height": 86
+				}
+			}
+		}
+	},
+	"animations": {
+		"current": {
+			"slots": {
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_open"
+						}
+					]
+				}
+			},
+			"bones": {
+				"level_finished": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.19,
+							"y": 1.19
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"level_hard": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.275,
+							"y": 1.275
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"level_open": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.19,
+							"y": 1.19
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				}
+			}
+		},
+		"future": {
+			"slots": {
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_locked"
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"hard_current": {
+			"slots": {
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_hard"
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"level_finished": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"level_hard": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.275,
+							"y": 1.275
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"level_open": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.19,
+							"y": 1.19
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				}
+			}
+		},
+		"hard_future": {
+			"slots": {
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_hard"
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"level_finished": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"level_open": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.19,
+							"y": 1.19
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				}
+			}
+		},
+		"hard_past": {
+			"slots": {
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_hard"
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"level_finished": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"level_open": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.19,
+							"y": 1.19
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				}
+			}
+		},
+		"hard_past_stars0": {
+			"slots": {
+				"0_star": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "0_star"
+						}
+					]
+				},
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_hard"
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"hard_past_stars1": {
+			"slots": {
+				"0_star": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "1_star"
+						}
+					]
+				},
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_hard"
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"hard_past_stars2": {
+			"slots": {
+				"0_star": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "2_star"
+						}
+					]
+				},
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_hard"
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"hard_past_stars3": {
+			"slots": {
+				"0_star": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "3_star"
+						}
+					]
+				},
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_hard"
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"past": {
+			"slots": {
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_finished"
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"past_stars0": {
+			"slots": {
+				"0_star": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "0_star"
+						}
+					]
+				},
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_finished"
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"past_stars1": {
+			"slots": {
+				"0_star": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "1_star"
+						}
+					]
+				},
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_finished"
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"past_stars2": {
+			"slots": {
+				"0_star": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "2_star"
+						}
+					]
+				},
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_finished"
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"past_stars3": {
+			"slots": {
+				"0_star": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "3_star"
+						}
+					]
+				},
+				"level_finished": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "level_finished"
+						}
+					]
+				},
+				"level_hard": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_locked": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"level_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		}
+	}
+}

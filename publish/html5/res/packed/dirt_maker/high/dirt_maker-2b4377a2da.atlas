@@ -1,0 +1,174 @@
+
+dirt_maker-2b4377a2da.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1jam_jam_jar
+  rotate: false
+  xy: 123, 105
+  size: 81, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+2jam_jam_jar
+  rotate: false
+  xy: 317, 50
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+3jam_jam_jar
+  rotate: false
+  xy: 223, 52
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+cover1_jam_jar
+  rotate: false
+  xy: 317, 1
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+cover2_jam_jar
+  rotate: false
+  xy: 223, 1
+  size: 92, 49
+  orig: 92, 49
+  offset: 0, 0
+  index: -1
+cover3_jam_jar
+  rotate: false
+  xy: 276, 124
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+dirt_maker-images-jam_jar_stable0
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dirt_maker-images-jam_jar_stable1
+  rotate: false
+  xy: 1, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dirt_maker-images-jam_jar_stable2
+  rotate: false
+  xy: 1, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dirt_maker-images-jam_jar_stable3
+  rotate: false
+  xy: 1, 367
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dirt_maker-images-splash_drop2_jam_jar
+  rotate: false
+  xy: 478, 93
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+downbody_jam_jar
+  rotate: false
+  xy: 411, 1
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+hinge_jam_jar
+  rotate: false
+  xy: 1, 489
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+jam_jar_stable0
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+jam_jar_stable1
+  rotate: false
+  xy: 1, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+jam_jar_stable2
+  rotate: false
+  xy: 1, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+jam_jar_stable3
+  rotate: false
+  xy: 1, 367
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lock_jam_jar
+  rotate: false
+  xy: 478, 127
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+splash1_jam_jar
+  rotate: false
+  xy: 400, 93
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+splash_drop1_jam_jar
+  rotate: false
+  xy: 337, 175
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+splash_drop2_jam_jar
+  rotate: false
+  xy: 478, 93
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+splash_drop3_jam_jar
+  rotate: false
+  xy: 337, 124
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+upbody_jam_jar
+  rotate: false
+  xy: 123, 1
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+upcover_jam_jar
+  rotate: false
+  xy: 206, 124
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1

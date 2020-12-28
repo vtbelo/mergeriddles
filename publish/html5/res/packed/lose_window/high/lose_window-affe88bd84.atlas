@@ -1,0 +1,76 @@
+
+lose_window-affe88bd84.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lose_crack
+  rotate: false
+  xy: 68, 374
+  size: 25, 109
+  orig: 25, 109
+  offset: 0, 0
+  index: -1
+lose_crack_light
+  rotate: false
+  xy: 107, 119
+  size: 48, 130
+  orig: 48, 130
+  offset: 0, 0
+  index: -1
+lose_h_shadow
+  rotate: false
+  xy: 171, 78
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+lose_l_down
+  rotate: false
+  xy: 37, 374
+  size: 29, 131
+  orig: 29, 131
+  offset: 0, 0
+  index: -1
+lose_left
+  rotate: false
+  xy: 1, 248
+  size: 99, 124
+  orig: 99, 124
+  offset: 0, 0
+  index: -1
+lose_main
+  rotate: false
+  xy: 1, 1
+  size: 168, 116
+  orig: 168, 116
+  offset: 0, 0
+  index: -1
+lose_r_down
+  rotate: false
+  xy: 1, 374
+  size: 34, 133
+  orig: 34, 133
+  offset: 0, 0
+  index: -1
+lose_right
+  rotate: false
+  xy: 1, 119
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: -1
+lose_spark
+  rotate: false
+  xy: 171, 116
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+minus1
+  rotate: false
+  xy: 171, 1
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+memorial-f1c9faed96.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basket_patch_tournament_bag
+  rotate: false
+  xy: 1, 512
+  size: 164, 98
+  orig: 164, 98
+  offset: 0, 0
+  index: -1
+basket_patch_tournament_bag1
+  rotate: false
+  xy: 397, 622
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+icon_blik_tournament_bag
+  rotate: false
+  xy: 42, 643
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+icon_tournament_bag
+  rotate: false
+  xy: 1, 373
+  size: 164, 137
+  orig: 164, 137
+  offset: 0, 0
+  index: -1
+memorial-mission_icon
+  rotate: false
+  xy: 405, 542
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+memorial-toolbar_decor
+  rotate: false
+  xy: 1, 147
+  size: 249, 224
+  orig: 249, 224
+  offset: 0, 0
+  index: -1
+memorial-window_down_left
+  rotate: false
+  xy: 274, 1
+  size: 235, 98
+  orig: 235, 98
+  offset: 0, 0
+  index: -1
+memorial-window_down_right
+  rotate: false
+  xy: 274, 101
+  size: 234, 98
+  orig: 234, 98
+  offset: 0, 0
+  index: -1
+memorial-window_up
+  rotate: false
+  xy: 1, 1
+  size: 271, 144
+  orig: 271, 144
+  offset: 0, 0
+  index: -1
+mission_icon
+  rotate: false
+  xy: 405, 542
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hand1
+  rotate: false
+  xy: 456, 690
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+story_trmnt_dog
+  rotate: false
+  xy: 460, 201
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_body
+  rotate: false
+  xy: 235, 564
+  size: 160, 172
+  orig: 160, 172
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_box
+  rotate: false
+  xy: 252, 298
+  size: 175, 177
+  orig: 175, 177
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_carpet
+  rotate: false
+  xy: 252, 201
+  size: 206, 95
+  orig: 206, 95
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_eye
+  rotate: false
+  xy: 167, 373
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_eyelid
+  rotate: false
+  xy: 167, 523
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_green
+  rotate: false
+  xy: 456, 729
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_hand2
+  rotate: false
+  xy: 429, 399
+  size: 72, 141
+  orig: 72, 141
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_hand3
+  rotate: false
+  xy: 167, 581
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_ice
+  rotate: false
+  xy: 1, 612
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_light
+  rotate: false
+  xy: 429, 321
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_mouth
+  rotate: false
+  xy: 42, 612
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_shadow
+  rotate: false
+  xy: 167, 556
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_smile
+  rotate: false
+  xy: 460, 294
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_star
+  rotate: false
+  xy: 397, 690
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+story_trmnt_doge_pupil
+  rotate: false
+  xy: 82, 612
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+story_trmnt_doge_wreath
+  rotate: false
+  xy: 239, 477
+  size: 164, 85
+  orig: 164, 85
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_hand2
+  rotate: false
+  xy: 167, 476
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_hand3
+  rotate: false
+  xy: 460, 249
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1

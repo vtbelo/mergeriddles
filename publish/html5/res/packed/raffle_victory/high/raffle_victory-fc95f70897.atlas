@@ -1,0 +1,41 @@
+
+raffle_victory-fc95f70897.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balance
+  rotate: false
+  xy: 1, 286
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+mm
+  rotate: false
+  xy: 1, 359
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 1, 422
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+piggy_full_blik
+  rotate: false
+  xy: 35, 422
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+ticket
+  rotate: false
+  xy: 1, 1
+  size: 231, 283
+  orig: 231, 283
+  offset: 0, 0
+  index: -1

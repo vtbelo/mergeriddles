@@ -1,0 +1,118 @@
+
+halloween-4c53dff3b8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halloween-halloween_decor_1
+  rotate: false
+  xy: 1, 719
+  size: 219, 297
+  orig: 219, 297
+  offset: 0, 0
+  index: -1
+halloween-halloween_decor_2
+  rotate: false
+  xy: 222, 860
+  size: 155, 137
+  orig: 155, 137
+  offset: 0, 0
+  index: -1
+halloween-halloween_decor_forest
+  rotate: false
+  xy: 1, 1
+  size: 588, 312
+  orig: 588, 312
+  offset: 0, 0
+  index: -1
+halloween-halloween_pumpkins
+  rotate: false
+  xy: 591, 240
+  size: 341, 177
+  orig: 341, 177
+  offset: 0, 0
+  index: -1
+halloween-halloween_roots_top_left
+  rotate: false
+  xy: 591, 1
+  size: 384, 237
+  orig: 384, 237
+  offset: 0, 0
+  index: -1
+halloween-halloween_roots_top_right
+  rotate: false
+  xy: 258, 315
+  size: 279, 224
+  orig: 279, 224
+  offset: 0, 0
+  index: -1
+halloween_eye
+  rotate: false
+  xy: 934, 300
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+halloween_fire
+  rotate: false
+  xy: 977, 38
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+halloween_fire_light
+  rotate: false
+  xy: 934, 240
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+halloween_star
+  rotate: false
+  xy: 1000, 59
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+hlw_pumpkin
+  rotate: false
+  xy: 1, 419
+  size: 255, 298
+  orig: 255, 298
+  offset: 0, 0
+  index: -1
+hlw_pumpkin_light
+  rotate: false
+  xy: 222, 719
+  size: 146, 139
+  orig: 146, 139
+  offset: 0, 0
+  index: -1
+hlw_spider_body
+  rotate: false
+  xy: 977, 1
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+hlw_spider_eye
+  rotate: false
+  xy: 1011, 16
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+hlw_spider_hand
+  rotate: false
+  xy: 1000, 38
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+hlw_spider_line
+  rotate: false
+  xy: 1011, 1
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+rabbit-d5741ec213.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_wrapper
+  rotate: false
+  xy: 243, 123
+  size: 133, 104
+  orig: 133, 104
+  offset: 0, 0
+  index: -1
+rabbit-images-rabbit_wrapper
+  rotate: false
+  xy: 1, 378
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+rabbit-images-rabbit_x1
+  rotate: false
+  xy: 243, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+rabbit-images-rabbit_x4
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+rabbit_wrapper
+  rotate: false
+  xy: 1, 378
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+rabbit_x1
+  rotate: false
+  xy: 243, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+rabbit_x4
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+roll_wrapper
+  rotate: false
+  xy: 272, 444
+  size: 138, 30
+  orig: 138, 30
+  offset: 0, 0
+  index: -1
+shadow_wrapper
+  rotate: false
+  xy: 378, 94
+  size: 131, 47
+  orig: 131, 47
+  offset: 0, 0
+  index: -1
+wr1_1_wrapper
+  rotate: false
+  xy: 135, 378
+  size: 135, 120
+  orig: 135, 120
+  offset: 0, 0
+  index: -1
+wr1_wrapper
+  rotate: false
+  xy: 1, 243
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+wr2_wrapper
+  rotate: false
+  xy: 136, 243
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+wr3_wrapper
+  rotate: false
+  xy: 365, 1
+  size: 141, 91
+  orig: 141, 91
+  offset: 0, 0
+  index: -1
+wr4_wrapper
+  rotate: false
+  xy: 272, 229
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+wr5_wrapper
+  rotate: false
+  xy: 272, 309
+  size: 153, 58
+  orig: 153, 58
+  offset: 0, 0
+  index: -1
+wr6_wrapper
+  rotate: false
+  xy: 272, 369
+  size: 151, 36
+  orig: 151, 36
+  offset: 0, 0
+  index: -1
+wr7_wrapper
+  rotate: false
+  xy: 272, 407
+  size: 139, 35
+  orig: 139, 35
+  offset: 0, 0
+  index: -1

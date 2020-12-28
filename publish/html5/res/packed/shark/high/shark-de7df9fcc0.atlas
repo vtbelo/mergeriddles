@@ -1,0 +1,230 @@
+
+shark-de7df9fcc0.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fry_1
+  rotate: false
+  xy: 191, 277
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+fry_2
+  rotate: false
+  xy: 1, 411
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+fry_3
+  rotate: false
+  xy: 90, 198
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+fry_4
+  rotate: false
+  xy: 1, 471
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+fry_5
+  rotate: false
+  xy: 101, 329
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+fry_6
+  rotate: false
+  xy: 28, 411
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+fry_7
+  rotate: false
+  xy: 56, 411
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+fry_body
+  rotate: false
+  xy: 1, 1
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+fry_body_up
+  rotate: false
+  xy: 106, 101
+  size: 101, 21
+  orig: 101, 21
+  offset: 0, 0
+  index: -1
+fry_evil
+  rotate: false
+  xy: 1, 198
+  size: 87, 52
+  orig: 87, 52
+  offset: 0, 0
+  index: -1
+fry_exp
+  rotate: false
+  xy: 110, 1
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+fry_exploed
+  rotate: false
+  xy: 1, 90
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+fry_eye1
+  rotate: false
+  xy: 68, 324
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+fry_eye2
+  rotate: false
+  xy: 68, 363
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+fry_eye_evil1
+  rotate: false
+  xy: 217, 1
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+fry_eye_evil2
+  rotate: false
+  xy: 217, 45
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+fry_eyelid1
+  rotate: false
+  xy: 1, 390
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+fry_eyelid2
+  rotate: false
+  xy: 33, 390
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+fry_pupil2
+  rotate: false
+  xy: 81, 267
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+fry_rupil1
+  rotate: false
+  xy: 234, 277
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+fry_smike1
+  rotate: false
+  xy: 25, 471
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+fry_smile1
+  rotate: false
+  xy: 81, 252
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+fry_smile_evil
+  rotate: false
+  xy: 138, 329
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+fry_smoke2
+  rotate: false
+  xy: 217, 89
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+fry_smoke3
+  rotate: false
+  xy: 101, 280
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+fry_smoke_1
+  rotate: false
+  xy: 209, 122
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+fry_smoke_2
+  rotate: false
+  xy: 198, 166
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+fry_smoke_3
+  rotate: false
+  xy: 191, 218
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+fry_smoke_4
+  rotate: false
+  xy: 1, 324
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+fry_smoke_5
+  rotate: false
+  xy: 1, 252
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+fry_smoke_6
+  rotate: false
+  xy: 103, 204
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+fry_smoke_7
+  rotate: false
+  xy: 106, 124
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1

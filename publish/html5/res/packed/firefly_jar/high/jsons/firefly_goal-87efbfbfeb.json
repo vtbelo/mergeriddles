@@ -1,0 +1,138 @@
+{
+"skeleton": { "hash": "QkNP3e4AsuN3Do+8b27CeglgmH4", "spine": "3.7.68-beta", "width": 190, "height": 215.15, "images": "./images/", "audio": "C:/Users/Eugene/Desktop/fireflies_jar" },
+"bones": [
+	{ "name": "root", "x": -3},
+	{
+		"name": "firefly_goal_no_wings",
+		"parent": "root",
+		"rotation": 90,
+		"x": -5.04,
+		"y": 73.78,
+		"scaleX": 0.933,
+		"scaleY": 0.933
+	},
+	{ "name": "bee_effect1", "parent": "firefly_goal_no_wings", "length": 35.14, "rotation": -123.41, "x": 11.05, "y": -5.24 },
+	{
+		"name": "bee_wing1",
+		"parent": "firefly_goal_no_wings",
+		"length": 23.09,
+		"rotation": -58.54,
+		"x": -2.75,
+		"y": -9.86,
+		"scaleX": 0.908,
+		"scaleY": 0.908
+	}
+],
+"slots": [
+	{ "name": "firefly_goal_no_wings", "bone": "firefly_goal_no_wings", "attachment": "firefly_goal_no_wings" },
+	{ "name": "bee_wing1", "bone": "bee_wing1", "attachment": "bee_wing1" },
+	{ "name": "bee_effect1", "bone": "bee_effect1", "attachment": "bee_effect1" }
+],
+"skins": {
+	"default": {
+		"bee_effect1": {
+			"bee_effect1": { "x": 24.86, "y": 4.24, "rotation": 33.41, "width": 31, "height": 55 },
+			"bee_effect2": { "x": 24.46, "y": -4.34, "rotation": 33.41, "width": 46, "height": 40 },
+			"bee_effect3": { "x": 20.5, "y": -1.2, "rotation": 33.41, "width": 46, "height": 49 }
+		},
+		"bee_wing1": {
+			"bee_wing1": {
+				"x": 21.08,
+				"y": 6.63,
+				"scaleX": 0.88,
+				"scaleY": 0.88,
+				"rotation": -31.46,
+				"width": 41,
+				"height": 46
+			},
+			"bee_wing3": {
+				"x": 10.47,
+				"y": -8.04,
+				"scaleX": 1.188,
+				"scaleY": 1.188,
+				"rotation": -31.46,
+				"width": 29,
+				"height": 29
+			},
+			"bee_wing4": {
+				"x": 6.34,
+				"y": -10.8,
+				"scaleX": 1.278,
+				"scaleY": 1.278,
+				"rotation": -31.46,
+				"width": 30,
+				"height": 31
+			}
+		},
+		"firefly_goal_no_wings": {
+			"firefly_goal_no_wings": {
+				"x": 10.18,
+				"y": 4.81,
+				"scaleX": 0.725,
+				"scaleY": 0.725,
+				"rotation": -90,
+				"width": 91,
+				"height": 109
+			}
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"bee_effect1": {
+				"attachment": [
+					{ "time": 0.0333, "name": "bee_effect3" },
+					{ "time": 0.0667, "name": "bee_effect2" },
+					{ "time": 0.1, "name": "bee_effect3" },
+					{ "time": 0.1333, "name": "bee_effect1" },
+					{ "time": 0.2, "name": "bee_effect3" },
+					{ "time": 0.2333, "name": "bee_effect2" },
+					{ "time": 0.2667, "name": "bee_effect3" },
+					{ "time": 0.3, "name": "bee_effect1" },
+					{ "time": 0.3667, "name": "bee_effect3" },
+					{ "time": 0.4, "name": "bee_effect2" },
+					{ "time": 0.4333, "name": "bee_effect3" },
+					{ "time": 0.4667, "name": "bee_effect1" },
+					{ "time": 0.5333, "name": "bee_effect3" },
+					{ "time": 0.5667, "name": "bee_effect2" },
+					{ "time": 0.6, "name": "bee_effect3" },
+					{ "time": 0.6333, "name": "bee_effect1" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"bee_wing1": {
+				"attachment": [
+					{ "time": 0.0333, "name": "bee_wing3" },
+					{ "time": 0.0667, "name": "bee_wing4" },
+					{ "time": 0.1, "name": "bee_wing3" },
+					{ "time": 0.1333, "name": "bee_wing1" },
+					{ "time": 0.2, "name": "bee_wing3" },
+					{ "time": 0.2333, "name": "bee_wing4" },
+					{ "time": 0.2667, "name": "bee_wing3" },
+					{ "time": 0.3, "name": "bee_wing1" },
+					{ "time": 0.3667, "name": "bee_wing3" },
+					{ "time": 0.4, "name": "bee_wing4" },
+					{ "time": 0.4333, "name": "bee_wing3" },
+					{ "time": 0.4667, "name": "bee_wing1" },
+					{ "time": 0.5333, "name": "bee_wing3" },
+					{ "time": 0.5667, "name": "bee_wing4" },
+					{ "time": 0.6, "name": "bee_wing3" },
+					{ "time": 0.6333, "name": "bee_wing1" },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"firefly_goal_no_wings": {
+				"translate": [
+					{ "time": 0, "x": 5.04, "y": -7.85 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.503, "y": 1.503 }
+				]
+			}
+		}
+	}
+}
+}

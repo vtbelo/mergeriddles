@@ -1,0 +1,132 @@
+
+firefly_jar-cad9252677.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bee_effect1
+  rotate: false
+  xy: 1, 415
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+bee_effect2
+  rotate: false
+  xy: 78, 466
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+bee_effect3
+  rotate: false
+  xy: 34, 415
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+bee_wing1
+  rotate: false
+  xy: 82, 415
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+bee_wing3
+  rotate: false
+  xy: 139, 1
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+bee_wing4
+  rotate: false
+  xy: 192, 455
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+fireflies_jar1
+  rotate: false
+  xy: 1, 1
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+fireflies_jar2
+  rotate: false
+  xy: 1, 139
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+fireflies_jar3
+  rotate: false
+  xy: 1, 277
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+fireflies_jar5
+  rotate: false
+  xy: 224, 1
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+fireflies_jar_body
+  rotate: false
+  xy: 362, 123
+  size: 93, 115
+  orig: 93, 115
+  offset: 0, 0
+  index: -1
+fireflies_jar_body_up
+  rotate: false
+  xy: 1, 472
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+fireflies_jar_firefly
+  rotate: false
+  xy: 126, 455
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+fireflies_jar_up
+  rotate: false
+  xy: 125, 415
+  size: 78, 38
+  orig: 78, 38
+  offset: 0, 0
+  index: -1
+firefly_goal
+  rotate: false
+  xy: 362, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+firefly_goal_no_wings
+  rotate: false
+  xy: 224, 139
+  size: 91, 109
+  orig: 91, 109
+  offset: 0, 0
+  index: -1
+firefly_jar-images-firefly_goal
+  rotate: false
+  xy: 362, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hfb_light1
+  rotate: false
+  xy: 159, 455
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

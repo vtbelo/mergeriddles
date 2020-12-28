@@ -1,0 +1,90 @@
+
+color_container-d734a3ca5b.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle_color
+  rotate: false
+  xy: 1, 1
+  size: 87, 126
+  orig: 87, 126
+  offset: 0, 0
+  index: -1
+bottle_color_blik
+  rotate: false
+  xy: 90, 127
+  size: 84, 121
+  orig: 84, 121
+  offset: 0, 0
+  index: -1
+bottle_color_buble
+  rotate: false
+  xy: 69, 200
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+bottle_color_filling1
+  rotate: false
+  xy: 1, 200
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+bottle_color_filling2
+  rotate: false
+  xy: 176, 207
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+bottle_color_filling3
+  rotate: false
+  xy: 177, 1
+  size: 72, 101
+  orig: 72, 101
+  offset: 0, 0
+  index: -1
+bottle_color_grey
+  rotate: false
+  xy: 177, 104
+  size: 72, 101
+  orig: 72, 101
+  offset: 0, 0
+  index: -1
+bottle_color_grey1
+  rotate: false
+  xy: 1, 239
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+bottle_color_grey3
+  rotate: false
+  xy: 1, 129
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+bottle_color_up
+  rotate: false
+  xy: 69, 250
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+color_container-images-color_container_goal
+  rotate: false
+  xy: 90, 1
+  size: 85, 124
+  orig: 85, 124
+  offset: 0, 0
+  index: -1
+color_container_goal
+  rotate: false
+  xy: 90, 1
+  size: 85, 124
+  orig: 85, 124
+  offset: 0, 0
+  index: -1

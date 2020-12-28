@@ -1,0 +1,135 @@
+{
+"skeleton": { "hash": "VuflEu6x2/jba5ZzaRbd/1NUv3Y", "spine": "3.5.35", "width": 344.66, "height": 614.15 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "game_stars_big", "parent": "root", "x": 0.05, "y": 395.81 },
+	{ "name": "game_stars_wave", "parent": "root", "x": 85.45, "y": -1.18 }
+],
+"slots": [
+	{ "name": "game_stars_big", "bone": "game_stars_big", "attachment": "game_stars_big" },
+	{ "name": "game_stars_wave", "bone": "game_stars_wave", "attachment": "game_stars_wave" },
+	{ "name": "score_star1", "bone": "root", "attachment": "score_star1" }
+],
+"path": [
+	{
+		"name": "score_star_1",
+		"order": 0,
+		"bones": [ "game_stars_big" ],
+		"target": "score_star1",
+		"rotateMix": 0
+	}
+],
+"skins": {
+	"default": {
+		"game_stars_big": {
+			"game_stars_big": { "x": -0.57, "y": 11.19, "width": 141, "height": 139 }
+		},
+		"game_stars_wave": {
+			"game_stars_wave": { "x": 0.01, "y": 0.06, "width": 72, "height": 72 }
+		},
+		"score_star1": {
+			"score_star1": {
+				"type": "path",
+				"lengths": [ 452.27, 922.58 ],
+				"vertexCount": 6,
+				"vertices": [ -83.01, -438.24, -82.9, -438.08, -22.38, -347.05, 22.98, -141.2, 0.03, -0.56, -27.99, 169.96 ]
+			}
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"game_stars_big": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "color": "ffffffff" }
+				]
+			},
+			"game_stars_wave": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.2667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.8333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"game_stars_big": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.024,
+						"y": 0.024,
+						"curve": [ 0.407, 0.5, 0.677, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"x": 1.667,
+						"y": 1.667,
+						"curve": [ 0.398, 0, 0.728, 0.44 ]
+					},
+					{
+						"time": 0.4667,
+						"x": 0.939,
+						"y": 0.939,
+						"curve": [ 0.392, 0.32, 0.723, 0.68 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 1.075,
+						"y": 1.075,
+						"curve": [ 0.428, 0.49, 0.757, 0.89 ]
+					},
+					{ "time": 0.8333, "x": 0.5, "y": 0.5 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"game_stars_wave": {
+				"translate": [
+					{ "time": 0, "x": -85.01, "y": 0.92, "curve": "stepped" },
+					{ "time": 1.8333, "x": -85.01, "y": 0.92 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 1,
+						"x": 0.053,
+						"y": 0.053,
+						"curve": [ 0, 0.3, 0.228, 1 ]
+					},
+					{ "time": 1.8333, "x": 1.652, "y": 1.652 }
+				]
+			}
+		},
+		"paths": {
+			"score_star_1": {
+				"position": [
+					{ "time": 0, "curve": "stepped" },
+					{
+						"time": 0.5,
+						"curve": [ 0.297, 0, 0.634, 0.37 ]
+					},
+					{ "time": 1, "position": 1 }
+				]
+			}
+		}
+	}
+}
+}

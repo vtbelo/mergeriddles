@@ -1,0 +1,195 @@
+
+episode_coming_soon-2ad6663338.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_cup
+  rotate: false
+  xy: 1, 222
+  size: 211, 179
+  orig: 211, 179
+  offset: 0, 0
+  index: -1
+builder_body
+  rotate: false
+  xy: 235, 411
+  size: 142, 61
+  orig: 142, 61
+  offset: 0, 0
+  index: -1
+builder_eye1
+  rotate: false
+  xy: 466, 1
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+builder_eye2
+  rotate: false
+  xy: 206, 470
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+builder_hand1
+  rotate: false
+  xy: 454, 223
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+builder_hand2
+  rotate: false
+  xy: 234, 474
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+builder_hat
+  rotate: false
+  xy: 1, 403
+  size: 171, 131
+  orig: 171, 131
+  offset: 0, 0
+  index: -1
+builder_head
+  rotate: false
+  xy: 1, 1
+  size: 238, 219
+  orig: 238, 219
+  offset: 0, 0
+  index: -1
+builder_mouth
+  rotate: false
+  xy: 214, 267
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+hfb_hand_friend
+  rotate: false
+  xy: 174, 403
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+hfb_hand_friend2
+  rotate: false
+  xy: 466, 52
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+hfb_purple_eye
+  rotate: false
+  xy: 379, 439
+  size: 113, 43
+  orig: 113, 43
+  offset: 0, 0
+  index: -1
+hfb_purple_hand1
+  rotate: false
+  xy: 454, 272
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+hfb_purple_mouth
+  rotate: false
+  xy: 174, 484
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+hfb_purple_mouth2
+  rotate: false
+  xy: 466, 202
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+hfb_purple_pers1
+  rotate: false
+  xy: 241, 213
+  size: 211, 196
+  orig: 211, 196
+  offset: 0, 0
+  index: -1
+hfb_purple_pers2
+  rotate: false
+  xy: 214, 278
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+hfb_purple_pers3
+  rotate: false
+  xy: 379, 411
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+hfb_purple_pers5
+  rotate: false
+  xy: 454, 336
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+hfb_purple_pers6
+  rotate: false
+  xy: 454, 378
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+hfb_purple_smile
+  rotate: false
+  xy: 174, 470
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+hfb_red_eye
+  rotate: false
+  xy: 327, 484
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+hfb_red_mouth
+  rotate: false
+  xy: 214, 295
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+hfb_red_smile
+  rotate: false
+  xy: 205, 508
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+hfb_red_voice1
+  rotate: false
+  xy: 241, 1
+  size: 223, 210
+  orig: 223, 210
+  offset: 0, 0
+  index: -1
+piggy_full_blik
+  rotate: false
+  xy: 214, 222
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+piggy_full_blik2
+  rotate: false
+  xy: 466, 134
+  size: 32, 66
+  orig: 32, 66
+  offset: 0, 0
+  index: -1

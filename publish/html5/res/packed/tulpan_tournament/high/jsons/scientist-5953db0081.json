@@ -1,0 +1,4848 @@
+{
+	"skeleton": {
+		"hash": "IfzmdQkKFQjRktHAl91R1oIVYqg",
+		"spine": "3.7.91",
+		"width": 593.68,
+		"height": 1255.14,
+		"images": "C:\\Users\\Админ\\Documents\\GitHub\\match3\\res\\skins\\riddles\\high\\bundles\\TulpanTournament\\images",
+		"audio": "C:/Users/Eugene/Desktop/story_trmnt_dog"
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "story_trmnt_dog",
+			"parent": "root"
+		},
+		{
+			"name": "story_trmnt_dog3",
+			"parent": "story_trmnt_dog",
+			"length": 41.09,
+			"rotation": 98.78,
+			"x": -242.71,
+			"y": 75.3
+		},
+		{
+			"name": "story_trmnt_dog4",
+			"parent": "story_trmnt_dog",
+			"length": 41.09,
+			"rotation": 98.73,
+			"x": -294.57,
+			"y": 66.5
+		},
+		{
+			"name": "story_trmnt_dog5",
+			"parent": "story_trmnt_dog",
+			"length": 41.09,
+			"rotation": 90.45,
+			"x": -343.73,
+			"y": 4.89
+		},
+		{
+			"name": "story_trmnt_dog6",
+			"parent": "story_trmnt_dog",
+			"length": 41.09,
+			"rotation": 90.45,
+			"x": -272.33,
+			"y": -89.59
+		},
+		{
+			"name": "story_trmnt_dog_body",
+			"parent": "story_trmnt_dog",
+			"length": 249.39,
+			"rotation": 89.81,
+			"x": 77.08,
+			"y": 684.08
+		},
+		{
+			"name": "story_trmnt_dog_bow",
+			"parent": "story_trmnt_dog",
+			"x": -95.95,
+			"y": -94.22
+		},
+		{
+			"name": "story_trmnt_dog_bow2",
+			"parent": "story_trmnt_dog",
+			"rotation": -30.97,
+			"x": -128.4,
+			"y": -117.59
+		},
+		{
+			"name": "story_trmnt_dog_bow3",
+			"parent": "story_trmnt_dog",
+			"rotation": -13.2,
+			"x": -82.97,
+			"y": -117.59
+		},
+		{
+			"name": "story_trmnt_dog_bow4",
+			"parent": "story_trmnt_dog",
+			"rotation": -13.2,
+			"x": -120.44,
+			"y": 40.2,
+			"scaleX": 0.439,
+			"scaleY": 0.439
+		},
+		{
+			"name": "story_trmnt_dog_box",
+			"parent": "story_trmnt_dog",
+			"x": -258.56,
+			"y": 14.79
+		},
+		{
+			"name": "story_trmnt_dog_carpet",
+			"parent": "story_trmnt_dog",
+			"length": 126.36,
+			"rotation": 91.41,
+			"x": 5.87,
+			"y": -223.38
+		},
+		{
+			"name": "story_trmnt_dog_hand",
+			"parent": "story_trmnt_dog_body",
+			"length": 163.25,
+			"rotation": 44.1,
+			"x": 207.32,
+			"y": 79.87
+		},
+		{
+			"name": "story_trmnt_dog_ear1",
+			"parent": "story_trmnt_dog_hand",
+			"length": 39.68,
+			"rotation": 0.59,
+			"x": 139.29,
+			"y": -28.16
+		},
+		{
+			"name": "story_trmnt_dog_ear2",
+			"parent": "story_trmnt_dog_hand",
+			"length": 43.57,
+			"rotation": -77.2,
+			"x": 85.1,
+			"y": -52.76
+		},
+		{
+			"name": "story_trmnt_dog_feeder2",
+			"parent": "story_trmnt_dog",
+			"length": 101.18,
+			"rotation": 88.69,
+			"x": -112.87,
+			"y": -190.55
+		},
+		{
+			"name": "story_trmnt_dog_feeder1",
+			"parent": "story_trmnt_dog_feeder2",
+			"x": 3.99,
+			"y": 2.47
+		},
+		{
+			"name": "story_trmnt_dog_green",
+			"parent": "story_trmnt_dog",
+			"length": 51.36,
+			"rotation": 97.41,
+			"x": -287.21,
+			"y": 9.7,
+			"scaleX": 0.884,
+			"scaleY": 0.884
+		},
+		{
+			"name": "story_trmnt_dog_green2",
+			"parent": "story_trmnt_dog",
+			"length": 51.36,
+			"rotation": 98.12,
+			"x": -279.6,
+			"y": -42.84,
+			"scaleX": 0.879,
+			"scaleY": 0.879
+		},
+		{
+			"name": "story_trmnt_dog_green3",
+			"parent": "story_trmnt_dog",
+			"length": 51.36,
+			"rotation": 97.98,
+			"x": -226.19,
+			"y": -35.28,
+			"scaleX": 0.873,
+			"scaleY": 0.873
+		},
+		{
+			"name": "story_trmnt_dog_green4",
+			"parent": "story_trmnt_dog",
+			"length": 51.36,
+			"rotation": 97.03,
+			"x": -190.26,
+			"y": 78.56,
+			"scaleX": 0.898,
+			"scaleY": 0.898
+		},
+		{
+			"name": "story_trmnt_dog_hand2",
+			"parent": "story_trmnt_dog_body",
+			"length": 148.9,
+			"rotation": 173.44,
+			"x": 178.32,
+			"y": 67.58,
+			"scaleX": 1.042,
+			"scaleY": 0.925
+		},
+		{
+			"name": "story_trmnt_dog_ice",
+			"parent": "story_trmnt_dog",
+			"length": 44.93,
+			"rotation": 100.06,
+			"x": -213.18,
+			"y": -86.14,
+			"scaleX": 1.116,
+			"scaleY": 1.116
+		},
+		{
+			"name": "story_trmnt_dog_ice2",
+			"parent": "story_trmnt_dog",
+			"length": 44.93,
+			"rotation": 100.06,
+			"x": -172.3,
+			"y": -25.66,
+			"scaleX": 1.069,
+			"scaleY": 1.069
+		},
+		{
+			"name": "story_trmnt_dog_ice3",
+			"parent": "story_trmnt_dog",
+			"length": 44.93,
+			"rotation": 100.06,
+			"x": -180.7,
+			"y": 26.59,
+			"scaleX": 1.072,
+			"scaleY": 1.072
+		},
+		{
+			"name": "story_trmnt_dog_ice4",
+			"parent": "story_trmnt_dog",
+			"length": 44.93,
+			"rotation": 100.06,
+			"x": -329.56,
+			"y": -53.3,
+			"scaleX": 1.134,
+			"scaleY": 1.134
+		},
+		{
+			"name": "story_trmnt_dog_legs",
+			"parent": "story_trmnt_dog_body",
+			"length": 129.57,
+			"rotation": 177.44,
+			"x": 161.67,
+			"y": -19.59
+		},
+		{
+			"name": "story_trmnt_dog_light",
+			"parent": "story_trmnt_dog",
+			"x": -122.83,
+			"y": 39.05
+		},
+		{
+			"name": "story_trmnt_dog_medal",
+			"parent": "story_trmnt_dog_body",
+			"length": 42.09,
+			"rotation": 176.15,
+			"x": 192.18,
+			"y": 129.24
+		},
+		{
+			"name": "story_trmnt_dog_mouth",
+			"parent": "story_trmnt_dog_hand",
+			"length": 50.85,
+			"rotation": 98.89,
+			"x": 65.56,
+			"y": 44.6
+		},
+		{
+			"name": "story_trmnt_dog_pupil",
+			"parent": "story_trmnt_dog_hand",
+			"x": 122.15,
+			"y": 1.97
+		},
+		{
+			"name": "story_trmnt_dog_shadow",
+			"parent": "story_trmnt_dog_carpet",
+			"x": 94.84,
+			"y": 8.26
+		},
+		{
+			"name": "story_trmnt_dog_star",
+			"parent": "story_trmnt_dog",
+			"length": 47.82,
+			"rotation": 90,
+			"x": 52.55,
+			"y": -57.46
+		},
+		{
+			"name": "story_trmnt_dog_star2",
+			"parent": "story_trmnt_dog",
+			"length": 47.82,
+			"rotation": 90,
+			"x": 52.55,
+			"y": -57.46
+		},
+		{
+			"name": "story_trmnt_dog_star3",
+			"parent": "story_trmnt_dog",
+			"length": 50.08,
+			"rotation": 101.76,
+			"x": -348.28,
+			"y": 55.45,
+			"scaleX": 0.929,
+			"scaleY": 0.929
+		},
+		{
+			"name": "story_trmnt_dog_star4",
+			"parent": "story_trmnt_dog",
+			"length": 50.08,
+			"rotation": 99.08,
+			"x": -323.77,
+			"y": -102.28,
+			"scaleX": 0.911,
+			"scaleY": 0.911
+		},
+		{
+			"name": "story_trmnt_dog_star5",
+			"parent": "story_trmnt_dog",
+			"length": 50.08,
+			"rotation": 101.05,
+			"x": -168.63,
+			"y": -76.86,
+			"scaleX": 0.927,
+			"scaleY": 0.927
+		},
+		{
+			"name": "story_trmnt_dog_star6",
+			"parent": "story_trmnt_dog",
+			"length": 50.08,
+			"rotation": 99.3,
+			"x": -234.8,
+			"y": 20.42,
+			"scaleX": 0.919,
+			"scaleY": 0.919
+		},
+		{
+			"name": "story_trmnt_dog_tail",
+			"parent": "story_trmnt_dog_body",
+			"length": 45.32,
+			"rotation": -44.04,
+			"x": 233.85,
+			"y": -86.09
+		},
+		{
+			"name": "story_trmnt_dragon_hand2",
+			"parent": "story_trmnt_dog",
+			"length": 80.37,
+			"rotation": 100.2,
+			"x": -200.18,
+			"y": -124.39
+		}
+	],
+	"slots": [
+		{
+			"name": "story_trmnt_dog_carpet",
+			"bone": "story_trmnt_dog_carpet"
+		},
+		{
+			"name": "story_trmnt_dog_carpet2",
+			"bone": "story_trmnt_dog_carpet"
+		},
+		{
+			"name": "story_trmnt_dog_shadow",
+			"bone": "story_trmnt_dog_shadow"
+		},
+		{
+			"name": "story_trmnt_dog_ear1",
+			"bone": "story_trmnt_dog_ear1",
+			"attachment": "story_trmnt_dog_ear1"
+		},
+		{
+			"name": "story_trmnt_dog_hand",
+			"bone": "story_trmnt_dog_hand",
+			"attachment": "story_trmnt_dog_hand"
+		},
+		{
+			"name": "story_trmnt_dog_ear2",
+			"bone": "story_trmnt_dog_ear2",
+			"attachment": "story_trmnt_dog_ear2"
+		},
+		{
+			"name": "story_trmnt_dog_hand2",
+			"bone": "story_trmnt_dog_hand2",
+			"color": "8d5217ff",
+			"attachment": "story_trmnt_dog_hand2"
+		},
+		{
+			"name": "story_trmnt_dog_mouth",
+			"bone": "story_trmnt_dog_mouth",
+			"attachment": "story_trmnt_dog_mouth"
+		},
+		{
+			"name": "story_trmnt_dog_tail",
+			"bone": "story_trmnt_dog_tail",
+			"attachment": "story_trmnt_dog_tail"
+		},
+		{
+			"name": "story_trmnt_dog_feeder2",
+			"bone": "story_trmnt_dog_feeder2",
+			"attachment": "story_trmnt_dog_feeder2"
+		},
+		{
+			"name": "story_trmnt_dog_bow",
+			"bone": "story_trmnt_dog_bow",
+			"color": "f5d9d9ff"
+		},
+		{
+			"name": "story_trmnt_dog_bow3",
+			"bone": "story_trmnt_dog_bow3",
+			"color": "dfababff"
+		},
+		{
+			"name": "story_trmnt_dog_bow2",
+			"bone": "story_trmnt_dog_bow2"
+		},
+		{
+			"name": "story_trmnt_dog_box",
+			"bone": "story_trmnt_dog_box",
+			"attachment": "story_trmnt_dog_box"
+		},
+		{
+			"name": "story_trmnt_dog_ice",
+			"bone": "story_trmnt_dog_ice",
+			"attachment": "story_trmnt_dog_ice"
+		},
+		{
+			"name": "story_trmnt_dog_ice4",
+			"bone": "story_trmnt_dog_ice4",
+			"attachment": "story_trmnt_dog_ice"
+		},
+		{
+			"name": "story_trmnt_dog_ice2",
+			"bone": "story_trmnt_dog_ice2",
+			"attachment": "story_trmnt_dog_ice"
+		},
+		{
+			"name": "story_trmnt_dog_ice3",
+			"bone": "story_trmnt_dog_ice3",
+			"attachment": "story_trmnt_dog_ice"
+		},
+		{
+			"name": "story_trmnt_dog_legs",
+			"bone": "story_trmnt_dog_legs",
+			"color": "c8812bff",
+			"attachment": "story_trmnt_dog_legs"
+		},
+		{
+			"name": "story_trmnt_dog_body",
+			"bone": "story_trmnt_dog_body",
+			"attachment": "story_trmnt_dog_body"
+		},
+		{
+			"name": "story_trmnt_dog_medal",
+			"bone": "story_trmnt_dog_medal",
+			"attachment": "story_trmnt_dog_medal"
+		},
+		{
+			"name": "story_trmnt_dog_pupil",
+			"bone": "story_trmnt_dog_pupil",
+			"attachment": "story_trmnt_dog_pupil"
+		},
+		{
+			"name": "story_trmnt_dog_feeder1",
+			"bone": "story_trmnt_dog_feeder1",
+			"attachment": "story_trmnt_dog_feeder1"
+		},
+		{
+			"name": "story_trmnt_dog_star",
+			"bone": "story_trmnt_dog_star"
+		},
+		{
+			"name": "story_trmnt_dog_star2",
+			"bone": "story_trmnt_dog_star2"
+		},
+		{
+			"name": "story_trmnt_dog_star3",
+			"bone": "story_trmnt_dog_star3",
+			"attachment": "story_trmnt_dog_star"
+		},
+		{
+			"name": "story_trmnt_dog_star6",
+			"bone": "story_trmnt_dog_star6",
+			"attachment": "story_trmnt_dog_star"
+		},
+		{
+			"name": "story_trmnt_dog_star4",
+			"bone": "story_trmnt_dog_star4",
+			"attachment": "story_trmnt_dog_star"
+		},
+		{
+			"name": "story_trmnt_dog_star5",
+			"bone": "story_trmnt_dog_star5",
+			"attachment": "story_trmnt_dog_star"
+		},
+		{
+			"name": "story_trmnt_dog",
+			"bone": "story_trmnt_dog3",
+			"attachment": "story_trmnt_dog"
+		},
+		{
+			"name": "story_trmnt_dog2",
+			"bone": "story_trmnt_dog4",
+			"attachment": "story_trmnt_dog"
+		},
+		{
+			"name": "story_trmnt_dog3",
+			"bone": "story_trmnt_dog5",
+			"attachment": "story_trmnt_dog"
+		},
+		{
+			"name": "story_trmnt_dog4",
+			"bone": "story_trmnt_dog6",
+			"attachment": "story_trmnt_dog"
+		},
+		{
+			"name": "story_trmnt_dog_green",
+			"bone": "story_trmnt_dog_green",
+			"attachment": "story_trmnt_dog_green"
+		},
+		{
+			"name": "story_trmnt_dog_green4",
+			"bone": "story_trmnt_dog_green4",
+			"attachment": "story_trmnt_dog_green"
+		},
+		{
+			"name": "story_trmnt_dog_green3",
+			"bone": "story_trmnt_dog_green3",
+			"attachment": "story_trmnt_dog_green"
+		},
+		{
+			"name": "story_trmnt_dog_green2",
+			"bone": "story_trmnt_dog_green2",
+			"attachment": "story_trmnt_dog_green"
+		},
+		{
+			"name": "story_trmnt_dog_light",
+			"bone": "story_trmnt_dog_light",
+			"attachment": "story_trmnt_dog_light"
+		},
+		{
+			"name": "story_trmnt_dragon_hand2",
+			"bone": "story_trmnt_dragon_hand2",
+			"attachment": "story_trmnt_dragon_hand2"
+		},
+		{
+			"name": "story_trmnt_dog_bow4",
+			"bone": "story_trmnt_dog_bow4",
+			"attachment": "story_trmnt_dog_bow"
+		},
+		{
+			"name": "story_trmnt_dog_hand3",
+			"bone": "story_trmnt_dog_body",
+			"attachment": "story_trmnt_dog_hand2"
+		},
+		{
+			"name": "story_trmnt_dog_legs2",
+			"bone": "story_trmnt_dog_body",
+			"attachment": "story_trmnt_dog_legs"
+		}
+	],
+	"skins": {
+		"default": {
+			"story_trmnt_dog": {
+				"story_trmnt_dog": {
+					"x": 20.15,
+					"y": -1.59,
+					"rotation": -90.45,
+					"width": 50,
+					"height": 46
+				}
+			},
+			"story_trmnt_dog2": {
+				"story_trmnt_dog": {
+					"x": 20.15,
+					"y": -1.59,
+					"rotation": -90.45,
+					"width": 50,
+					"height": 46
+				}
+			},
+			"story_trmnt_dog3": {
+				"story_trmnt_dog": {
+					"x": 20.15,
+					"y": -1.59,
+					"rotation": -90.45,
+					"width": 50,
+					"height": 46
+				}
+			},
+			"story_trmnt_dog4": {
+				"story_trmnt_dog": {
+					"x": 20.15,
+					"y": -1.59,
+					"rotation": -90.45,
+					"width": 50,
+					"height": 46
+				}
+			},
+			"story_trmnt_dog_body": {
+				"story_trmnt_dog_body": {
+					"x": 199.09,
+					"y": 17.34,
+					"scaleX": 1.559,
+					"scaleY": 1.559,
+					"rotation": -89.81,
+					"width": 180,
+					"height": 107
+				}
+			},
+			"story_trmnt_dog_bow": {
+				"story_trmnt_dog_bow": {
+					"x": -1.99,
+					"y": -1.28,
+					"width": 109,
+					"height": 83
+				}
+			},
+			"story_trmnt_dog_bow2": {
+				"story_trmnt_dog_bow": {
+					"x": -1.99,
+					"y": -1.28,
+					"width": 109,
+					"height": 83
+				}
+			},
+			"story_trmnt_dog_bow3": {
+				"story_trmnt_dog_bow": {
+					"x": -1.99,
+					"y": -1.28,
+					"width": 109,
+					"height": 83
+				}
+			},
+			"story_trmnt_dog_bow4": {
+				"story_trmnt_dog_bow": {
+					"x": -1.99,
+					"y": -1.28,
+					"width": 109,
+					"height": 83
+				}
+			},
+			"story_trmnt_dog_box": {
+				"story_trmnt_dog_box": {
+					"x": -1.5,
+					"y": -5,
+					"width": 252,
+					"height": 254
+				}
+			},
+			"story_trmnt_dog_carpet": {
+				"story_trmnt_dog_carpet": {
+					"x": 66.86,
+					"y": 113.81,
+					"scaleX": 2.234,
+					"scaleY": 2.234,
+					"rotation": -91.41,
+					"width": 100,
+					"height": 68
+				}
+			},
+			"story_trmnt_dog_carpet2": {
+				"story_trmnt_dog_carpet": {
+					"x": 61.45,
+					"y": -105.89,
+					"scaleX": -2.23,
+					"scaleY": 2.234,
+					"rotation": -91.41,
+					"width": 100,
+					"height": 68
+				}
+			},
+			"story_trmnt_dog_ear1": {
+				"story_trmnt_dog_ear1": {
+					"x": 42.29,
+					"y": 6.21,
+					"rotation": -138.22,
+					"width": 76,
+					"height": 48
+				}
+			},
+			"story_trmnt_dog_ear2": {
+				"story_trmnt_dog_ear2": {
+					"x": 23.02,
+					"y": 2.74,
+					"rotation": -48.63,
+					"width": 68,
+					"height": 81
+				}
+			},
+			"story_trmnt_dog_feeder1": {
+				"story_trmnt_dog_feeder1": {
+					"x": 54.98,
+					"y": -6.11,
+					"scaleX": 1.19,
+					"scaleY": 1.19,
+					"rotation": -88.69,
+					"width": 160,
+					"height": 43
+				}
+			},
+			"story_trmnt_dog_feeder2": {
+				"story_trmnt_dog_feeder2": {
+					"x": 50.87,
+					"y": -3.41,
+					"scaleX": 1.911,
+					"scaleY": 1.911,
+					"rotation": -88.69,
+					"width": 100,
+					"height": 54
+				}
+			},
+			"story_trmnt_dog_green": {
+				"story_trmnt_dog_green": {
+					"x": 27.39,
+					"y": 0.41,
+					"rotation": -90.72,
+					"width": 54,
+					"height": 57
+				}
+			},
+			"story_trmnt_dog_green2": {
+				"story_trmnt_dog_green": {
+					"x": 27.39,
+					"y": 0.41,
+					"rotation": -90.72,
+					"width": 54,
+					"height": 57
+				}
+			},
+			"story_trmnt_dog_green3": {
+				"story_trmnt_dog_green": {
+					"x": 27.39,
+					"y": 0.41,
+					"rotation": -90.72,
+					"width": 54,
+					"height": 57
+				}
+			},
+			"story_trmnt_dog_green4": {
+				"story_trmnt_dog_green": {
+					"x": 27.39,
+					"y": 0.41,
+					"rotation": -90.72,
+					"width": 54,
+					"height": 57
+				}
+			},
+			"story_trmnt_dog_hand": {
+				"story_trmnt_dog_hand": {
+					"x": 92.4,
+					"y": 9.99,
+					"scaleX": 1.772,
+					"scaleY": 1.772,
+					"rotation": -133.91,
+					"width": 100,
+					"height": 98
+				}
+			},
+			"story_trmnt_dog_hand2": {
+				"story_trmnt_dog_hand2": {
+					"x": 51.56,
+					"y": 0.03,
+					"scaleX": 1.138,
+					"scaleY": 1.138,
+					"rotation": 80.33,
+					"width": 84,
+					"height": 175
+				}
+			},
+			"story_trmnt_dog_hand3": {
+				"story_trmnt_dog_hand2": {
+					"x": 100.4,
+					"y": -80.39,
+					"scaleX": 1.127,
+					"scaleY": 1.127,
+					"rotation": -88.36,
+					"width": 84,
+					"height": 175
+				}
+			},
+			"story_trmnt_dog_ice": {
+				"story_trmnt_dog_ice": {
+					"x": 22.45,
+					"y": 2.07,
+					"rotation": -100.06,
+					"width": 39,
+					"height": 48
+				}
+			},
+			"story_trmnt_dog_ice2": {
+				"story_trmnt_dog_ice": {
+					"x": 22.45,
+					"y": 2.07,
+					"rotation": -100.06,
+					"width": 39,
+					"height": 48
+				}
+			},
+			"story_trmnt_dog_ice3": {
+				"story_trmnt_dog_ice": {
+					"x": 22.45,
+					"y": 2.07,
+					"rotation": -100.06,
+					"width": 39,
+					"height": 48
+				}
+			},
+			"story_trmnt_dog_ice4": {
+				"story_trmnt_dog_ice": {
+					"x": 22.45,
+					"y": 2.07,
+					"rotation": -100.06,
+					"width": 39,
+					"height": 48
+				}
+			},
+			"story_trmnt_dog_legs": {
+				"story_trmnt_dog_legs": {
+					"x": 66.54,
+					"y": 3.05,
+					"scaleX": 1.086,
+					"scaleY": 1.086,
+					"rotation": 92.74,
+					"width": 64,
+					"height": 123
+				}
+			},
+			"story_trmnt_dog_legs2": {
+				"story_trmnt_dog_legs": {
+					"x": 68.62,
+					"y": 44.77,
+					"scaleX": 1.178,
+					"scaleY": 1.178,
+					"rotation": -91.1,
+					"width": 64,
+					"height": 123
+				}
+			},
+			"story_trmnt_dog_light": {
+				"story_trmnt_dog_light": {
+					"x": -0.15,
+					"y": -2.15,
+					"width": 133,
+					"height": 133
+				}
+			},
+			"story_trmnt_dog_medal": {
+				"story_trmnt_dog_medal": {
+					"x": 22,
+					"y": -2.44,
+					"rotation": 94.04,
+					"width": 48,
+					"height": 47
+				}
+			},
+			"story_trmnt_dog_mouth": {
+				"story_trmnt_dog_mouth": {
+					"x": 27.07,
+					"y": -1.5,
+					"rotation": 127.2,
+					"width": 40,
+					"height": 49
+				}
+			},
+			"story_trmnt_dog_pupil": {
+				"story_trmnt_dog_pupil": {
+					"x": -6.39,
+					"y": -1.45,
+					"rotation": -133.91,
+					"width": 69,
+					"height": 41
+				}
+			},
+			"story_trmnt_dog_shadow": {
+				"story_trmnt_dog_shadow": {
+					"x": -30.85,
+					"y": -3.19,
+					"scaleX": 4.497,
+					"scaleY": 4.497,
+					"rotation": -91.41,
+					"width": 100,
+					"height": 34
+				}
+			},
+			"story_trmnt_dog_star": {
+				"story_trmnt_dog_star": {
+					"x": 22.76,
+					"y": -3.45,
+					"rotation": -90,
+					"width": 57,
+					"height": 54
+				}
+			},
+			"story_trmnt_dog_star2": {
+				"story_trmnt_dog_star": {
+					"x": 22.76,
+					"y": -3.45,
+					"rotation": -90,
+					"width": 57,
+					"height": 54
+				}
+			},
+			"story_trmnt_dog_star3": {
+				"story_trmnt_dog_star": {
+					"x": 23.76,
+					"y": -3,
+					"rotation": -89.63,
+					"width": 57,
+					"height": 54
+				}
+			},
+			"story_trmnt_dog_star4": {
+				"story_trmnt_dog_star": {
+					"x": 23.76,
+					"y": -3,
+					"rotation": -89.63,
+					"width": 57,
+					"height": 54
+				}
+			},
+			"story_trmnt_dog_star5": {
+				"story_trmnt_dog_star": {
+					"x": 23.76,
+					"y": -3,
+					"rotation": -89.63,
+					"width": 57,
+					"height": 54
+				}
+			},
+			"story_trmnt_dog_star6": {
+				"story_trmnt_dog_star": {
+					"x": 23.76,
+					"y": -3,
+					"rotation": -89.63,
+					"width": 57,
+					"height": 54
+				}
+			},
+			"story_trmnt_dog_tail": {
+				"story_trmnt_dog_tail": {
+					"x": 23.32,
+					"y": 3.53,
+					"rotation": -45.77,
+					"width": 48,
+					"height": 61
+				}
+			},
+			"story_trmnt_dragon_hand2": {
+				"story_trmnt_cow_hand1": {
+					"x": 36.99,
+					"y": 4.59,
+					"rotation": -100.2,
+					"width": 71,
+					"height": 77
+				},
+				"story_trmnt_dragon_hand2": {
+					"x": 41.12,
+					"y": 3.89,
+					"rotation": -100.2,
+					"width": 70,
+					"height": 82
+				}
+			}
+		}
+	},
+	"animations": {
+		"finish": {
+			"slots": {
+				"story_trmnt_dog": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_bow": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_bow2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_bow3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_bow4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_box": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_carpet": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_carpet"
+						}
+					]
+				},
+				"story_trmnt_dog_carpet2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_carpet"
+						}
+					]
+				},
+				"story_trmnt_dog_green": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_green2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_green3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_green4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_ice": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_ice2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_ice3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_ice4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_light": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_shadow": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_shadow"
+						}
+					]
+				},
+				"story_trmnt_dog_star3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_star4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_star5": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_star6": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dragon_hand2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"story_trmnt_dog_bow4": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -28.7
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -91.92,
+							"y": 105.42
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.566,
+							"y": 0.554
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 3.12
+						}
+					]
+				},
+				"story_trmnt_dog_box": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0.97
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.144,
+							"y": 1.144
+						}
+					]
+				},
+				"story_trmnt_dog_ice": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 56.1,
+							"y": -1.11
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.103,
+							"y": 1.22
+						}
+					]
+				},
+				"story_trmnt_dog_ice2": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -45.29,
+							"y": -5.94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.103,
+							"y": 1.22
+						}
+					]
+				},
+				"story_trmnt_dog_ice3": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -45.29,
+							"y": 1.77
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.103,
+							"y": 1.22
+						}
+					]
+				},
+				"story_trmnt_dog_ice4": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 56.1,
+							"y": -1.11
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.103,
+							"y": 1.22
+						}
+					]
+				},
+				"story_trmnt_dog_light": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.449,
+							"y": 0.449
+						}
+					]
+				},
+				"story_trmnt_dog_star": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 8.39
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -276.86,
+							"y": -41.52
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.974,
+							"y": 1.012
+						}
+					]
+				},
+				"story_trmnt_dog_star2": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 8.39
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -236.64,
+							"y": 77.62
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.974,
+							"y": 1.012
+						}
+					]
+				},
+				"story_trmnt_dog": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 3.33,
+							"y": 4.91
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": -0.562,
+							"y": 0.562
+						}
+					]
+				},
+				"story_trmnt_dog_body": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": -860.47
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.5,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.1667,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.5,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.8333,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.1667,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_hand": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.6,
+							"angle": 2.16
+						},
+						{
+							"time": 1.2,
+							"angle": 0
+						},
+						{
+							"time": 1.8,
+							"angle": 2.16
+						},
+						{
+							"time": 2.4,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.6,
+							"x": 1.96,
+							"y": -1.92
+						},
+						{
+							"time": 1.2,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.8,
+							"x": 1.96,
+							"y": -1.92
+						},
+						{
+							"time": 2.4,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"story_trmnt_dog_medal": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1667,
+							"angle": -1.57
+						},
+						{
+							"time": 0.3333,
+							"angle": 5.94
+						},
+						{
+							"time": 0.5,
+							"angle": -1.57
+						},
+						{
+							"time": 0.6667,
+							"angle": 5.94
+						},
+						{
+							"time": 0.8333,
+							"angle": -1.57
+						},
+						{
+							"time": 1,
+							"angle": 5.94
+						},
+						{
+							"time": 1.1667,
+							"angle": -1.57
+						},
+						{
+							"time": 1.3333,
+							"angle": 5.94
+						},
+						{
+							"time": 1.5,
+							"angle": -1.57
+						},
+						{
+							"time": 1.6667,
+							"angle": 5.94
+						},
+						{
+							"time": 1.8333,
+							"angle": -1.57
+						},
+						{
+							"time": 2,
+							"angle": 5.94
+						},
+						{
+							"time": 2.1667,
+							"angle": -1.57
+						},
+						{
+							"time": 2.3333,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 0.5,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 1.5,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 1.8333,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 2.1667,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.1667,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 0.3333,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 0.5,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 0.6667,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 0.8333,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 1,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 1.1667,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 1.3333,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 1.5,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 1.6667,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 1.8333,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 2,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 2.1667,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 2.3333,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"story_trmnt_dog_tail": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -20.59,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6333,
+							"angle": -20.59
+						},
+						{
+							"time": 0.7333,
+							"angle": 24.52
+						},
+						{
+							"time": 0.8333,
+							"angle": -32.74
+						},
+						{
+							"time": 0.9667,
+							"angle": 21.66
+						},
+						{
+							"time": 1.0667,
+							"angle": -31.47
+						},
+						{
+							"time": 1.1667,
+							"angle": 26.99
+						},
+						{
+							"time": 1.2667,
+							"angle": -20.59
+						},
+						{
+							"time": 1.3667,
+							"angle": 24.52
+						},
+						{
+							"time": 1.4667,
+							"angle": -32.74
+						},
+						{
+							"time": 1.6,
+							"angle": 21.66
+						},
+						{
+							"time": 1.7,
+							"angle": -31.47
+						},
+						{
+							"time": 1.8,
+							"angle": 26.99
+						},
+						{
+							"time": 1.9,
+							"angle": -20.59
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -3.15,
+							"y": -0.01
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.035,
+							"y": 0.916
+						}
+					]
+				},
+				"story_trmnt_dog_pupil": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 1.34,
+							"y": 7.44
+						},
+						{
+							"time": 0.1667,
+							"x": 3.56,
+							"y": -0.22,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.3333,
+							"x": 3.56,
+							"y": -0.22
+						},
+						{
+							"time": 1.5,
+							"x": 1.34,
+							"y": 7.44
+						}
+					]
+				},
+				"story_trmnt_dog_mouth": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 1.092,
+							"y": 1
+						},
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.5,
+							"x": 1.092,
+							"y": 1
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.092,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.1667,
+							"x": 1.092,
+							"y": 1
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.5,
+							"x": 1.092,
+							"y": 1
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.8333,
+							"x": 1.092,
+							"y": 1
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.2,
+							"x": 1.092,
+							"y": 1
+						},
+						{
+							"time": 2.4,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.1667,
+							"x": 1.63,
+							"y": 0
+						},
+						{
+							"time": 0.3333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.5,
+							"x": 1.63,
+							"y": 0
+						},
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.8333,
+							"x": 1.63,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.1667,
+							"x": 1.63,
+							"y": 0
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.5,
+							"x": 1.63,
+							"y": 0
+						},
+						{
+							"time": 1.6667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.8333,
+							"x": 1.63,
+							"y": 0
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 2.2,
+							"x": 1.63,
+							"y": 0
+						},
+						{
+							"time": 2.4,
+							"x": 0,
+							"y": 0
+						}
+					]
+				}
+			}
+		},
+		"open": {
+			"slots": {
+				"story_trmnt_dog": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog"
+						}
+					]
+				},
+				"story_trmnt_dog2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog"
+						}
+					]
+				},
+				"story_trmnt_dog3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog"
+						}
+					]
+				},
+				"story_trmnt_dog4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog"
+						}
+					]
+				},
+				"story_trmnt_dog_bow": {
+					"attachment": [
+						{
+							"time": 0.5,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_bow2": {
+					"attachment": [
+						{
+							"time": 0.8333,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_bow3": {
+					"attachment": [
+						{
+							"time": 0.6667,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_bow4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_box": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.6667,
+							"name": "story_trmnt_dog_box"
+						}
+					]
+				},
+				"story_trmnt_dog_carpet": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_carpet"
+						}
+					]
+				},
+				"story_trmnt_dog_carpet2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_carpet"
+						}
+					]
+				},
+				"story_trmnt_dog_green": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_green"
+						}
+					]
+				},
+				"story_trmnt_dog_green2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_green"
+						}
+					]
+				},
+				"story_trmnt_dog_green3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_green4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_green"
+						}
+					]
+				},
+				"story_trmnt_dog_ice": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_ice"
+						}
+					]
+				},
+				"story_trmnt_dog_ice2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_ice"
+						}
+					]
+				},
+				"story_trmnt_dog_ice3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_ice"
+						}
+					]
+				},
+				"story_trmnt_dog_ice4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_ice"
+						}
+					]
+				},
+				"story_trmnt_dog_light": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_shadow": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff00",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6,
+							"color": "ffffff00"
+						},
+						{
+							"time": 0.7,
+							"color": "ffffffff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_shadow"
+						}
+					]
+				},
+				"story_trmnt_dog_star3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_star"
+						}
+					]
+				},
+				"story_trmnt_dog_star4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_star"
+						}
+					]
+				},
+				"story_trmnt_dog_star5": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_star"
+						}
+					]
+				},
+				"story_trmnt_dog_star6": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "story_trmnt_dog_star"
+						}
+					]
+				},
+				"story_trmnt_dragon_hand2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"story_trmnt_dog3": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog4": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog5": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog6": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_bow": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.5,
+							"x": 0.612,
+							"y": 0.612
+						},
+						{
+							"time": 0.6667,
+							"x": 1.086,
+							"y": 1.086
+						},
+						{
+							"time": 0.8333,
+							"x": 0.95,
+							"y": 0.95
+						},
+						{
+							"time": 0.9333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_bow2": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 0.612,
+							"y": 0.612
+						},
+						{
+							"time": 1,
+							"x": 1.086,
+							"y": 1.086
+						},
+						{
+							"time": 1.1667,
+							"x": 0.95,
+							"y": 0.95
+						},
+						{
+							"time": 1.2667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_bow3": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.6667,
+							"x": 0.612,
+							"y": 0.612
+						},
+						{
+							"time": 0.8333,
+							"x": 1.086,
+							"y": 1.086
+						},
+						{
+							"time": 1,
+							"x": 0.95,
+							"y": 0.95
+						},
+						{
+							"time": 1.1,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_bow4": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 31.37
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -105.97,
+							"y": -52.62,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.8667,
+							"x": -105.97,
+							"y": -52.62
+						},
+						{
+							"time": 1.0333,
+							"x": -110.15,
+							"y": -42.18
+						},
+						{
+							"time": 1.1667,
+							"x": -108.06,
+							"y": -58.19
+						},
+						{
+							"time": 1.2333,
+							"x": -108.06,
+							"y": -52.27
+						},
+						{
+							"time": 1.3333,
+							"x": -108.06,
+							"y": -54.36
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.223,
+							"y": 1.223,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.8667,
+							"x": 1.223,
+							"y": 1.223
+						},
+						{
+							"time": 1.0333,
+							"x": 1.158,
+							"y": 1.366
+						},
+						{
+							"time": 1.1667,
+							"x": 1.228,
+							"y": 1.086
+						},
+						{
+							"time": 1.2333,
+							"x": 1.182,
+							"y": 1.187
+						}
+					]
+				},
+				"story_trmnt_dog_box": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.6667,
+							"x": 0.461,
+							"y": 0.461,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": 1.119,
+							"y": 1.119,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0667,
+							"x": 0.906,
+							"y": 0.906,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_carpet": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.304,
+							"y": 0.362
+						},
+						{
+							"time": 0.1667,
+							"x": 1.087,
+							"y": 1.145
+						},
+						{
+							"time": 0.3333,
+							"x": 1.005,
+							"y": 0.92
+						},
+						{
+							"time": 0.5,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_feeder2": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.1667,
+							"x": 0,
+							"y": -29.12
+						},
+						{
+							"time": 0.2667,
+							"x": 0,
+							"y": 24.27
+						},
+						{
+							"time": 0.4,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 0.507,
+							"y": 0.736
+						},
+						{
+							"time": 0.2667,
+							"x": 1.065,
+							"y": 0.728
+						},
+						{
+							"time": 0.4,
+							"x": 0.854,
+							"y": 1.058
+						},
+						{
+							"time": 0.5,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_green": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_green2": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_green3": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.0333,
+							"x": 1.11,
+							"y": 0.956
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_green4": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_ice": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_ice2": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_ice3": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_ice4": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_light": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -61.22,
+							"y": -23.63
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.2,
+							"y": 1.2
+						}
+					]
+				},
+				"story_trmnt_dog_star3": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_star4": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_star5": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_star6": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 1.1333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 1.2333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 67.89,
+							"y": 14.31
+						}
+					]
+				},
+				"story_trmnt_dog_body": {
+					"translate": [
+						{
+							"time": 0.3333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": -860.47
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.3333,
+							"x": 1.201,
+							"y": 0.799
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 0.923,
+							"y": 1.096
+						},
+						{
+							"time": 1,
+							"x": 1.058,
+							"y": 0.962
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_medal": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.3333,
+							"angle": -52,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6667,
+							"angle": -52
+						},
+						{
+							"time": 0.8333,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.092,
+							"y": 0.951
+						},
+						{
+							"time": 1,
+							"x": 0.944,
+							"y": 1
+						},
+						{
+							"time": 1.1667,
+							"x": 1.092,
+							"y": 0.951
+						},
+						{
+							"time": 1.3667,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.3333,
+							"x": 0,
+							"y": 30.31,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 30.31
+						},
+						{
+							"time": 0.8333,
+							"x": 14.52,
+							"y": 13.33
+						},
+						{
+							"time": 1,
+							"x": -17.37,
+							"y": 0
+						},
+						{
+							"time": 1.1667,
+							"x": 18.87,
+							"y": 20.61
+						},
+						{
+							"time": 1.3667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"story_trmnt_dog_tail": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 18.03,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6667,
+							"angle": 18.03
+						},
+						{
+							"time": 0.8333,
+							"angle": -57.32
+						},
+						{
+							"time": 1,
+							"angle": -6.94
+						},
+						{
+							"time": 1.1333,
+							"angle": -37.13
+						},
+						{
+							"time": 1.2333,
+							"angle": -20.59
+						}
+					],
+					"translate": [
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.8333,
+							"x": -3.15,
+							"y": -0.01
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.157,
+							"y": 0.836,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6667,
+							"x": 1.157,
+							"y": 0.836
+						},
+						{
+							"time": 0.8333,
+							"x": 1.035,
+							"y": 0.916
+						}
+					],
+					"shear": [
+						{
+							"time": 1.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"story_trmnt_dog_ear1": {
+					"rotate": [
+						{
+							"time": 0.6667,
+							"angle": 0
+						},
+						{
+							"time": 0.8333,
+							"angle": 32.25
+						},
+						{
+							"time": 1,
+							"angle": -2.55
+						},
+						{
+							"time": 1.1,
+							"angle": 5.43
+						},
+						{
+							"time": 1.1667,
+							"angle": 0
+						}
+					]
+				},
+				"story_trmnt_dog_ear2": {
+					"translate": [
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.8333,
+							"x": -5.71,
+							"y": 5.51
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"shear": [
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.8333,
+							"x": 8.91,
+							"y": 11.53
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"story_trmnt_dog_pupil": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 1.34,
+							"y": 7.44,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.1,
+							"x": 1.34,
+							"y": 7.44
+						},
+						{
+							"time": 1.2333,
+							"x": 8.12,
+							"y": 4.21
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.5667,
+							"x": -4.8,
+							"y": 0
+						}
+					]
+				},
+				"story_trmnt_dog_mouth": {
+					"scale": [
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 1.274,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1.031,
+							"y": 1.107
+						},
+						{
+							"time": 1.3,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"shear": [
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.8333,
+							"x": 13.74,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": -9.72,
+							"y": 0
+						},
+						{
+							"time": 1.1667,
+							"x": 1.51,
+							"y": 0
+						},
+						{
+							"time": 1.3,
+							"x": 0,
+							"y": 0
+						}
+					]
+				}
+			}
+		},
+		"start": {
+			"slots": {
+				"story_trmnt_dog_bow": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_bow2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_bow3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_bow4": {
+					"attachment": [
+						{
+							"time": 2.5,
+							"name": null
+						},
+						{
+							"time": 2.5667,
+							"name": "story_trmnt_dog_bow"
+						}
+					]
+				},
+				"story_trmnt_dog_carpet": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_carpet"
+						}
+					]
+				},
+				"story_trmnt_dog_carpet2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_carpet"
+						}
+					]
+				},
+				"story_trmnt_dog_green3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_ice": {
+					"attachment": [
+						{
+							"time": 1.4,
+							"name": null
+						},
+						{
+							"time": 2.2333,
+							"name": "story_trmnt_dog_ice"
+						}
+					]
+				},
+				"story_trmnt_dog_ice2": {
+					"attachment": [
+						{
+							"time": 1.4333,
+							"name": null
+						},
+						{
+							"time": 2.2667,
+							"name": "story_trmnt_dog_ice"
+						}
+					]
+				},
+				"story_trmnt_dog_ice3": {
+					"attachment": [
+						{
+							"time": 1.3667,
+							"name": null
+						},
+						{
+							"time": 2.2333,
+							"name": "story_trmnt_dog_ice"
+						}
+					]
+				},
+				"story_trmnt_dog_light": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 1.3333,
+							"name": "story_trmnt_dog_light"
+						},
+						{
+							"time": 2.3333,
+							"name": null
+						}
+					]
+				},
+				"story_trmnt_dog_shadow": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "story_trmnt_dog_shadow"
+						}
+					]
+				},
+				"story_trmnt_dragon_hand2": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff00"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffffff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.8333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 1,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.3333,
+							"name": "story_trmnt_cow_hand1"
+						},
+						{
+							"time": 0.8333,
+							"name": "story_trmnt_dragon_hand2"
+						}
+					]
+				}
+			},
+			"bones": {
+				"story_trmnt_dog_body": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": -860.47
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.5,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8667,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 1.0333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.2,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 1.3667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.5333,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 1.7,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.8667,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 2.0333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.2333,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 2.4,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.5667,
+							"x": 0.985,
+							"y": 1
+						},
+						{
+							"time": 2.7333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_bow": {
+					"rotate": [
+						{
+							"time": 2.5667,
+							"angle": 0
+						},
+						{
+							"time": 2.6333,
+							"angle": -6.07
+						},
+						{
+							"time": 2.7,
+							"angle": 0
+						}
+					]
+				},
+				"story_trmnt_dog_bow2": {
+					"rotate": [
+						{
+							"time": 2.5333,
+							"angle": 0
+						},
+						{
+							"time": 2.6,
+							"angle": 7.32
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					]
+				},
+				"story_trmnt_dog_bow3": {
+					"rotate": [
+						{
+							"time": 2.6,
+							"angle": 0
+						},
+						{
+							"time": 2.6667,
+							"angle": 17.23
+						},
+						{
+							"time": 2.7333,
+							"angle": 0
+						}
+					]
+				},
+				"story_trmnt_dog_bow4": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 31.37,
+							"curve": "stepped"
+						},
+						{
+							"time": 2,
+							"angle": 31.37
+						},
+						{
+							"time": 2.1333,
+							"angle": -56.64
+						},
+						{
+							"time": 2.2667,
+							"angle": -125.15
+						},
+						{
+							"time": 2.4,
+							"angle": 145.53
+						},
+						{
+							"time": 2.5,
+							"angle": 18.73
+						},
+						{
+							"time": 2.5667,
+							"angle": 31.37
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -108.06,
+							"y": -54.36,
+							"curve": "stepped"
+						},
+						{
+							"time": 2,
+							"x": -108.06,
+							"y": -54.36
+						},
+						{
+							"time": 2.5,
+							"x": 3.16,
+							"y": -135.02
+						},
+						{
+							"time": 2.5667,
+							"x": -108.06,
+							"y": -54.36
+						},
+						{
+							"time": 2.6667,
+							"x": -108.06,
+							"y": -48.73
+						},
+						{
+							"time": 2.7333,
+							"x": -108.06,
+							"y": -54.36
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.182,
+							"y": 1.187,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.4,
+							"x": 1.182,
+							"y": 1.187
+						},
+						{
+							"time": 1.5333,
+							"x": 1.596,
+							"y": 1.603
+						},
+						{
+							"time": 1.6667,
+							"x": 1.041,
+							"y": 1.045
+						},
+						{
+							"time": 1.8333,
+							"x": 1.409,
+							"y": 1.415,
+							"curve": "stepped"
+						},
+						{
+							"time": 2,
+							"x": 1.409,
+							"y": 1.415
+						},
+						{
+							"time": 2.1333,
+							"x": 2.21,
+							"y": 2.219
+						},
+						{
+							"time": 2.5,
+							"x": 1.931,
+							"y": 1.939
+						},
+						{
+							"time": 2.5667,
+							"x": 1.182,
+							"y": 1.187
+						},
+						{
+							"time": 2.6667,
+							"x": 1.182,
+							"y": 1.328
+						},
+						{
+							"time": 2.7333,
+							"x": 1.182,
+							"y": 1.187
+						}
+					]
+				},
+				"story_trmnt_dog_ice": {
+					"translate": [
+						{
+							"time": 0.3333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.6667,
+							"x": 49.57,
+							"y": 7.51
+						},
+						{
+							"time": 0.7667,
+							"x": 53.32,
+							"y": 7.51
+						},
+						{
+							"time": 0.9,
+							"x": 48.06,
+							"y": 15.02
+						},
+						{
+							"time": 0.9667,
+							"x": 49.57,
+							"y": 7.51,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.1667,
+							"x": 49.57,
+							"y": 7.51
+						},
+						{
+							"time": 1.3667,
+							"x": 40.85,
+							"y": 57.48
+						},
+						{
+							"time": 2.2333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 2.4,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 2.5333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.7667,
+							"x": 0.993,
+							"y": 0.882
+						},
+						{
+							"time": 0.9667,
+							"x": 1,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.2667,
+							"x": 0.705,
+							"y": 1.096
+						},
+						{
+							"time": 1.3667,
+							"x": 1.077,
+							"y": 0.954
+						},
+						{
+							"time": 2.2333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.4,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 2.5333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 2.6333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 2.7333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_ice2": {
+					"translate": [
+						{
+							"time": 2.2333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 2.4,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 2.5333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 2.2333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.4,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 2.5333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 2.6333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 2.7333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_ice3": {
+					"translate": [
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.3667,
+							"x": 8.62,
+							"y": -51.13
+						},
+						{
+							"time": 2.2,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 2.3667,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 2.5,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.2667,
+							"x": 1.17,
+							"y": 0.94
+						},
+						{
+							"time": 1.3667,
+							"x": 1,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 2.2,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.3667,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 2.5,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 2.6,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 2.7,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dog_light": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -107.56,
+							"y": -50.82
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.2,
+							"y": 1.2
+						},
+						{
+							"time": 1.3333,
+							"x": 0.439,
+							"y": 0.439,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 1.487,
+							"y": 1.487,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 0.731,
+							"y": 0.731,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8667,
+							"x": 1.345,
+							"y": 1.345,
+							"curve": "stepped"
+						},
+						{
+							"time": 2,
+							"x": 1.345,
+							"y": 1.345
+						},
+						{
+							"time": 2.1667,
+							"x": 1.938,
+							"y": 1.938
+						},
+						{
+							"time": 2.3333,
+							"x": 0.741,
+							"y": 0.741
+						}
+					]
+				},
+				"story_trmnt_dog_star5": {
+					"translate": [
+						{
+							"time": 0.4,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.5667,
+							"x": -49.77,
+							"y": -7.74,
+							"curve": "stepped"
+						},
+						{
+							"time": 2.0667,
+							"x": -49.77,
+							"y": -7.74
+						},
+						{
+							"time": 2.2333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 2.4,
+							"x": -0.57,
+							"y": 6.27
+						},
+						{
+							"time": 2.5333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 2.2333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.4,
+							"x": 1.186,
+							"y": 0.917
+						},
+						{
+							"time": 2.5333,
+							"x": 0.863,
+							"y": 1.055
+						},
+						{
+							"time": 2.6333,
+							"x": 1.057,
+							"y": 1.02
+						},
+						{
+							"time": 2.7333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"story_trmnt_dragon_hand2": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 22.94,
+							"y": -83.05
+						},
+						{
+							"time": 0.3333,
+							"x": 0.66,
+							"y": -10.91
+						},
+						{
+							"time": 0.6667,
+							"x": 54.87,
+							"y": -2.9,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.8333,
+							"x": 54.87,
+							"y": -2.9
+						},
+						{
+							"time": 1,
+							"x": 71.57,
+							"y": -44.65
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.522,
+							"y": 1.522
+						},
+						{
+							"time": 0.3333,
+							"x": 1.069,
+							"y": 1.069,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.8333,
+							"x": 1.069,
+							"y": 1.069
+						},
+						{
+							"time": 1,
+							"x": 1.47,
+							"y": 1.47
+						}
+					]
+				},
+				"story_trmnt_dog": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 67.89,
+							"y": 14.31
+						}
+					]
+				},
+				"story_trmnt_dog_medal": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1667,
+							"angle": -1.57
+						},
+						{
+							"time": 0.3333,
+							"angle": 5.94
+						},
+						{
+							"time": 0.5,
+							"angle": -1.57
+						},
+						{
+							"time": 0.6667,
+							"angle": 5.94
+						},
+						{
+							"time": 0.8667,
+							"angle": -1.57
+						},
+						{
+							"time": 1.0333,
+							"angle": 5.94
+						},
+						{
+							"time": 1.2,
+							"angle": -1.57
+						},
+						{
+							"time": 1.3667,
+							"angle": 5.94
+						},
+						{
+							"time": 1.5333,
+							"angle": -1.57
+						},
+						{
+							"time": 1.7,
+							"angle": 5.94
+						},
+						{
+							"time": 1.8667,
+							"angle": -1.57
+						},
+						{
+							"time": 2.0333,
+							"angle": 5.94
+						},
+						{
+							"time": 2.2,
+							"angle": -1.57
+						},
+						{
+							"time": 2.4,
+							"angle": 5.94
+						},
+						{
+							"time": 2.5667,
+							"angle": -1.57
+						},
+						{
+							"time": 2.7333,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 0.5,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 0.8667,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 1.0333,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 1.2,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 1.3667,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 1.5333,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 1.7,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 1.8667,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 2.0333,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 2.2,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 2.4,
+							"x": 1,
+							"y": 0.974
+						},
+						{
+							"time": 2.5667,
+							"x": 1,
+							"y": 0.987
+						},
+						{
+							"time": 2.7333,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.1667,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 0.3333,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 0.5,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 0.6667,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 0.8667,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 1.0333,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 1.2,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 1.3667,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 1.5333,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 1.7,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 1.8667,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 2.0333,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 2.2,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 2.4,
+							"x": 2.54,
+							"y": 1.89
+						},
+						{
+							"time": 2.5667,
+							"x": -5.51,
+							"y": -3.05
+						},
+						{
+							"time": 2.7333,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"story_trmnt_dog_tail": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -20.59,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.4333,
+							"angle": -20.59
+						},
+						{
+							"time": 1.5333,
+							"angle": 24.52
+						},
+						{
+							"time": 1.6333,
+							"angle": -32.74
+						},
+						{
+							"time": 1.7667,
+							"angle": 21.66
+						},
+						{
+							"time": 1.8667,
+							"angle": -31.47
+						},
+						{
+							"time": 1.9667,
+							"angle": 26.99
+						},
+						{
+							"time": 2.0667,
+							"angle": -20.59
+						},
+						{
+							"time": 2.1667,
+							"angle": 24.52
+						},
+						{
+							"time": 2.2667,
+							"angle": -32.74
+						},
+						{
+							"time": 2.4,
+							"angle": 21.66
+						},
+						{
+							"time": 2.5,
+							"angle": -31.47
+						},
+						{
+							"time": 2.6,
+							"angle": 26.99
+						},
+						{
+							"time": 2.7,
+							"angle": -20.59
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -3.15,
+							"y": -0.01
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.035,
+							"y": 0.916
+						}
+					]
+				},
+				"story_trmnt_dog_pupil": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 8.12,
+							"y": 4.21
+						},
+						{
+							"time": 0.1333,
+							"x": 3.49,
+							"y": 8.67,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.6667,
+							"x": 3.49,
+							"y": 8.67
+						},
+						{
+							"time": 1.7667,
+							"x": 8.12,
+							"y": 4.21
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": -4.8,
+							"y": 0
+						}
+					]
+				}
+			}
+		}
+	}
+}

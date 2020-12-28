@@ -1,0 +1,132 @@
+
+box-0b959f213d.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_body
+  rotate: false
+  xy: 1, 95
+  size: 131, 127
+  orig: 131, 127
+  offset: 0, 0
+  index: -1
+box_knot3
+  rotate: false
+  xy: 221, 131
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+box_knote1
+  rotate: false
+  xy: 221, 30
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+box_knote2
+  rotate: false
+  xy: 221, 70
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+box_knote4
+  rotate: false
+  xy: 144, 30
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+box_lvl3
+  rotate: false
+  xy: 1, 224
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+box_rope1
+  rotate: false
+  xy: 130, 224
+  size: 123, 13
+  orig: 123, 13
+  offset: 0, 0
+  index: -1
+box_rope2
+  rotate: false
+  xy: 242, 9
+  size: 13, 120
+  orig: 13, 120
+  offset: 0, 0
+  index: -1
+box_rope3
+  rotate: false
+  xy: 144, 1
+  size: 103, 6
+  orig: 103, 6
+  offset: 0, 0
+  index: -1
+box_side1
+  rotate: false
+  xy: 1, 1
+  size: 141, 92
+  orig: 141, 92
+  offset: 0, 0
+  index: -1
+box_side2
+  rotate: false
+  xy: 144, 50
+  size: 36, 117
+  orig: 36, 117
+  offset: 0, 0
+  index: -1
+box_side3
+  rotate: false
+  xy: 183, 30
+  size: 36, 118
+  orig: 36, 118
+  offset: 0, 0
+  index: -1
+box_side4
+  rotate: false
+  xy: 134, 169
+  size: 113, 28
+  orig: 113, 28
+  offset: 0, 0
+  index: -1
+box_wood1
+  rotate: false
+  xy: 130, 239
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+box_wood2
+  rotate: false
+  xy: 130, 350
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+box_wood3
+  rotate: false
+  xy: 144, 9
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+box_wood4
+  rotate: false
+  xy: 193, 9
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+box_wood5
+  rotate: false
+  xy: 1, 352
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1

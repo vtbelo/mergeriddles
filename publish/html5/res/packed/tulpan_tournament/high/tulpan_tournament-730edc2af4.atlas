@@ -1,0 +1,174 @@
+
+tulpan_tournament-730edc2af4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+story_trmnt_cow_hand1
+  rotate: false
+  xy: 437, 1
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+story_trmnt_dog
+  rotate: false
+  xy: 453, 419
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_body
+  rotate: false
+  xy: 255, 1
+  size: 180, 107
+  orig: 180, 107
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_bow
+  rotate: false
+  xy: 397, 164
+  size: 109, 83
+  orig: 109, 83
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_box
+  rotate: false
+  xy: 1, 1
+  size: 252, 254
+  orig: 252, 254
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_carpet
+  rotate: false
+  xy: 390, 349
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_ear1
+  rotate: false
+  xy: 71, 416
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_ear2
+  rotate: false
+  xy: 1, 419
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_feeder1
+  rotate: false
+  xy: 255, 110
+  size: 160, 43
+  orig: 160, 43
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_feeder2
+  rotate: false
+  xy: 57, 360
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_green
+  rotate: false
+  xy: 1, 360
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_hand
+  rotate: false
+  xy: 390, 249
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_hand1
+  rotate: false
+  xy: 255, 155
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_hand2
+  rotate: false
+  xy: 159, 257
+  size: 84, 175
+  orig: 84, 175
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_ice
+  rotate: false
+  xy: 412, 419
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_legs
+  rotate: false
+  xy: 304, 360
+  size: 64, 123
+  orig: 64, 123
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_light
+  rotate: false
+  xy: 255, 225
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_medal
+  rotate: false
+  xy: 1, 257
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_mouth
+  rotate: false
+  xy: 370, 419
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_pupil
+  rotate: false
+  xy: 71, 466
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_shadow
+  rotate: false
+  xy: 142, 466
+  size: 100, 34
+  orig: 100, 34
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_star
+  rotate: false
+  xy: 245, 360
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+story_trmnt_dog_tail
+  rotate: false
+  xy: 244, 434
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+story_trmnt_dragon_hand2
+  rotate: false
+  xy: 437, 80
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1

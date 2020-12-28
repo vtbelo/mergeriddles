@@ -1,0 +1,118 @@
+
+lollipop-28b66e6a74.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lollipop-images-lollipop_blue
+  rotate: false
+  xy: 123, 109
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop-images-lollipop_goal
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lollipop-images-lollipop_green
+  rotate: false
+  xy: 1, 123
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop-images-lollipop_purple
+  rotate: false
+  xy: 105, 213
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop-images-lollipop_red
+  rotate: false
+  xy: 1, 227
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop-images-lollipop_white
+  rotate: false
+  xy: 105, 317
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop-images-lollipop_yellow
+  rotate: false
+  xy: 1, 331
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop_blue
+  rotate: false
+  xy: 123, 109
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop_glitter
+  rotate: false
+  xy: 209, 213
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+lollipop_goal
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lollipop_green
+  rotate: false
+  xy: 1, 123
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop_light
+  rotate: false
+  xy: 123, 1
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+lollipop_purple
+  rotate: false
+  xy: 105, 213
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop_red
+  rotate: false
+  xy: 1, 227
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop_white
+  rotate: false
+  xy: 105, 317
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+lollipop_yellow
+  rotate: false
+  xy: 1, 331
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

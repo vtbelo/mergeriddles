@@ -1,0 +1,412 @@
+
+flappy-520c3a3a61.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 426, 425
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+coin_1side
+  rotate: false
+  xy: 60, 549
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+coin_2side
+  rotate: false
+  xy: 1, 570
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+fb_coin1
+  rotate: false
+  xy: 58, 615
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+fb_coin2
+  rotate: false
+  xy: 347, 553
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+fb_coin3
+  rotate: false
+  xy: 500, 341
+  size: 11, 55
+  orig: 11, 55
+  offset: 0, 0
+  index: -1
+fb_coin3
+  rotate: false
+  xy: 500, 398
+  size: 11, 55
+  orig: 11, 55
+  offset: 0, 0
+  index: -1
+fb_coin_effect1
+  rotate: false
+  xy: 119, 514
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+flappy-flappy_bird-flappy_bg
+  rotate: false
+  xy: 112, 701
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+flappy-flappy_bird-flappy_cloud_1
+  rotate: false
+  xy: 247, 430
+  size: 121, 39
+  orig: 121, 39
+  offset: 0, 0
+  index: -1
+flappy-flappy_bird-flappy_cloud_2
+  rotate: false
+  xy: 60, 514
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+flappy-flappy_bird-flappy_ground
+  rotate: false
+  xy: 114, 636
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+flappy-flappy_bird-flappy_ground_decor
+  rotate: false
+  xy: 114, 619
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+flappy-flappy_bird-flappy_wall
+  rotate: false
+  xy: 237, 623
+  size: 99, 11
+  orig: 99, 11
+  offset: 0, 0
+  index: -1
+flappy-flappy_bird-flappy_wall_decor
+  rotate: false
+  xy: 247, 343
+  size: 125, 85
+  orig: 125, 85
+  offset: 0, 0
+  index: -1
+flappy-flappy_bird-flappy_wall_end
+  rotate: false
+  xy: 247, 471
+  size: 114, 43
+  orig: 114, 43
+  offset: 0, 0
+  index: -1
+flappy-flappy_bird-text_bg
+  rotate: false
+  xy: 247, 292
+  size: 131, 49
+  orig: 131, 49
+  offset: 0, 0
+  index: -1
+flappy_cow
+  rotate: false
+  xy: 426, 493
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+flappy_cow_head
+  rotate: false
+  xy: 1, 636
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+flappy_leg1
+  rotate: false
+  xy: 215, 546
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+flappy_leg2
+  rotate: false
+  xy: 119, 548
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+flappy_leg3
+  rotate: false
+  xy: 208, 626
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+flappy_roll
+  rotate: false
+  xy: 229, 636
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+flappy_wing_b
+  rotate: false
+  xy: 215, 474
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+flappy_wing_f
+  rotate: false
+  xy: 215, 510
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+flappy_wing_fd
+  rotate: false
+  xy: 117, 585
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+flappyleg4
+  rotate: false
+  xy: 215, 586
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 374, 350
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 153, 406
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+pr_smoke
+  rotate: false
+  xy: 152, 611
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+side
+  rotate: false
+  xy: 220, 406
+  size: 25, 66
+  orig: 25, 66
+  offset: 0, 0
+  index: -1
+star_chest_star
+  rotate: false
+  xy: 493, 455
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_body
+  rotate: false
+  xy: 1, 330
+  size: 150, 182
+  orig: 150, 182
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_box
+  rotate: false
+  xy: 1, 1
+  size: 252, 254
+  orig: 252, 254
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_clever2
+  rotate: false
+  xy: 429, 118
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_ear1
+  rotate: false
+  xy: 347, 611
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_ear2
+  rotate: false
+  xy: 363, 512
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_flower
+  rotate: false
+  xy: 57, 673
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_flower2
+  rotate: false
+  xy: 429, 192
+  size: 74, 23
+  orig: 74, 23
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_foot1
+  rotate: false
+  xy: 245, 516
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_foot2
+  rotate: false
+  xy: 1, 257
+  size: 153, 71
+  orig: 153, 71
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_foot3
+  rotate: false
+  xy: 156, 257
+  size: 89, 147
+  orig: 89, 147
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_foot4
+  rotate: false
+  xy: 1, 738
+  size: 42, 149
+  orig: 42, 149
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_grass
+  rotate: false
+  xy: 255, 1
+  size: 250, 115
+  orig: 250, 115
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_green
+  rotate: false
+  xy: 370, 453
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hand
+  rotate: false
+  xy: 408, 560
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hand1
+  rotate: false
+  xy: 429, 262
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hand2
+  rotate: false
+  xy: 428, 341
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hoof1
+  rotate: false
+  xy: 151, 657
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hoof2
+  rotate: false
+  xy: 56, 733
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_ice
+  rotate: false
+  xy: 380, 292
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_light
+  rotate: false
+  xy: 255, 118
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_pupil
+  rotate: false
+  xy: 429, 217
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_snout
+  rotate: false
+  xy: 408, 664
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_star
+  rotate: false
+  xy: 1, 514
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_tail
+  rotate: false
+  xy: 153, 474
+  size: 60, 135
+  orig: 60, 135
+  offset: 0, 0
+  index: -1
+story_trmnt_donut
+  rotate: false
+  xy: 374, 405
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+story_trmnt_jelly
+  rotate: false
+  xy: 1, 689
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,53 @@
+{
+"skeleton": { "hash": "qrGFE39/hJ1ea8bxE/nMkH0CgNg", "spine": "3.5.35", "width": 239.53, "height": 182.48, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "hard_level_up", "parent": "root", "rotation": -1.2 },
+	{
+		"name": "hard_level_red2",
+		"parent": "hard_level_up",
+		"length": 186.47,
+		"rotation": -88.44,
+		"x": -64.39,
+		"y": -2.73,
+		"scaleX": 0.682
+	}
+],
+"slots": [
+	{ "name": "hard_level_red2", "bone": "hard_level_red2", "attachment": "hard_level_red2" }
+],
+"skins": {
+	"default": {
+		"hard_level_red2": {
+			"hard_level_red2": { "x": 90.36, "y": 76.73, "rotation": 89.64, "width": 239, "height": 267 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"hard_level_red2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 3.3333, "x": 0, "y": 1.08 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.192, 0.57, 0.582, 0.95 ]
+					},
+					{ "time": 3.3333, "x": 1.938, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

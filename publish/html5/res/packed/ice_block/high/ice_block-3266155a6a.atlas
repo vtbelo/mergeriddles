@@ -1,0 +1,55 @@
+
+ice_block-3266155a6a.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice_block1_stable
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ice_block2_stable
+  rotate: false
+  xy: 123, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ice_blocker1
+  rotate: false
+  xy: 1, 123
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+ice_blocker2
+  rotate: false
+  xy: 122, 123
+  size: 119, 71
+  orig: 119, 71
+  offset: 0, 0
+  index: -1
+ice_blocker_circle
+  rotate: false
+  xy: 1, 244
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+ice_crack
+  rotate: false
+  xy: 122, 196
+  size: 114, 72
+  orig: 114, 72
+  offset: 0, 0
+  index: -1
+ice_particle
+  rotate: false
+  xy: 79, 244
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1

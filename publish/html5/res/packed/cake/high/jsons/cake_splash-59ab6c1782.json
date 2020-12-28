@@ -1,0 +1,114 @@
+{
+"skeleton": { "hash": "e5RtEZ1ra5eiozk6H+80In9Eibw", "spine": "3.5.35", "width": 70.8, "height": 46.69 },
+"bones": [
+	{ "name": "root", "x": 0.03, "y": -6.63 },
+	{ "name": "bone2", "parent": "root", "rotation": 1.21, "x": -0.56, "y": 17.99, "scaleX": 0.525, "scaleY": 0.525 },
+	{ "name": "cake_splash", "parent": "bone2", "length": 40.89, "rotation": 167.32, "x": -17.85, "y": 3.83 },
+	{ "name": "cake_splash2", "parent": "bone2", "length": 40.89, "rotation": 16.1, "x": 23.87, "y": 2.21 }
+],
+"slots": [
+	{ "name": "cake_splash", "bone": "cake_splash", "attachment": "cake_splash" },
+	{ "name": "cake_splash2", "bone": "cake_splash2", "attachment": "cake_splash" }
+],
+"skins": {
+	"default": {
+		"cake_splash": {
+			"cake_splash": { "x": 11.11, "y": 0.66, "rotation": -16.1, "width": 58, "height": 70 }
+		},
+		"cake_splash2": {
+			"cake_splash": { "x": 11.11, "y": 0.66, "rotation": -16.1, "width": 58, "height": 70 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"cake_splash": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.3, "color": "ffffff00" }
+				]
+			},
+			"cake_splash2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.3, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 1.02, "y": -1.15 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.252, "y": 0.252 },
+					{ "time": 0.1667, "x": 2.619, "y": 2.619 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"cake_splash": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": -26.91, "y": -1.67 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.27, "y": 1 },
+					{ "time": 0.3333, "x": 0.263, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"cake_splash2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": 22.39, "y": -0.47 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.27, "y": 1 },
+					{ "time": 0.2667, "x": 0.537, "y": 1, "curve": "stepped" },
+					{ "time": 0.3, "x": 0.537, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 }
+		]
+	}
+}
+}

@@ -1,0 +1,118 @@
+
+petards-a934616a7d.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clrbm_fired1
+  rotate: false
+  xy: 177, 188
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+clrbm_smoke
+  rotate: false
+  xy: 331, 1
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+clrbm_star
+  rotate: false
+  xy: 179, 86
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+mclrbm_wave
+  rotate: false
+  xy: 179, 1
+  size: 150, 83
+  orig: 150, 83
+  offset: 0, 0
+  index: -1
+mclrbmb_blue
+  rotate: false
+  xy: 1, 1
+  size: 87, 159
+  orig: 87, 159
+  offset: 0, 0
+  index: -1
+mclrbmb_green
+  rotate: false
+  xy: 88, 314
+  size: 89, 146
+  orig: 89, 146
+  offset: 0, 0
+  index: -1
+mclrbmb_purple
+  rotate: false
+  xy: 1, 162
+  size: 85, 159
+  orig: 85, 159
+  offset: 0, 0
+  index: -1
+mclrbmb_red
+  rotate: false
+  xy: 1, 323
+  size: 85, 156
+  orig: 85, 156
+  offset: 0, 0
+  index: -1
+mclrbmb_white
+  rotate: false
+  xy: 88, 162
+  size: 87, 150
+  orig: 87, 150
+  offset: 0, 0
+  index: -1
+mclrbmb_yellow
+  rotate: false
+  xy: 90, 1
+  size: 85, 150
+  orig: 85, 150
+  offset: 0, 0
+  index: -1
+petards-images-mclrbmb_blue
+  rotate: false
+  xy: 1, 1
+  size: 87, 159
+  orig: 87, 159
+  offset: 0, 0
+  index: -1
+petards-images-mclrbmb_green
+  rotate: false
+  xy: 88, 314
+  size: 89, 146
+  orig: 89, 146
+  offset: 0, 0
+  index: -1
+petards-images-mclrbmb_purple
+  rotate: false
+  xy: 1, 162
+  size: 85, 159
+  orig: 85, 159
+  offset: 0, 0
+  index: -1
+petards-images-mclrbmb_red
+  rotate: false
+  xy: 1, 323
+  size: 85, 156
+  orig: 85, 156
+  offset: 0, 0
+  index: -1
+petards-images-mclrbmb_white
+  rotate: false
+  xy: 88, 162
+  size: 87, 150
+  orig: 87, 150
+  offset: 0, 0
+  index: -1
+petards-images-mclrbmb_yellow
+  rotate: false
+  xy: 90, 1
+  size: 85, 150
+  orig: 85, 150
+  offset: 0, 0
+  index: -1

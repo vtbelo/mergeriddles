@@ -1,0 +1,531 @@
+
+colorcookieman-23669100d8.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+colorcookieman-images-cookieman_blue_stable
+  rotate: false
+  xy: 1, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+colorcookieman-images-cookieman_cells
+  rotate: false
+  xy: 1, 297
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+colorcookieman-images-cookieman_green_stable
+  rotate: false
+  xy: 149, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+colorcookieman-images-cookieman_purple_stable
+  rotate: false
+  xy: 297, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+colorcookieman-images-cookieman_red_stable
+  rotate: false
+  xy: 1, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+colorcookieman-images-cookieman_white_stable
+  rotate: false
+  xy: 149, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+colorcookieman-images-cookieman_yellow_stable
+  rotate: false
+  xy: 297, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+cookieman_blue_stable
+  rotate: false
+  xy: 1, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+cookieman_cells
+  rotate: false
+  xy: 1, 297
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+cookieman_green_stable
+  rotate: false
+  xy: 149, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+cookieman_purple_stable
+  rotate: false
+  xy: 297, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+cookieman_red_stable
+  rotate: false
+  xy: 1, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+cookieman_white_stable
+  rotate: false
+  xy: 149, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+cookieman_yellow_stable
+  rotate: false
+  xy: 297, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+ginger1
+  rotate: false
+  xy: 87, 486
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+ginger1_blue
+  rotate: false
+  xy: 378, 459
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+ginger1_green
+  rotate: false
+  xy: 378, 536
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+ginger1_purple
+  rotate: false
+  xy: 437, 544
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+ginger1_red
+  rotate: false
+  xy: 167, 519
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+ginger1_white
+  rotate: false
+  xy: 226, 519
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+ginger1_yellow
+  rotate: false
+  xy: 79, 582
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+ginger2
+  rotate: false
+  xy: 1, 493
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+ginger2_blue
+  rotate: false
+  xy: 238, 742
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+ginger2_green
+  rotate: false
+  xy: 129, 746
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+ginger2_purple
+  rotate: false
+  xy: 177, 746
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+ginger2_red
+  rotate: false
+  xy: 225, 793
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+ginger2_white
+  rotate: false
+  xy: 51, 749
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+ginger2_yellow
+  rotate: false
+  xy: 1, 769
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+ginger3
+  rotate: false
+  xy: 437, 468
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+ginger3_blue
+  rotate: false
+  xy: 285, 557
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+ginger3_green
+  rotate: false
+  xy: 341, 613
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+ginger3_purple
+  rotate: false
+  xy: 397, 621
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+ginger3_red
+  rotate: false
+  xy: 453, 621
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+ginger3_white
+  rotate: false
+  xy: 138, 596
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+ginger3_yellow
+  rotate: false
+  xy: 194, 596
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+ginger4
+  rotate: false
+  xy: 441, 374
+  size: 70, 92
+  orig: 70, 92
+  offset: 0, 0
+  index: -1
+ginger4_blue
+  rotate: false
+  xy: 445, 50
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+ginger4_green
+  rotate: false
+  xy: 445, 131
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+ginger4_purple
+  rotate: false
+  xy: 445, 212
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+ginger4_red
+  rotate: false
+  xy: 445, 293
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+ginger4_white
+  rotate: false
+  xy: 381, 297
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+ginger4_yellow
+  rotate: false
+  xy: 381, 378
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+ginger5
+  rotate: false
+  xy: 1, 575
+  size: 76, 102
+  orig: 76, 102
+  offset: 0, 0
+  index: -1
+ginger5_blue
+  rotate: false
+  xy: 138, 656
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+ginger5_green
+  rotate: false
+  xy: 79, 659
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+ginger5_purple
+  rotate: false
+  xy: 188, 656
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+ginger5_red
+  rotate: false
+  xy: 1, 679
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+ginger5_white
+  rotate: false
+  xy: 354, 681
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+ginger5_yellow
+  rotate: false
+  xy: 302, 720
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+ginger_arrow
+  rotate: false
+  xy: 445, 1
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+ginger_body
+  rotate: false
+  xy: 209, 297
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+ginger_body_blue
+  rotate: false
+  xy: 295, 297
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+ginger_body_green
+  rotate: false
+  xy: 209, 371
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+ginger_body_head
+  rotate: false
+  xy: 302, 673
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+ginger_body_head_blue
+  rotate: false
+  xy: 404, 681
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+ginger_body_head_green
+  rotate: false
+  xy: 448, 681
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+ginger_body_head_purple
+  rotate: false
+  xy: 404, 705
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+ginger_body_head_red
+  rotate: false
+  xy: 448, 705
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+ginger_body_head_white
+  rotate: false
+  xy: 404, 729
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+ginger_body_head_yellow
+  rotate: false
+  xy: 448, 729
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+ginger_body_purple
+  rotate: false
+  xy: 123, 412
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+ginger_body_red
+  rotate: false
+  xy: 295, 371
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+ginger_body_white
+  rotate: false
+  xy: 1, 419
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+ginger_body_yellow
+  rotate: false
+  xy: 209, 445
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+ginger_brow1
+  rotate: false
+  xy: 104, 463
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+ginger_brow2
+  rotate: false
+  xy: 87, 457
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+ginger_door1
+  rotate: false
+  xy: 295, 445
+  size: 81, 110
+  orig: 81, 110
+  offset: 0, 0
+  index: -1
+ginger_door2_1
+  rotate: false
+  xy: 123, 297
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+ginger_door2_2
+  rotate: false
+  xy: 250, 617
+  size: 50, 123
+  orig: 50, 123
+  offset: 0, 0
+  index: -1
+ginger_door3_1
+  rotate: false
+  xy: 109, 438
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ginger_door3_2
+  rotate: false
+  xy: 87, 448
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+ginger_eye1
+  rotate: false
+  xy: 109, 451
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+ginger_eye2
+  rotate: false
+  xy: 87, 468
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+ginger_mouth1
+  rotate: false
+  xy: 87, 438
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+ginger_mouth2
+  rotate: false
+  xy: 87, 419
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1

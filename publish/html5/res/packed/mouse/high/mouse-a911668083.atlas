@@ -1,0 +1,118 @@
+
+mouse-a911668083.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mouse_body
+  rotate: false
+  xy: 119, 1
+  size: 107, 89
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+mouse_dress
+  rotate: false
+  xy: 1, 117
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1
+mouse_ear1
+  rotate: false
+  xy: 1, 232
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+mouse_eye1_down
+  rotate: false
+  xy: 98, 165
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+mouse_eye1_up
+  rotate: false
+  xy: 74, 284
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+mouse_hair
+  rotate: false
+  xy: 74, 239
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+mouse_hair2
+  rotate: false
+  xy: 1, 176
+  size: 85, 54
+  orig: 85, 54
+  offset: 0, 0
+  index: -1
+mouse_hand1
+  rotate: false
+  xy: 189, 165
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+mouse_hand2
+  rotate: false
+  xy: 124, 239
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+mouse_head
+  rotate: false
+  xy: 1, 1
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+mouse_head_back
+  rotate: false
+  xy: 119, 92
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+mouse_mouth1
+  rotate: false
+  xy: 216, 92
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+mouse_mouth1_down
+  rotate: false
+  xy: 228, 13
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+mouse_pupil1
+  rotate: false
+  xy: 88, 188
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+mouse_spoon
+  rotate: false
+  xy: 170, 199
+  size: 69, 176
+  orig: 69, 176
+  offset: 0, 0
+  index: -1
+mouse_tongue
+  rotate: false
+  xy: 228, 1
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1

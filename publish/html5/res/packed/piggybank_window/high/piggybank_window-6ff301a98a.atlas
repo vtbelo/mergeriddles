@@ -1,0 +1,97 @@
+
+piggybank_window-6ff301a98a.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level_open
+  rotate: false
+  xy: 412, 76
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+piggy_arrow
+  rotate: false
+  xy: 260, 201
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+piggy_bank_body1
+  rotate: false
+  xy: 1, 1
+  size: 257, 230
+  orig: 257, 230
+  offset: 0, 0
+  index: -1
+piggy_bank_body2
+  rotate: false
+  xy: 260, 1
+  size: 167, 70
+  orig: 167, 70
+  offset: 0, 0
+  index: -1
+piggy_bank_body3
+  rotate: false
+  xy: 371, 258
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+piggy_bank_body4
+  rotate: false
+  xy: 1, 294
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+piggy_bank_shadow
+  rotate: false
+  xy: 58, 294
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+piggy_coin
+  rotate: false
+  xy: 260, 73
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1
+piggy_full_blik
+  rotate: false
+  xy: 371, 201
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+piggy_plus
+  rotate: false
+  xy: 429, 1
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+piggy_star1
+  rotate: false
+  xy: 1, 347
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+piggy_star2
+  rotate: false
+  xy: 463, 258
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+score_rays
+  rotate: false
+  xy: 412, 164
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1

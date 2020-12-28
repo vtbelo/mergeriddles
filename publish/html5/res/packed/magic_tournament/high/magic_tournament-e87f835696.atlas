@@ -1,0 +1,188 @@
+
+magic_tournament-e87f835696.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+story_trmnt_cow_body
+  rotate: false
+  xy: 1, 330
+  size: 150, 182
+  orig: 150, 182
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_box
+  rotate: false
+  xy: 1, 1
+  size: 252, 254
+  orig: 252, 254
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_clever2
+  rotate: false
+  xy: 429, 118
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_ear1
+  rotate: false
+  xy: 153, 406
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_ear2
+  rotate: false
+  xy: 421, 341
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_flower
+  rotate: false
+  xy: 212, 503
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_flower2
+  rotate: false
+  xy: 429, 192
+  size: 74, 23
+  orig: 74, 23
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_foot1
+  rotate: false
+  xy: 247, 292
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_foot2
+  rotate: false
+  xy: 1, 257
+  size: 153, 71
+  orig: 153, 71
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_foot3
+  rotate: false
+  xy: 156, 257
+  size: 89, 147
+  orig: 89, 147
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_foot4
+  rotate: false
+  xy: 467, 462
+  size: 42, 149
+  orig: 42, 149
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_grass
+  rotate: false
+  xy: 255, 1
+  size: 250, 115
+  orig: 250, 115
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_green
+  rotate: false
+  xy: 411, 462
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hand
+  rotate: false
+  xy: 247, 399
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hand1
+  rotate: false
+  xy: 429, 262
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hand2
+  rotate: false
+  xy: 349, 292
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hoof1
+  rotate: false
+  xy: 374, 521
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_hoof2
+  rotate: false
+  xy: 315, 561
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_ice
+  rotate: false
+  xy: 267, 552
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_light
+  rotate: false
+  xy: 255, 118
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_pupil
+  rotate: false
+  xy: 429, 217
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_snout
+  rotate: false
+  xy: 411, 382
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_star
+  rotate: false
+  xy: 153, 461
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+story_trmnt_cow_tail
+  rotate: false
+  xy: 349, 376
+  size: 60, 135
+  orig: 60, 135
+  offset: 0, 0
+  index: -1
+story_trmnt_donut
+  rotate: false
+  xy: 322, 513
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+story_trmnt_jelly
+  rotate: false
+  xy: 267, 503
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1

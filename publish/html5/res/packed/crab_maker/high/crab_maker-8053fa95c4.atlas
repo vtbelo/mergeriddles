@@ -1,0 +1,153 @@
+
+crab_maker-8053fa95c4.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple_bg
+  rotate: false
+  xy: 131, 367
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+apple_body
+  rotate: false
+  xy: 131, 47
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+apple_body_cater
+  rotate: false
+  xy: 201, 205
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+apple_body_cater2
+  rotate: false
+  xy: 201, 164
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+apple_door
+  rotate: false
+  xy: 131, 300
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+apple_door2
+  rotate: false
+  xy: 131, 164
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+apple_door_1
+  rotate: false
+  xy: 239, 292
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+apple_eye_up1
+  rotate: false
+  xy: 198, 361
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+apple_eye_up2
+  rotate: false
+  xy: 199, 292
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+apple_grass
+  rotate: false
+  xy: 131, 1
+  size: 117, 44
+  orig: 117, 44
+  offset: 0, 0
+  index: -1
+apple_head
+  rotate: false
+  xy: 131, 231
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+apple_pupil1
+  rotate: false
+  xy: 228, 353
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+apple_pupil2
+  rotate: false
+  xy: 228, 327
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+appple_1_eye2
+  rotate: false
+  xy: 199, 250
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+appple_2_eye1
+  rotate: false
+  xy: 198, 327
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+crab_maker-images-crab_maker_stable0
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+crab_maker-images-crab_maker_stable1
+  rotate: false
+  xy: 1, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+crab_maker-images-crab_maker_stable2
+  rotate: false
+  xy: 1, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+crab_maker_stable0
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+crab_maker_stable1
+  rotate: false
+  xy: 1, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+crab_maker_stable2
+  rotate: false
+  xy: 1, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

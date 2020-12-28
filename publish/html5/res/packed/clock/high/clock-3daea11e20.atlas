@@ -1,0 +1,90 @@
+
+clock-3daea11e20.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clock-images-clock_goal
+  rotate: false
+  xy: 1, 380
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+clock_bg
+  rotate: false
+  xy: 123, 380
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+clock_eye
+  rotate: false
+  xy: 225, 1
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+clock_eyelid_down
+  rotate: false
+  xy: 215, 43
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+clock_eyelid_part
+  rotate: false
+  xy: 191, 62
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+clock_eyelid_up
+  rotate: false
+  xy: 172, 26
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+clock_goal
+  rotate: false
+  xy: 1, 380
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+clock_pupil
+  rotate: false
+  xy: 172, 62
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+clock_smile
+  rotate: false
+  xy: 172, 1
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+flower_finish
+  rotate: false
+  xy: 1, 255
+  size: 167, 123
+  orig: 167, 123
+  offset: 0, 0
+  index: -1
+flower_list
+  rotate: false
+  xy: 1, 1
+  size: 169, 125
+  orig: 169, 125
+  offset: 0, 0
+  index: -1
+flower_list_light
+  rotate: false
+  xy: 1, 128
+  size: 169, 125
+  orig: 169, 125
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+syrup-d7ba69852d.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dirt_cell
+  rotate: false
+  xy: 1, 125
+  size: 87, 121
+  orig: 87, 121
+  offset: 0, 0
+  index: -1
+dirt_cell_buble
+  rotate: false
+  xy: 90, 143
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+dirt_sirop
+  rotate: false
+  xy: 1, 1
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+dirt_sirop_buble
+  rotate: false
+  xy: 90, 125
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dirt_sirop_wave
+  rotate: false
+  xy: 125, 1
+  size: 121, 37
+  orig: 121, 37
+  offset: 0, 0
+  index: -1

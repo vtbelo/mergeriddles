@@ -1,0 +1,188 @@
+
+dog-cd16f0701a.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dog_body
+  rotate: false
+  xy: 138, 220
+  size: 112, 103
+  orig: 112, 103
+  offset: 0, 0
+  index: -1
+dog_mouth1
+  rotate: false
+  xy: 209, 132
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+dog_mouth1_down
+  rotate: false
+  xy: 138, 205
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dog_tongue
+  rotate: false
+  xy: 108, 349
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+ear_dog_left
+  rotate: false
+  xy: 209, 157
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+ear_dog_right
+  rotate: false
+  xy: 91, 294
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+eye_dog_left
+  rotate: false
+  xy: 161, 163
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+eye_dog_right
+  rotate: false
+  xy: 1, 279
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+eyelid_dog_left_down
+  rotate: false
+  xy: 215, 38
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+eyelid_dog_left_up
+  rotate: false
+  xy: 163, 116
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+eyelid_dog_right_down
+  rotate: false
+  xy: 215, 59
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+eyelid_dog_right_up
+  rotate: false
+  xy: 163, 69
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+hand_dog_icecream
+  rotate: false
+  xy: 46, 279
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+hand_dog_right
+  rotate: false
+  xy: 210, 80
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+head_dog
+  rotate: false
+  xy: 1, 1
+  size: 160, 156
+  orig: 160, 156
+  offset: 0, 0
+  index: -1
+ice_cream_dog
+  rotate: false
+  xy: 163, 1
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+iris_dog_left
+  rotate: false
+  xy: 102, 253
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+iris_dog_right
+  rotate: false
+  xy: 46, 309
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+muzzle_dog
+  rotate: false
+  xy: 215, 1
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+nose_dog
+  rotate: false
+  xy: 82, 349
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+patch
+  rotate: false
+  xy: 138, 183
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+path_2
+  rotate: false
+  xy: 138, 159
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 1, 253
+  size: 99, 24
+  orig: 99, 24
+  offset: 0, 0
+  index: -1
+shirt-sleeve_dog_left
+  rotate: false
+  xy: 1, 331
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+shirt-sleeve_dog_right
+  rotate: false
+  xy: 135, 325
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+visor_cap_dog
+  rotate: false
+  xy: 1, 159
+  size: 135, 92
+  orig: 135, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+lantern-d7d478b900.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cm_smoke
+  rotate: false
+  xy: 369, 1
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+cmn_balls_a
+  rotate: false
+  xy: 1, 440
+  size: 181, 63
+  orig: 181, 63
+  offset: 0, 0
+  index: -1
+cmn_balls_b
+  rotate: false
+  xy: 184, 440
+  size: 183, 60
+  orig: 183, 60
+  offset: 0, 0
+  index: -1
+cmn_balls_c
+  rotate: false
+  xy: 203, 166
+  size: 179, 72
+  orig: 179, 72
+  offset: 0, 0
+  index: -1
+cmn_dot_black
+  rotate: false
+  xy: 441, 90
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+cmn_dot_green
+  rotate: false
+  xy: 441, 104
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+cmn_front
+  rotate: false
+  xy: 1, 1
+  size: 200, 261
+  orig: 200, 261
+  offset: 0, 0
+  index: -1
+cmn_frppanel
+  rotate: false
+  xy: 369, 90
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+cmn_glass
+  rotate: false
+  xy: 1, 264
+  size: 195, 174
+  orig: 195, 174
+  offset: 0, 0
+  index: -1
+cmn_handle
+  rotate: false
+  xy: 455, 106
+  size: 34, 96
+  orig: 34, 96
+  offset: 0, 0
+  index: -1
+cmn_handle_tip
+  rotate: false
+  xy: 457, 1
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+cmn_hspec
+  rotate: false
+  xy: 441, 118
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+cmn_tip_bl
+  rotate: false
+  xy: 491, 106
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+vmn_inballs
+  rotate: false
+  xy: 457, 54
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,194 @@
+{
+"skeleton": { "hash": "Q6/HEtAQuFWEA2DkMbygj4CzvFA", "spine": "3.7.94", "width": 0, "height": 0, "images": "C:/Users/Админ/Desktop/лолпаты/ридлс/images", "audio": "" },
+"bones": [
+	{ "name": "root", "scaleX": 1.801, "scaleY": 1.801 },
+	{ "name": "ts_shovel2", "parent": "root", "x": -31.87, "y": -4.48 },
+	{ "name": "treasure_light", "parent": "root", "x": -6.52, "y": 4.48 },
+	{ "name": "poof", "parent": "root", "x": -0.23, "y": 1.19, "scaleX": 0.378, "scaleY": 0.378 }
+],
+"slots": [
+	{ "name": "poof", "bone": "poof", "attachment": "poof" },
+	{ "name": "treasure_light", "bone": "treasure_light", "attachment": "treasure_light" },
+	{ "name": "ts_shovel2", "bone": "ts_shovel2", "attachment": "rd_shovel" }
+],
+"skins": {
+	"default": {
+		"poof": {
+			"poof": { "x": -1.45, "y": -0.51, "width": 138, "height": 141 }
+		},
+		"treasure_light": {
+			"treasure_light": { "x": -0.26, "y": 1.28, "scaleX": 0.397, "scaleY": 0.397, "width": 177, "height": 173 }
+		},
+		"ts_shovel2": {
+			"rd_shovel": {
+				"x": -0.82,
+				"y": -7,
+				"scaleX": 0.808,
+				"scaleY": 0.808,
+				"rotation": 28.92,
+				"width": 93,
+				"height": 67
+			}
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"poof": {
+				"color": [
+					{ "time": 0, "color": "ffffff90" }
+				]
+			}
+		},
+		"bones": {
+			"poof": {
+				"scale": [
+					{ "time": 0, "x": 1.735, "y": 1.735 }
+				]
+			},
+			"ts_shovel2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -31.24,
+						"curve": [ 0.376, 0.5, 0.749, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"angle": -32.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.4333,
+						"angle": -29.71,
+						"curve": [ 0.249, 0, 0.626, 0.5 ]
+					},
+					{ "time": 3.3, "angle": -31.24 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 31.74,
+						"y": 6.72,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6,
+						"x": 31.74,
+						"y": 9.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 3.3, "x": 31.74, "y": 6.72 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.805, "y": 0.805 }
+				]
+			},
+			"treasure_light": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.1, "angle": -120 },
+					{ "time": 2.2, "angle": 120 },
+					{ "time": 3.3, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 3.98, "y": -2.65 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.618, "y": 1.618 }
+				]
+			}
+		}
+	},
+	"open": {
+		"slots": {
+			"poof": {
+				"color": [
+					{ "time": 0.6333, "color": "ffffffff" },
+					{ "time": 0.9333, "color": "ffffff90" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "poof" }
+				]
+			},
+			"treasure_light": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "treasure_light" }
+				]
+			},
+			"ts_shovel2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "rd_shovel" }
+				]
+			}
+		},
+		"bones": {
+			"poof": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0.022,
+						"y": 0.022,
+						"curve": [ 0.19, 0.56, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 4.068,
+						"y": 4.068,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.9333, "x": 1.735, "y": 1.735 }
+				]
+			},
+			"treasure_light": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.1, "angle": -120 },
+					{ "time": 2.2, "angle": 120 },
+					{ "time": 3.3, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 3.98, "y": -2.65 }
+				],
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0.053,
+						"y": 0.053,
+						"curve": [ 0.194, 0.68, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 2.581,
+						"y": 2.581,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 1.618, "y": 1.618 }
+				]
+			},
+			"ts_shovel2": {
+				"rotate": [
+					{ "time": 0.1667, "angle": 0 },
+					{ "time": 0.3667, "angle": -120 },
+					{ "time": 0.5333, "angle": 120 },
+					{ "time": 0.7333, "angle": 0 },
+					{ "time": 0.8, "angle": -29.07 }
+				],
+				"translate": [
+					{ "time": 0, "x": 31.74, "y": 8.76 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.268, "y": 0.268 },
+					{ "time": 0.1667, "x": 0.082, "y": 0.082 },
+					{ "time": 0.4667, "x": 1.255, "y": 1.255 },
+					{ "time": 0.8, "x": 0.805, "y": 0.805 }
+				]
+			}
+		}
+	}
+}
+}

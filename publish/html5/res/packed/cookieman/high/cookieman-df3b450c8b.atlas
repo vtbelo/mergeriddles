@@ -1,0 +1,118 @@
+
+cookieman-df3b450c8b.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cookieman-images-cookieman_stable
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+cookieman_stable
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ginger1
+  rotate: false
+  xy: 123, 75
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+ginger2
+  rotate: false
+  xy: 1, 123
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+ginger3
+  rotate: false
+  xy: 1, 205
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+ginger4
+  rotate: false
+  xy: 159, 171
+  size: 70, 92
+  orig: 70, 92
+  offset: 0, 0
+  index: -1
+ginger5
+  rotate: false
+  xy: 81, 171
+  size: 76, 102
+  orig: 76, 102
+  offset: 0, 0
+  index: -1
+ginger_arrow
+  rotate: false
+  xy: 159, 265
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+ginger_body
+  rotate: false
+  xy: 123, 1
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+ginger_body_head
+  rotate: false
+  xy: 203, 75
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+ginger_brow1
+  rotate: false
+  xy: 239, 12
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+ginger_brow2
+  rotate: false
+  xy: 239, 1
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+ginger_eye1
+  rotate: false
+  xy: 231, 24
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+ginger_eye2
+  rotate: false
+  xy: 244, 24
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+ginger_mouth1
+  rotate: false
+  xy: 209, 20
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+ginger_mouth2
+  rotate: false
+  xy: 209, 1
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1

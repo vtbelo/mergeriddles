@@ -1,0 +1,146 @@
+
+boosters_sale-7f818a7784.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boosters_sale-streak_bar
+  rotate: false
+  xy: 169, 80
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+boosters_sale-streak_bar_bg
+  rotate: false
+  xy: 162, 164
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+boosters_sale-streak_bar_line
+  rotate: false
+  xy: 1, 1
+  size: 223, 26
+  orig: 223, 26
+  offset: 0, 0
+  index: -1
+boosters_sale-tile_shop-shop_best_seller
+  rotate: false
+  xy: 1, 175
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+boosters_sale-tile_shop-shop_bg_white
+  rotate: false
+  xy: 381, 190
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+boosters_sale-tile_shop-shop_inner_bg
+  rotate: false
+  xy: 76, 326
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+checkbox_selected
+  rotate: false
+  xy: 162, 112
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+fb_coin_blik
+  rotate: false
+  xy: 191, 256
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+fb_prise
+  rotate: false
+  xy: 226, 1
+  size: 167, 118
+  orig: 167, 118
+  offset: 0, 0
+  index: -1
+fb_prise_bow
+  rotate: false
+  xy: 395, 1
+  size: 114, 72
+  orig: 114, 72
+  offset: 0, 0
+  index: -1
+fb_prise_cap
+  rotate: false
+  xy: 1, 29
+  size: 166, 67
+  orig: 166, 67
+  offset: 0, 0
+  index: -1
+fb_prise_chest
+  rotate: false
+  xy: 221, 121
+  size: 158, 90
+  orig: 158, 90
+  offset: 0, 0
+  index: -1
+fb_prise_chest_cup1
+  rotate: false
+  xy: 1, 98
+  size: 159, 75
+  orig: 159, 75
+  offset: 0, 0
+  index: -1
+fb_prise_chest_cup2
+  rotate: false
+  xy: 219, 213
+  size: 139, 83
+  orig: 139, 83
+  offset: 0, 0
+  index: -1
+fb_prise_chest_lock
+  rotate: false
+  xy: 169, 29
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+fb_prise_effect1
+  rotate: false
+  xy: 152, 256
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+fb_prise_effect3
+  rotate: false
+  xy: 381, 121
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+fb_prise_tape
+  rotate: false
+  xy: 395, 75
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+fb_prise_tape2
+  rotate: false
+  xy: 152, 196
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+window_balloon
+  rotate: false
+  xy: 1, 326
+  size: 73, 160
+  orig: 73, 160
+  offset: 0, 0
+  index: -1

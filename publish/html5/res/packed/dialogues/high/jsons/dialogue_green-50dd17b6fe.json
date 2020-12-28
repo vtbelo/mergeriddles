@@ -1,0 +1,644 @@
+{
+	"skeleton": {
+		"hash": "cvDAcGAfAEYe/ggTjUksSy88cVY",
+		"spine": "3.7.91",
+		"width": 250.68,
+		"height": 257.07,
+		"images": "C:\\Users\\Админ\\Documents\\GitHub\\match3\\res\\skins\\riddles\\high\\bundles\\dialogues\\dialogue_green\\images",
+		"audio": "C:/Users/labcomp i5/YandexDisk/match3_proto/green_talk_ps"
+	},
+	"bones": [
+		{
+			"name": "root",
+			"scaleX": -1
+		},
+		{
+			"name": "green_bodee",
+			"parent": "root",
+			"length": 21.88,
+			"rotation": 90,
+			"x": 1.16,
+			"y": -5.77
+		},
+		{
+			"name": "green_hero_bott",
+			"parent": "green_bodee",
+			"length": 19.63,
+			"rotation": -180,
+			"x": -32.54,
+			"y": -0.75
+		},
+		{
+			"name": "green_talk_eyes",
+			"parent": "green_bodee",
+			"x": 72.18,
+			"y": -3.17
+		},
+		{
+			"name": "green_mouth2",
+			"parent": "green_bodee",
+			"x": 27.59,
+			"y": 0.35
+		},
+		{
+			"name": "green_pupil1",
+			"parent": "green_bodee",
+			"x": 62.42,
+			"y": 36.61
+		},
+		{
+			"name": "green_pupil2",
+			"parent": "green_bodee",
+			"x": 63.47,
+			"y": -43.71
+		}
+	],
+	"slots": [
+		{
+			"name": "green_hero_bott",
+			"bone": "green_hero_bott",
+			"attachment": "green_hero_bott"
+		},
+		{
+			"name": "green_bodee",
+			"bone": "green_bodee",
+			"attachment": "green_bodee"
+		},
+		{
+			"name": "green_talk_eyes2",
+			"bone": "green_talk_eyes",
+			"attachment": "green_talk_eyes"
+		},
+		{
+			"name": "green_talk_eyes",
+			"bone": "green_talk_eyes",
+			"attachment": "green_talk_eyes"
+		},
+		{
+			"name": "green_blink",
+			"bone": "root"
+		},
+		{
+			"name": "green_pupil2",
+			"bone": "green_pupil2",
+			"attachment": "green_pupil2"
+		},
+		{
+			"name": "green_pupil1",
+			"bone": "green_pupil1",
+			"attachment": "green_pupil1"
+		},
+		{
+			"name": "gteen_mouth1",
+			"bone": "root"
+		},
+		{
+			"name": "green_mouth2",
+			"bone": "green_mouth2",
+			"attachment": "gteen_mouth1"
+		}
+	],
+	"skins": {
+		"default": {
+			"green_bodee": {
+				"green_bodee": {
+					"x": 81.86,
+					"y": -5.73,
+					"scaleX": 1.729,
+					"scaleY": 1.729,
+					"rotation": -90,
+					"width": 145,
+					"height": 133
+				}
+			},
+			"green_hero_bott": {
+				"green_hero_bott": {
+					"x": -9.4,
+					"y": 4.48,
+					"scaleX": 1.258,
+					"scaleY": 1.258,
+					"rotation": 90,
+					"width": 128,
+					"height": 59
+				}
+			},
+			"green_mouth2": {
+				"green_mouth2": {
+					"x": -5.24,
+					"y": 0.42,
+					"rotation": -90,
+					"width": 36,
+					"height": 26
+				},
+				"gteen_mouth1": {
+					"x": 1.26,
+					"y": 1.92,
+					"rotation": -90,
+					"width": 35,
+					"height": 15
+				}
+			},
+			"green_pupil1": {
+				"green_pupil1": {
+					"x": 0.43,
+					"y": 2.16,
+					"rotation": -90,
+					"width": 40,
+					"height": 49
+				}
+			},
+			"green_pupil2": {
+				"green_pupil2": {
+					"x": -1.12,
+					"y": -1.02,
+					"rotation": -90,
+					"width": 45,
+					"height": 50
+				}
+			},
+			"green_talk_eyes": {
+				"green_blink": {
+					"x": -10.82,
+					"y": 3.94,
+					"scaleX": 1.568,
+					"scaleY": 1.568,
+					"rotation": -90,
+					"width": 100,
+					"height": 25
+				},
+				"green_talk_eyes": {
+					"x": -6.82,
+					"y": -44.56,
+					"rotation": -90,
+					"width": 63,
+					"height": 78
+				}
+			},
+			"green_talk_eyes2": {
+				"green_talk_eyes": {
+					"x": -6.36,
+					"y": 47.64,
+					"scaleX": -1.01,
+					"scaleY": 1.004,
+					"rotation": -97.94,
+					"width": 63,
+					"height": 78
+				}
+			}
+		}
+	},
+	"animations": {
+		"normal": {
+			"slots": {
+				"green_mouth2": {
+					"attachment": [
+						{
+							"time": 0.2,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 0.4333,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 0.6333,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 0.9333,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 1.1333,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 1.3,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 1.4333,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 1.5,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 1.6,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 1.7333,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 1.8667,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 2,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 2.2,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 2.4333,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 2.6333,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 2.9333,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 3.1333,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 3.3,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 3.4333,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 3.5,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 3.6,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 3.7333,
+							"name": "gteen_mouth1"
+						},
+						{
+							"time": 3.8667,
+							"name": "green_mouth2"
+						},
+						{
+							"time": 4,
+							"name": "gteen_mouth1"
+						}
+					]
+				},
+				"green_pupil1": {
+					"attachment": [
+						{
+							"time": 2.4333,
+							"name": null
+						},
+						{
+							"time": 2.6,
+							"name": "green_pupil1"
+						}
+					]
+				},
+				"green_pupil2": {
+					"attachment": [
+						{
+							"time": 2.4333,
+							"name": null
+						},
+						{
+							"time": 2.6,
+							"name": "green_pupil2"
+						}
+					]
+				},
+				"green_talk_eyes": {
+					"attachment": [
+						{
+							"time": 2.4333,
+							"name": "green_blink"
+						},
+						{
+							"time": 2.6,
+							"name": "green_talk_eyes"
+						}
+					]
+				},
+				"green_talk_eyes2": {
+					"attachment": [
+						{
+							"time": 2.4333,
+							"name": null
+						},
+						{
+							"time": 2.6,
+							"name": "green_talk_eyes"
+						}
+					]
+				}
+			},
+			"bones": {
+				"green_mouth2": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": 0.38,
+							"y": 2.27
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 3,
+							"x": 0.38,
+							"y": 2.27
+						},
+						{
+							"time": 4,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.3333,
+							"x": 0.92,
+							"y": 0.788
+						},
+						{
+							"time": 0.4333,
+							"x": 1,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8,
+							"x": 0.557,
+							"y": 1
+						},
+						{
+							"time": 0.9333,
+							"x": 1,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 2.2,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.3333,
+							"x": 0.92,
+							"y": 0.788
+						},
+						{
+							"time": 2.4333,
+							"x": 1,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 2.6333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.8,
+							"x": 0.557,
+							"y": 1
+						},
+						{
+							"time": 2.9333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_pupil1": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.2,
+							"x": 1.89,
+							"y": 13.61,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.6667,
+							"x": 1.89,
+							"y": 13.61
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 2.2,
+							"x": -1.23,
+							"y": 1.86,
+							"curve": "stepped"
+						},
+						{
+							"time": 3.6667,
+							"x": -1.23,
+							"y": 1.86
+						},
+						{
+							"time": 4,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_pupil2": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.2,
+							"x": 1.51,
+							"y": 10.58,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.6667,
+							"x": 1.51,
+							"y": 10.58
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 2.2,
+							"x": -1.61,
+							"y": -1.16,
+							"curve": "stepped"
+						},
+						{
+							"time": 3.6667,
+							"x": -1.61,
+							"y": -1.16
+						},
+						{
+							"time": 4,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_talk_eyes": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.4,
+							"x": 0.76,
+							"y": 5.29,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.6,
+							"x": 0.76,
+							"y": 5.29
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"root": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.5,
+							"x": 0.992,
+							"y": 1.031
+						},
+						{
+							"time": 0.7667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.0667,
+							"x": 1.024,
+							"y": 0.98
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 2.0667,
+							"x": 0.77,
+							"y": 2.55
+						},
+						{
+							"time": 4,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_hero_bott": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 1,
+							"angle": 1.25
+						},
+						{
+							"time": 2,
+							"angle": 0
+						},
+						{
+							"time": 3,
+							"angle": 1.25
+						},
+						{
+							"time": 4,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1,
+							"x": 0.4,
+							"y": -1.2
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 3,
+							"x": 0.4,
+							"y": -1.2
+						},
+						{
+							"time": 4,
+							"x": 0,
+							"y": 0
+						}
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,62 @@
+
+muffin-977511313b.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+muffin-images-muffin_cherry
+  rotate: false
+  xy: 120, 153
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+muffin_1
+  rotate: false
+  xy: 1, 115
+  size: 117, 121
+  orig: 117, 121
+  offset: 0, 0
+  index: -1
+muffin_3
+  rotate: false
+  xy: 1, 1
+  size: 124, 112
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+muffin_4
+  rotate: false
+  xy: 127, 1
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+muffin_cherry
+  rotate: false
+  xy: 120, 153
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+muffin_mold1
+  rotate: false
+  xy: 218, 153
+  size: 34, 103
+  orig: 34, 103
+  offset: 0, 0
+  index: -1
+muffin_mold2
+  rotate: false
+  xy: 1, 238
+  size: 30, 103
+  orig: 30, 103
+  offset: 0, 0
+  index: -1
+muffin_mold3
+  rotate: false
+  xy: 120, 122
+  size: 110, 29
+  orig: 110, 29
+  offset: 0, 0
+  index: -1

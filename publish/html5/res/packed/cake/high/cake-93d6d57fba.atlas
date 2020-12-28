@@ -1,0 +1,209 @@
+
+cake-93d6d57fba.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cake-images-cake_1_1
+  rotate: false
+  xy: 244, 1
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1
+cake-images-cake_1_2
+  rotate: false
+  xy: 370, 1
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1
+cake-images-cake_1_3
+  rotate: false
+  xy: 244, 132
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1
+cake-images-cake_2_1
+  rotate: false
+  xy: 1, 394
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+cake-images-cake_2_2
+  rotate: false
+  xy: 311, 282
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+cake-images-cake_2_3
+  rotate: false
+  xy: 311, 411
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+cake-images-cake_3_1
+  rotate: false
+  xy: 1, 523
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+cake-images-cake_3_2
+  rotate: false
+  xy: 251, 540
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+cake-images-cake_3_3
+  rotate: false
+  xy: 125, 542
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+cake-images-cake_4_1
+  rotate: false
+  xy: 370, 132
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+cake-images-cake_4_2
+  rotate: false
+  xy: 1, 244
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+cake-images-cake_4_3
+  rotate: false
+  xy: 186, 263
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+cake-images-cake_goal
+  rotate: false
+  xy: 126, 413
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+cake-images-plate
+  rotate: false
+  xy: 1, 1
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+cake_1_1
+  rotate: false
+  xy: 244, 1
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1
+cake_1_2
+  rotate: false
+  xy: 370, 1
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1
+cake_1_3
+  rotate: false
+  xy: 244, 132
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1
+cake_2_1
+  rotate: false
+  xy: 1, 394
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+cake_2_2
+  rotate: false
+  xy: 311, 282
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+cake_2_3
+  rotate: false
+  xy: 311, 411
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+cake_3_1
+  rotate: false
+  xy: 1, 523
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+cake_3_2
+  rotate: false
+  xy: 251, 540
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+cake_3_3
+  rotate: false
+  xy: 125, 542
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+cake_4_1
+  rotate: false
+  xy: 370, 132
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+cake_4_2
+  rotate: false
+  xy: 1, 244
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+cake_4_3
+  rotate: false
+  xy: 186, 263
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+cake_goal
+  rotate: false
+  xy: 126, 413
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+cake_splash
+  rotate: false
+  xy: 126, 244
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+plate
+  rotate: false
+  xy: 1, 1
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1

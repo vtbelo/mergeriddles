@@ -1,0 +1,399 @@
+{
+"skeleton": { "hash": "J6+vg7FDCfBNPiPYxnz5aip18rY", "spine": "3.7.94", "width": 291.78, "height": 157.7, "images": "./images/", "audio": "C:/Users/labcomp i5/YandexDisk/match3_proto/Ferma_game/leika" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "leika_main", "parent": "root", "x": 96.78, "y": 61.4 },
+	{ "name": "leika_front", "parent": "leika_main", "length": 24.95, "rotation": 177.44, "x": -33.63, "y": 40.56 },
+	{ "name": "leika_handle", "parent": "leika_main", "length": 21.38, "rotation": 3.27, "x": 40.35, "y": 45.58 },
+	{ "name": "leika_main2", "parent": "leika_main", "x": -101.61, "y": 71.02 },
+	{ "name": "leika_stream", "parent": "leika_main2", "length": 55.82, "rotation": -139.75, "x": -13.45, "y": -9.41 },
+	{
+		"name": "leika_water_spl1",
+		"parent": "leika_main2",
+		"length": 8.22,
+		"rotation": -144.94,
+		"x": -37.26,
+		"y": -27.33,
+		"color": "ff5022ff"
+	},
+	{
+		"name": "leika_water_spl2",
+		"parent": "leika_main2",
+		"length": 8.22,
+		"rotation": -144.94,
+		"x": -30.45,
+		"y": -20.23,
+		"color": "ff5022ff"
+	}
+],
+"slots": [
+	{ "name": "leika_handle", "bone": "leika_handle", "attachment": "leika_handle" },
+	{ "name": "leika_main", "bone": "leika_main", "attachment": "leika_main" },
+	{ "name": "leika_front", "bone": "leika_front", "attachment": "leika_front" },
+	{ "name": "leika_stream", "bone": "leika_stream", "attachment": "leika_stream" },
+	{ "name": "leika_water_spl1", "bone": "leika_water_spl1", "attachment": "leika_water_spl1" },
+	{ "name": "leika_water_spl3", "bone": "leika_water_spl2", "attachment": "leika_water_spl1" },
+	{ "name": "leika_water_spl2", "bone": "root" },
+	{ "name": "stream_1", "bone": "leika_stream", "attachment": "stream_2" }
+],
+"path": [
+	{
+		"name": "stream_1",
+		"order": 0,
+		"bones": [ "leika_water_spl1" ],
+		"target": "stream_1"
+	},
+	{
+		"name": "stream_2",
+		"order": 1,
+		"bones": [ "leika_water_spl2" ],
+		"target": "stream_1"
+	}
+],
+"skins": {
+	"default": {
+		"leika_front": {
+			"leika_front": { "x": 30.1, "y": -8.94, "rotation": -177.44, "width": 85, "height": 107 }
+		},
+		"leika_handle": {
+			"leika_handle": { "x": 17.6, "y": 0.41, "rotation": -3.27, "width": 45, "height": 104 }
+		},
+		"leika_main": {
+			"leika_main": { "x": 2.39, "y": 46.49, "width": 92, "height": 115 }
+		},
+		"leika_stream": {
+			"leika_stream": { "x": 64.03, "y": 13.23, "rotation": 139.75, "width": 112, "height": 127 }
+		},
+		"leika_water_spl1": {
+			"leika_water_spl1": { "x": -0.16, "y": 3.22, "rotation": 144.94, "width": 33, "height": 47 },
+			"leika_water_spl2": {
+				"x": -1.64,
+				"y": 2.47,
+				"scaleX": 0.818,
+				"scaleY": 0.718,
+				"rotation": 118.33,
+				"width": 63,
+				"height": 51
+			}
+		},
+		"leika_water_spl3": {
+			"leika_water_spl1": { "x": -0.16, "y": 3.22, "rotation": 144.94, "width": 33, "height": 47 },
+			"leika_water_spl2": {
+				"x": -1.64,
+				"y": 2.47,
+				"scaleX": 0.818,
+				"scaleY": 0.718,
+				"rotation": 118.33,
+				"width": 63,
+				"height": 51
+			}
+		},
+		"stream_1": {
+			"stream_1": {
+				"type": "path",
+				"lengths": [ 125.66, 279.81 ],
+				"vertexCount": 6,
+				"vertices": [ -34.76, 11.93, -0.75, 4.29, 53.63, -7.92, 90.69, 5.48, 113.24, 36.38, 133.86, 64.64 ]
+			},
+			"stream_2": {
+				"type": "path",
+				"lengths": [ 125.66, 279.81 ],
+				"vertexCount": 6,
+				"vertices": [ -34.76, 11.93, -0.75, 4.29, 53.63, -7.92, 90.69, 5.48, 113.24, 36.38, 133.86, 64.64 ]
+			}
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"leika_stream": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"leika_water_spl1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"leika_water_spl3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"leika_main": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.672, 0.01, 0.472, 0.99 ]
+					},
+					{
+						"time": 1,
+						"angle": 5.34,
+						"curve": [ 0.597, 0.02, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.672, 0.01, 0.472, 0.99 ]
+					},
+					{
+						"time": 1,
+						"x": -0.8,
+						"y": -2.79,
+						"curve": [ 0.597, 0.02, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"leika_front": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1, "x": 2.45, "y": 0.18 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"leika_handle": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1, "x": -1.63, "y": 0.96 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"leika_water_spl1": {
+				"rotate": [
+					{ "time": 0, "angle": -7.46 }
+				],
+				"translate": [
+					{ "time": 0, "x": 27.15, "y": 15.13 }
+				]
+			},
+			"leika_water_spl2": {
+				"rotate": [
+					{ "time": 0, "angle": -7.46 }
+				],
+				"translate": [
+					{ "time": 0, "x": 27.15, "y": 15.13 }
+				]
+			}
+		}
+	},
+	"animation": {
+		"slots": {
+			"leika_stream": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" },
+					{ "time": 0.9667, "color": "ffffffff" },
+					{ "time": 1.6, "color": "ffffffd4" },
+					{ "time": 1.7333, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"leika_water_spl1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2667, "name": "leika_water_spl1" },
+					{ "time": 0.4667, "name": "leika_water_spl2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.7667, "name": "leika_water_spl1" },
+					{ "time": 0.9667, "name": "leika_water_spl2" },
+					{ "time": 1.1333, "name": null },
+					{ "time": 1.2333, "name": "leika_water_spl1" },
+					{ "time": 1.4333, "name": "leika_water_spl2" },
+					{ "time": 1.6333, "name": null }
+				]
+			},
+			"leika_water_spl3": {
+				"color": [
+					{ "time": 1.4, "color": "ffffffff" },
+					{ "time": 1.7667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4333, "name": "leika_water_spl1" },
+					{ "time": 0.6333, "name": "leika_water_spl2" },
+					{ "time": 0.8333, "name": null },
+					{ "time": 0.9333, "name": "leika_water_spl1" },
+					{ "time": 1.1333, "name": "leika_water_spl2" },
+					{ "time": 1.3, "name": null },
+					{ "time": 1.4, "name": "leika_water_spl1" },
+					{ "time": 1.6, "name": "leika_water_spl2" },
+					{ "time": 1.8, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"leika_main": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.672, 0.01, 0.472, 0.99 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 21.51,
+						"curve": [ 0.597, 0.02, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 34.96,
+						"curve": [ 0.597, 0.02, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.672, 0.01, 0.472, 0.99 ]
+					},
+					{
+						"time": 0.5,
+						"x": 65.02,
+						"y": 13.07,
+						"curve": [ 0.597, 0.02, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"x": 64.34,
+						"y": 29.13,
+						"curve": [ 0.597, 0.02, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"leika_front": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 2.45, "y": 0.18, "curve": "stepped" },
+					{ "time": 1.5, "x": 2.45, "y": 0.18 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"leika_handle": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -1.63, "y": 0.96, "curve": "stepped" },
+					{ "time": 1.5, "x": -1.63, "y": 0.96 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"leika_main2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.5, "angle": -15.21 },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 12.96, "y": 17.59 },
+					{ "time": 1.5, "x": 19.21, "y": 19.64 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"leika_stream": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2667, "angle": 5.5 },
+					{ "time": 0.5, "angle": -8.55 },
+					{ "time": 0.7333, "angle": 5.5 },
+					{ "time": 0.9667, "angle": -8.55 },
+					{ "time": 1.6, "angle": -2.28 },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0.16, "y": 0.4 },
+					{ "time": 0.7333, "x": 0, "y": 0 },
+					{ "time": 0.9667, "x": 0.16, "y": 0.4 },
+					{ "time": 1.6, "x": 0.04, "y": 0.11 },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.2667, "x": 1.171, "y": 0.372 },
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 0.7333, "x": 1.171, "y": 0.372 },
+					{ "time": 0.9667, "x": 1, "y": 1 }
+				]
+			},
+			"leika_water_spl1": {
+				"rotate": [
+					{ "time": 0, "angle": -7.46 }
+				],
+				"translate": [
+					{ "time": 0, "x": 27.15, "y": 15.13 }
+				],
+				"scale": [
+					{ "time": 0.2667, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 1, "y": 1.4 },
+					{ "time": 0.7667, "x": 1, "y": 1 },
+					{ "time": 1.1667, "x": 1, "y": 1.4 },
+					{ "time": 1.2333, "x": 1, "y": 1 },
+					{ "time": 1.6333, "x": 1, "y": 1.4 },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			},
+			"leika_water_spl2": {
+				"rotate": [
+					{ "time": 0, "angle": -7.46 }
+				],
+				"translate": [
+					{ "time": 0, "x": 27.15, "y": 15.13 }
+				],
+				"scale": [
+					{ "time": 0.4333, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1, "y": 1.4 },
+					{ "time": 0.9333, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 1, "y": 1.4 },
+					{ "time": 1.4, "x": 1, "y": 1 },
+					{ "time": 1.8, "x": 1, "y": 1.4 },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"paths": {
+			"stream_1": {
+				"position": [
+					{ "time": 0.2667 },
+					{ "time": 0.6667, "position": 1 },
+					{ "time": 0.7, "curve": "stepped" },
+					{ "time": 0.7333 },
+					{ "time": 1.1333, "position": 1 },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.2 },
+					{ "time": 1.5667, "position": 1 }
+				],
+				"spacing": [
+					{ "time": 0, "spacing": 18.4 },
+					{ "time": 0.4667, "spacing": 37.3 }
+				]
+			},
+			"stream_2": {
+				"position": [
+					{ "time": 0.2667 },
+					{ "time": 0.6333, "position": 0.5216 },
+					{ "time": 0.8, "position": 1 },
+					{ "time": 0.8333 },
+					{ "time": 1.3333, "position": 1 },
+					{ "time": 1.3667, "position": -0.2392 },
+					{ "time": 1.7667, "position": 1 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,316 @@
+{
+"skeleton": { "hash": "0hiXcysedi5PXUuv0p6p+b5rvt4", "spine": "3.7.19-beta", "width": 89, "height": 120, "images": "./images/", "audio": "C:/Users/Eugene/Desktop/луе1" },
+"bones": [
+	{ "name": "root", "rotation": 0 },
+	{ "name": "gun_mustard", "parent": "root" },
+	{ "name": "gun_barrel", "parent": "gun_mustard" },
+	{ "name": "gun_mustard3", "parent": "gun_mustard", "x": 0.46, "y": 0.39 },
+	{
+		"name": "gun_mustard5",
+		"parent": "gun_mustard",
+		"length": 229.04,
+		"rotation": -90.28,
+		"x": 0.25,
+		"y": 18.82,
+		"scaleX": 0.3
+	}
+],
+"slots": [
+	{ "name": "gun_mustard3", "bone": "gun_mustard5" },
+	{ "name": "gun_barrel", "bone": "gun_barrel", "attachment": "gun_barrel" },
+	{ "name": "gun_mustard2", "bone": "gun_mustard3" }
+],
+"skins": {
+	"default": {
+		"gun_barrel": {
+			"gun_barrel": {
+				"type": "mesh",
+				"uvs": [ 0.99999, 0.54239, 1, 1, 0.46272, 1, 0, 1, 0, 0.55131, 0, 0, 0.49407, 0, 1, 0 ],
+				"triangles": [ 0, 6, 7, 4, 5, 6, 2, 4, 6, 2, 3, 4, 6, 0, 2, 2, 0, 1 ],
+				"vertices": [ 44.89, -3.14, 44.89, -59.76, -2.92, -59.76, -44.11, -59.76, -44.11, -5.92, -44.11, 60.24, -0.87, 60.24, 44.89, 60.24 ],
+				"hull": 8,
+				"edges": [ 6, 8, 8, 10, 2, 0, 0, 14, 10, 12, 12, 14, 2, 4, 4, 6 ],
+				"width": 89,
+				"height": 120
+			}
+		},
+		"gun_mustard2": {
+			"gun_mustard2": { "x": -0.46, "y": -0.39, "width": 79, "height": 80 }
+		},
+		"gun_mustard3": {
+			"gun_mustard3": { "x": 150.5, "y": 0.5, "rotation": 90.28, "width": 53, "height": 315 }
+		}
+	}
+},
+"animations": {
+	"gun_action": {
+		"bones": {
+			"gun_mustard": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"gun_barrel": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.4333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.4333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.2,
+						"x": 1,
+						"y": 0.929,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 0.737,
+						"y": 1.095,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.4333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.4333, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"gun_barrel": {
+					"gun_barrel": [
+						{
+							"time": 0,
+							"offset": 1,
+							"vertices": [ -2.89299, 0, 0, 0, 0, 0, 0, -0.78899 ]
+						},
+						{
+							"time": 0.2,
+							"vertices": [ 8.67897, -2.89299, 0, 0, 0, 0, 0, 0, -7.10098 ],
+							"curve": [ 0.25, 0, 0.75, 1 ]
+						},
+						{
+							"time": 0.3333,
+							"vertices": [ -13.03642, 0.95104, 0, 0, 0, 0, 0, 0, 16.00254, 4.32456, 3.25223, -2.16228, 0, 0, -0.69252, -1.92203 ],
+							"curve": [ 0.25, 0, 0.75, 1 ]
+						},
+						{
+							"time": 0.4333,
+							"offset": 1,
+							"vertices": [ -2.89299, 0, 0, 0, 0, 0, 0, -0.78899 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"gun_static": {
+		"bones": {
+			"gun_mustard": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"gun_barrel": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"gun_barrel": {
+					"gun_barrel": [
+						{
+							"time": 0,
+							"offset": 1,
+							"vertices": [ -2.89299, 0, 0, 0, 0, 0, 0, -0.78899 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"mustard_action": {
+		"slots": {
+			"gun_barrel": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gun_mustard2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "gun_mustard2" }
+				]
+			},
+			"gun_mustard3": {
+				"attachment": [
+					{ "time": 0, "name": "gun_mustard3" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"gun_barrel": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -7.14, "y": -125.75 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"gun_mustard3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -0.46, "y": -0.39 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.406,
+						"y": 0.304,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"x": 0.924,
+						"y": 1.093,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1.147,
+						"y": 0.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 0.924,
+						"y": 1.093,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.147,
+						"y": 0.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 0.924,
+						"y": 1.093,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1.147,
+						"y": 0.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 0.924,
+						"y": 1.093,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1667, "x": 1.147, "y": 0.86 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"gun_mustard": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"gun_mustard5": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 2.596, "y": 1.096 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"gun_barrel": {
+					"gun_barrel": [
+						{
+							"time": 0,
+							"offset": 1,
+							"vertices": [ -2.89299, 0, 0, 0, 0, 0, 0, -0.78899 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

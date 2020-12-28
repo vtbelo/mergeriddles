@@ -1,0 +1,41 @@
+
+transporter-e8ec0cc776.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transporter-images-transporter_curve
+  rotate: false
+  xy: 1, 1
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+transporter-images-transporter_hrzt
+  rotate: false
+  xy: 1, 137
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+transporter_curve
+  rotate: false
+  xy: 1, 1
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+transporter_hrzt
+  rotate: false
+  xy: 1, 137
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+volna1
+  rotate: false
+  xy: 137, 1
+  size: 111, 102
+  orig: 111, 102
+  offset: 0, 0
+  index: -1

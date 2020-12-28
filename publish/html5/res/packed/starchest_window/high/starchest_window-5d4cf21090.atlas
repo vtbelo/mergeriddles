@@ -1,0 +1,139 @@
+
+starchest_window-5d4cf21090.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ch_base
+  rotate: false
+  xy: 1, 246
+  size: 329, 165
+  orig: 329, 165
+  offset: 0, 0
+  index: -1
+ch_flower_particle
+  rotate: false
+  xy: 433, 357
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+ch_glow
+  rotate: false
+  xy: 1, 642
+  size: 187, 108
+  orig: 187, 108
+  offset: 0, 0
+  index: -1
+ch_rays
+  rotate: false
+  xy: 276, 563
+  size: 194, 169
+  orig: 194, 169
+  offset: 0, 0
+  index: -1
+ch_star_bg
+  rotate: false
+  xy: 340, 161
+  size: 141, 143
+  orig: 141, 143
+  offset: 0, 0
+  index: -1
+ch_star_shine
+  rotate: false
+  xy: 344, 1
+  size: 156, 158
+  orig: 156, 158
+  offset: 0, 0
+  index: -1
+ch_star_yellow
+  rotate: false
+  xy: 332, 374
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+sjelly_base
+  rotate: false
+  xy: 1, 413
+  size: 273, 227
+  orig: 273, 227
+  offset: 0, 0
+  index: -1
+sjelly_cracked_hrt
+  rotate: false
+  xy: 483, 161
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+sjelly_hand
+  rotate: false
+  xy: 433, 306
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+sjelly_happy_mouth
+  rotate: false
+  xy: 476, 406
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+sjelly_heart
+  rotate: false
+  xy: 332, 306
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+sjelly_pupil1
+  rotate: false
+  xy: 431, 406
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+sjelly_pupil2
+  rotate: false
+  xy: 276, 432
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+sjelly_sad_mouth
+  rotate: false
+  xy: 276, 413
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+sjelly_star
+  rotate: false
+  xy: 317, 475
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+star_jelly_spark
+  rotate: false
+  xy: 431, 459
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+top_closed
+  rotate: false
+  xy: 1, 1
+  size: 341, 146
+  orig: 341, 146
+  offset: 0, 0
+  index: -1
+top_closed_copy_3
+  rotate: false
+  xy: 1, 149
+  size: 337, 95
+  orig: 337, 95
+  offset: 0, 0
+  index: -1

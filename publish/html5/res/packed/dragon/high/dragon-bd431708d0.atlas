@@ -1,0 +1,153 @@
+
+dragon-bd431708d0.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candy_back1
+  rotate: false
+  xy: 1, 570
+  size: 184, 148
+  orig: 184, 148
+  offset: 0, 0
+  index: -1
+candy_back2
+  rotate: false
+  xy: 1, 870
+  size: 149, 118
+  orig: 149, 118
+  offset: 0, 0
+  index: -1
+candy_back3
+  rotate: false
+  xy: 235, 442
+  size: 229, 133
+  orig: 229, 133
+  offset: 0, 0
+  index: -1
+candy_backside
+  rotate: false
+  xy: 1, 243
+  size: 232, 201
+  orig: 232, 201
+  offset: 0, 0
+  index: -1
+candy_body
+  rotate: false
+  xy: 1, 720
+  size: 167, 148
+  orig: 167, 148
+  offset: 0, 0
+  index: -1
+candy_eye1
+  rotate: false
+  xy: 170, 727
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+candy_eye2
+  rotate: false
+  xy: 170, 727
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+candy_eyedown
+  rotate: false
+  xy: 467, 243
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+candy_eyeup
+  rotate: false
+  xy: 170, 782
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+candy_mouth1
+  rotate: false
+  xy: 485, 1
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+candy_mouth2
+  rotate: false
+  xy: 467, 292
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+candy_pupil1
+  rotate: false
+  xy: 467, 259
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+candy_pupil2
+  rotate: false
+  xy: 467, 259
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+candy_up1
+  rotate: false
+  xy: 187, 577
+  size: 182, 148
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+candy_up2
+  rotate: false
+  xy: 152, 870
+  size: 164, 116
+  orig: 164, 116
+  offset: 0, 0
+  index: -1
+candy_up3
+  rotate: false
+  xy: 1, 446
+  size: 227, 122
+  orig: 227, 122
+  offset: 0, 0
+  index: -1
+candy_upside
+  rotate: false
+  xy: 235, 243
+  size: 230, 197
+  orig: 230, 197
+  offset: 0, 0
+  index: -1
+dragon-images-dragon_stable
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+dragon-images-dragon_stable_goal
+  rotate: false
+  xy: 243, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+dragon_stable
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+dragon_stable_goal
+  rotate: false
+  xy: 243, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

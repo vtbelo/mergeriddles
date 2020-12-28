@@ -1,0 +1,622 @@
+
+tile_shop-538776575b.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+layer_1
+  rotate: false
+  xy: 619, 1
+  size: 264, 191
+  orig: 264, 191
+  offset: 0, 0
+  index: -1
+layer_2
+  rotate: false
+  xy: 1, 913
+  size: 174, 93
+  orig: 174, 93
+  offset: 0, 0
+  index: -1
+layer_3
+  rotate: false
+  xy: 314, 363
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+layer_4
+  rotate: false
+  xy: 314, 341
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+shop_coins_light
+  rotate: false
+  xy: 844, 791
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+shop_coins_light_sparkles
+  rotate: false
+  xy: 500, 463
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+tile_shop-buttons-small_green_button
+  rotate: false
+  xy: 922, 557
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+tile_shop-buttons-small_green_button_on
+  rotate: false
+  xy: 844, 718
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+tile_shop-epic_pack
+  rotate: false
+  xy: 1, 1
+  size: 330, 296
+  orig: 330, 296
+  offset: 0, 0
+  index: -1
+tile_shop-honey_pack
+  rotate: false
+  xy: 1, 299
+  size: 311, 234
+  orig: 311, 234
+  offset: 0, 0
+  index: -1
+tile_shop-jam_pack
+  rotate: false
+  xy: 698, 194
+  size: 248, 145
+  orig: 248, 145
+  offset: 0, 0
+  index: -1
+tile_shop-level-0
+  rotate: false
+  xy: 500, 502
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+tile_shop-level-1
+  rotate: false
+  xy: 265, 765
+  size: 12, 44
+  orig: 12, 44
+  offset: 0, 0
+  index: -1
+tile_shop-level-2
+  rotate: false
+  xy: 995, 630
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+tile_shop-level-3
+  rotate: false
+  xy: 995, 676
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+tile_shop-level-4
+  rotate: false
+  xy: 500, 548
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+tile_shop-level-5
+  rotate: false
+  xy: 948, 175
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+tile_shop-level-6
+  rotate: false
+  xy: 265, 850
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+tile_shop-level-7
+  rotate: false
+  xy: 948, 221
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+tile_shop-level-8
+  rotate: false
+  xy: 978, 175
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+tile_shop-level-9
+  rotate: false
+  xy: 994, 722
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+tile_shop-life_5
+  rotate: false
+  xy: 1, 535
+  size: 285, 186
+  orig: 285, 186
+  offset: 0, 0
+  index: -1
+tile_shop-life_friends
+  rotate: false
+  xy: 333, 285
+  size: 203, 176
+  orig: 203, 176
+  offset: 0, 0
+  index: -1
+tile_shop-life_infinity
+  rotate: false
+  xy: 1, 723
+  size: 262, 188
+  orig: 262, 188
+  offset: 0, 0
+  index: -1
+tile_shop-lottery-lottery_en
+  rotate: false
+  xy: 892, 473
+  size: 130, 82
+  orig: 130, 82
+  offset: 0, 0
+  index: -1
+tile_shop-lottery-lottery_ru
+  rotate: false
+  xy: 681, 554
+  size: 130, 82
+  orig: 130, 82
+  offset: 0, 0
+  index: -1
+tile_shop-lottery-ok_lottery
+  rotate: false
+  xy: 707, 638
+  size: 130, 82
+  orig: 130, 82
+  offset: 0, 0
+  index: -1
+tile_shop-lottery-ok_lottery_10000
+  rotate: false
+  xy: 687, 468
+  size: 132, 84
+  orig: 132, 84
+  offset: 0, 0
+  index: -1
+tile_shop-lottery-vk_lottery
+  rotate: false
+  xy: 917, 630
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+tile_shop-menubar-exp
+  rotate: false
+  xy: 813, 557
+  size: 107, 68
+  orig: 107, 68
+  offset: 0, 0
+  index: -1
+tile_shop-more_button
+  rotate: false
+  xy: 721, 845
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-cell
+  rotate: false
+  xy: 885, 1
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-cell_small
+  rotate: false
+  xy: 925, 708
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-color
+  rotate: false
+  xy: 892, 341
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-color_small
+  rotate: false
+  xy: 925, 750
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-exp
+  rotate: false
+  xy: 468, 595
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-gold
+  rotate: false
+  xy: 460, 727
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-gold_small
+  rotate: false
+  xy: 925, 792
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-heroes
+  rotate: false
+  xy: 288, 718
+  size: 170, 130
+  orig: 170, 130
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-heroes_small
+  rotate: false
+  xy: 885, 133
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-life_unlim
+  rotate: false
+  xy: 314, 463
+  size: 184, 130
+  orig: 184, 130
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-life_unlim_small
+  rotate: false
+  xy: 947, 133
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-line
+  rotate: false
+  xy: 455, 859
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-line_small
+  rotate: false
+  xy: 717, 963
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-moves
+  rotate: false
+  xy: 592, 727
+  size: 127, 130
+  orig: 127, 130
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-moves_small
+  rotate: false
+  xy: 759, 963
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-multicolor
+  rotate: false
+  xy: 587, 859
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-multicolor_small
+  rotate: false
+  xy: 800, 963
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+tile_shop-reward_icons-stars
+  rotate: false
+  xy: 297, 850
+  size: 156, 130
+  orig: 156, 130
+  offset: 0, 0
+  index: -1
+tile_shop-shop-0
+  rotate: false
+  xy: 967, 708
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-1
+  rotate: false
+  xy: 314, 299
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-2
+  rotate: false
+  xy: 288, 535
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-3
+  rotate: false
+  xy: 967, 750
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-4
+  rotate: false
+  xy: 967, 792
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-5
+  rotate: false
+  xy: 839, 845
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-6
+  rotate: false
+  xy: 839, 887
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-7
+  rotate: false
+  xy: 913, 834
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-8
+  rotate: false
+  xy: 863, 832
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-9
+  rotate: false
+  xy: 888, 834
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop-x
+  rotate: false
+  xy: 265, 723
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+tile_shop-shop_best_seller
+  rotate: false
+  xy: 538, 285
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+tile_shop-shop_bg_white
+  rotate: false
+  xy: 721, 722
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+tile_shop-shop_coins_500
+  rotate: false
+  xy: 600, 547
+  size: 79, 96
+  orig: 79, 96
+  offset: 0, 0
+  index: -1
+tile_shop-shop_coins_1800
+  rotate: false
+  xy: 839, 627
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+tile_shop-shop_coins_3800
+  rotate: false
+  xy: 177, 913
+  size: 118, 104
+  orig: 118, 104
+  offset: 0, 0
+  index: -1
+tile_shop-shop_coins_6000
+  rotate: false
+  xy: 538, 436
+  size: 147, 109
+  orig: 147, 109
+  offset: 0, 0
+  index: -1
+tile_shop-shop_coins_25000
+  rotate: false
+  xy: 288, 595
+  size: 178, 121
+  orig: 178, 121
+  offset: 0, 0
+  index: -1
+tile_shop-shop_inner_bg
+  rotate: false
+  xy: 600, 645
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+tile_shop-shop_purple_ribbon
+  rotate: false
+  xy: 333, 196
+  size: 363, 87
+  orig: 363, 87
+  offset: 0, 0
+  index: -1
+tile_shop-socialicons-ok_icon
+  rotate: false
+  xy: 821, 468
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+tile_shop-sweet_pack
+  rotate: false
+  xy: 689, 341
+  size: 201, 125
+  orig: 201, 125
+  offset: 0, 0
+  index: -1
+tile_shop-tasty_pack
+  rotate: false
+  xy: 333, 1
+  size: 284, 193
+  orig: 284, 193
+  offset: 0, 0
+  index: -1
+tile_shop-timer-0
+  rotate: false
+  xy: 297, 982
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-1
+  rotate: false
+  xy: 436, 982
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-2
+  rotate: false
+  xy: 948, 267
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-3
+  rotate: false
+  xy: 978, 221
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-4
+  rotate: false
+  xy: 333, 982
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-5
+  rotate: false
+  xy: 978, 264
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-6
+  rotate: false
+  xy: 403, 982
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-7
+  rotate: false
+  xy: 992, 811
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-8
+  rotate: false
+  xy: 896, 791
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-9
+  rotate: false
+  xy: 992, 768
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-colon
+  rotate: false
+  xy: 1003, 557
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+tile_shop-timer-slash
+  rotate: false
+  xy: 937, 834
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+tile_shop-timer-x
+  rotate: false
+  xy: 368, 982
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+unlim_8
+  rotate: false
+  xy: 1, 913
+  size: 174, 93
+  orig: 174, 93
+  offset: 0, 0
+  index: -1
+unlim_trace
+  rotate: false
+  xy: 314, 363
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+unlimspark
+  rotate: false
+  xy: 314, 341
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1

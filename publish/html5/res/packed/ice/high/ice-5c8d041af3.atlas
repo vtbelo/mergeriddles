@@ -1,0 +1,34 @@
+
+ice-5c8d041af3.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+drop
+  rotate: false
+  xy: 1, 1
+  size: 137, 135
+  orig: 137, 135
+  offset: 0, 0
+  index: -1
+honey
+  rotate: false
+  xy: 1, 138
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pot
+  rotate: false
+  xy: 123, 138
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pothoney
+  rotate: false
+  xy: 1, 260
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

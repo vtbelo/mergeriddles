@@ -1,0 +1,104 @@
+
+daily_cup-3428669380.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_cup
+  rotate: false
+  xy: 1, 1
+  size: 307, 261
+  orig: 307, 261
+  offset: 0, 0
+  index: -1
+bonus_star
+  rotate: false
+  xy: 310, 1
+  size: 120, 116
+  orig: 120, 116
+  offset: 0, 0
+  index: -1
+daily_cup-images-bonus_cup
+  rotate: false
+  xy: 1, 1
+  size: 307, 261
+  orig: 307, 261
+  offset: 0, 0
+  index: -1
+daily_cup-images-daily_cup_table_bg
+  rotate: false
+  xy: 432, 76
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+daily_cup_table_bg
+  rotate: false
+  xy: 432, 76
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+level_finished
+  rotate: false
+  xy: 310, 212
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+level_locked
+  rotate: false
+  xy: 405, 244
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+level_open
+  rotate: false
+  xy: 95, 332
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+piggy_arrow
+  rotate: false
+  xy: 310, 119
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+piggy_full_blik
+  rotate: false
+  xy: 481, 136
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+piggy_plus
+  rotate: false
+  xy: 432, 1
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+piggy_star1
+  rotate: false
+  xy: 421, 136
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+piggy_star2
+  rotate: false
+  xy: 421, 196
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+score_rays
+  rotate: false
+  xy: 1, 332
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1

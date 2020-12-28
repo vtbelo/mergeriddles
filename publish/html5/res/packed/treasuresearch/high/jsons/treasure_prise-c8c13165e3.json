@@ -1,0 +1,420 @@
+{
+	"skeleton": {
+		"hash": "24NrcFKEAmlr7LZmihllxV4OWRE",
+		"spine": "3.7.94",
+		"width": 143,
+		"height": 139.79,
+		"images": "./images/",
+		"audio": "C:/Users/labcomp i5/YandexDisk/match3_proto/flappy_bird_game/flappy_prizes/flappy_prize_blue"
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "prize_closed",
+			"parent": "root",
+			"x": 0.02,
+			"y": -15.11
+		},
+		{
+			"name": "pr_smoke",
+			"parent": "root",
+			"x": 36.53,
+			"y": 30.86
+		},
+		{
+			"name": "pr_smoke2",
+			"parent": "root",
+			"x": -24.67,
+			"y": 34.68
+		},
+		{
+			"name": "prize_open_top",
+			"parent": "root",
+			"x": -5.87,
+			"y": 30.85
+		}
+	],
+	"slots": [
+		{
+			"name": "prize_open",
+			"bone": "prize_closed",
+			"attachment": "prize_open_r"
+		},
+		{
+			"name": "prize_open_top",
+			"bone": "prize_open_top",
+			"attachment": "prize_open_top"
+		},
+		{
+			"name": "pr_smoke",
+			"bone": "pr_smoke",
+			"attachment": "pr_smoke"
+		},
+		{
+			"name": "pr_smoke2",
+			"bone": "pr_smoke2",
+			"attachment": "pr_smoke"
+		}
+	],
+	"skins": {
+		"default": {
+			"pr_smoke": {
+				"pr_smoke": {
+					"x": 1.77,
+					"y": -0.61,
+					"width": 54,
+					"height": 44
+				}
+			},
+			"pr_smoke2": {
+				"pr_smoke": {
+					"x": 1.77,
+					"y": -0.61,
+					"width": 54,
+					"height": 44
+				}
+			},
+			"prize_open": {
+				"prize_closed_r": {
+					"x": 0.48,
+					"y": 0.61,
+					"width": 145,
+					"height": 137
+				},
+				"prize_open_r": {
+					"x": 0.48,
+					"y": -9.44,
+					"width": 137,
+					"height": 100
+				}
+			},
+			"prize_open_top": {
+				"prize_open_top": {
+					"x": 5.79,
+					"y": -9.61,
+					"width": 143,
+					"height": 88
+				}
+			}
+		}
+	},
+	"animations": {
+		"red_idle_closed": {
+			"slots": {
+				"prize_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "prize_closed_r"
+						}
+					]
+				},
+				"prize_open_top": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"pr_smoke": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -24.12,
+							"y": -14.34
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"pr_smoke2": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -24.12,
+							"y": -14.34
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0
+						}
+					]
+				}
+			}
+		},
+		"red_idle_open": {
+			"slots": {
+				"prize_open_top": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"pr_smoke": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -24.12,
+							"y": -14.34
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"pr_smoke2": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -24.12,
+							"y": -14.34
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0
+						}
+					]
+				}
+			}
+		},
+		"red_open": {
+			"slots": {
+				"prize_open": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "prize_closed_r"
+						},
+						{
+							"time": 0.2333,
+							"name": "prize_open_r"
+						}
+					]
+				},
+				"prize_open_top": {
+					"color": [
+						{
+							"time": 0.3333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.4,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.2333,
+							"name": "prize_open_top"
+						}
+					]
+				}
+			},
+			"bones": {
+				"prize_closed": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.1,
+							"x": 1.044,
+							"y": 0.901
+						},
+						{
+							"time": 0.2333,
+							"x": 1.047,
+							"y": 1.156
+						},
+						{
+							"time": 0.4,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.6667,
+							"x": 1.019,
+							"y": 0.968
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"pr_smoke": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.9,
+							"angle": -73.7
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -24.12,
+							"y": -14.34,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.2,
+							"x": -24.12,
+							"y": -14.34
+						},
+						{
+							"time": 0.6333,
+							"x": -13.97,
+							"y": 10.61
+						},
+						{
+							"time": 1,
+							"x": -19.89,
+							"y": 20.34
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.2,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.2667,
+							"x": 1.151,
+							"y": 1.151
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"pr_smoke2": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.9,
+							"angle": 80.68
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -24.12,
+							"y": -14.34
+						},
+						{
+							"time": 0.2,
+							"x": 5.63,
+							"y": -10.52
+						},
+						{
+							"time": 0.6333,
+							"x": 4.3,
+							"y": 2.54
+						},
+						{
+							"time": 1,
+							"x": -7.57,
+							"y": 14.82
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.2,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.2667,
+							"x": 1.151,
+							"y": 1.151
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"prize_open_top": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.4,
+							"x": 0,
+							"y": 46.87
+						}
+					]
+				}
+			}
+		}
+	}
+}

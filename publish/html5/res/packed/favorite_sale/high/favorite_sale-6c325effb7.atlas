@@ -1,0 +1,48 @@
+
+favorite_sale-6c325effb7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+favorite_sale-bonus_icon
+  rotate: false
+  xy: 1, 1
+  size: 254, 245
+  orig: 254, 245
+  offset: 0, 0
+  index: -1
+favorite_sale-only_now
+  rotate: false
+  xy: 257, 1
+  size: 153, 157
+  orig: 153, 157
+  offset: 0, 0
+  index: -1
+favorite_sale-plus_big
+  rotate: false
+  xy: 257, 160
+  size: 122, 131
+  orig: 122, 131
+  offset: 0, 0
+  index: -1
+story_element_light
+  rotate: false
+  xy: 412, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+story_light
+  rotate: false
+  xy: 381, 160
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+yellow_object_search_box_star
+  rotate: false
+  xy: 463, 1
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
