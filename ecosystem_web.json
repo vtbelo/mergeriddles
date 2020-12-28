@@ -19,7 +19,7 @@
       "ref"  : "origin/main",
       "repo" : "git@github.com:vtbelo/mergeriddles.git",
       "path" : "/var/www/html/release/mergeriddles",
-      "post-deploy" : "cd cleverapps && git pull && cd - && node /root/cleverapps/common/bots/sendmsg.js mergeriddles"
+      "post-deploy" : "cd cleverapps && git pull && cd -"
     }
   }
 }
