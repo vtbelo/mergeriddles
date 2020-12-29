@@ -1,0 +1,41 @@
+
+loading_scene-96dcf7623b.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo_runes_bg
+  rotate: false
+  xy: 1, 1
+  size: 637, 317
+  orig: 637, 317
+  offset: 0, 0
+  index: -1
+logo_runes_crown
+  rotate: false
+  xy: 466, 320
+  size: 186, 153
+  orig: 186, 153
+  offset: 0, 0
+  index: -1
+logo_runes_heroes
+  rotate: false
+  xy: 1, 320
+  size: 463, 180
+  orig: 463, 180
+  offset: 0, 0
+  index: -1
+logo_runes_ofm3
+  rotate: false
+  xy: 654, 1
+  size: 265, 81
+  orig: 265, 81
+  offset: 0, 0
+  index: -1
+logo_runes_star
+  rotate: false
+  xy: 466, 475
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
