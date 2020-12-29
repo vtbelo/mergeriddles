@@ -1,4 +1,10 @@
 {
+    "1.0.3": {
+        "event": "2020-12-29",
+        "cleverapps": "9e479ab92856240045825eeeaf14601cbc791bc8",
+        "mergeriddles": "6d195d9acdd6416c63ed73e10b67842bbfbb8fe5",
+        "match3": "b6e2d60cad8cbbef01b5e8675b36354544dba6fc"
+    },
     "1.0.2": {
         "event": "2020-12-29",
         "cleverapps": "3ce1e99c8d83b3418ab599f3d87a7e709c536748",
